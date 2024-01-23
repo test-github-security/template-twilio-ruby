@@ -1,8 +1,14 @@
+  require 'simplecov'
+  SimpleCov.start do
+    enable_coverage :branch
+  end
 if RUBY_VERSION.start_with?('3.0')
   require 'simplecov'
   require 'simplecov_json_formatter'
   SimpleCov.formatter = SimpleCov::Formatter::JSONFormatter
-  SimpleCov.start
+  SimpleCov.start do
+    enable_coverage :branch
+  end 
 end
 
 $LOAD_PATH.unshift(File.join(File.dirname(__FILE__), '..', 'lib'))
