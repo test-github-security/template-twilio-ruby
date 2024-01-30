@@ -1,7 +1,11 @@
-  require 'simplecov'
-  SimpleCov.start do
-    enable_coverage :branch
-  end
+require 'simplecov'
+require 'simplecov-json'
+SimpleCov.formatters = [
+  SimpleCov::Formatter::HTMLFormatter,
+  SimpleCov::Formatter::JSONFormatter,
+]
+SimpleCov.start 
+
 if RUBY_VERSION.start_with?('3.0')
   require 'simplecov'
   require 'simplecov_json_formatter'
