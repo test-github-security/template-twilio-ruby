@@ -1,6 +1,7 @@
 source 'https://rubygems.org'
 gem 'rspec', :require => false, :group => :test
 gem 'simplecov-json' , :require => false, :group => :test 
+gem 'simplecov_json_formatter' , :require => false, :group => :test
 gem 'simplecov', '~> 0.18.0' , :require => false, :group => :test
 gemspec
 

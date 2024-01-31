@@ -58,6 +58,7 @@ GEM
     simplecov-json (0.2.3)
       json
       simplecov
+    simplecov_json_formatter (0.1.4)
     uri (0.13.0)
     yard (0.9.34)
 
@@ -79,6 +80,7 @@ DEPENDENCIES
   rspec
   simplecov (~> 0.18.0)
   simplecov-json
+  simplecov_json_formatter
   twilio-ruby!
   yard (~> 0.9.9)
 
