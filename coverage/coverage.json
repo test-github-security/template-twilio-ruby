@@ -1,6 +1,6 @@
 {
   "meta": {
-    "simplecov_version": "0.21.2"
+    "simplecov_version": "0.20.0"
   },
   "coverage": {
     "/Users/ykulkarni/sprints/sprint33/template-twilio-ruby/lib/rack/twilio_webhook_authentication.rb": {
