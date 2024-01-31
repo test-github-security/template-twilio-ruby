@@ -3,7 +3,7 @@
     "simplecov_version": "0.18.5"
   },
   "coverage": {
-    "/Users/ykulkarni/sprints/sprint33/template-twilio-ruby/lib/rack/twilio_webhook_authentication.rb": {
+    "lib/rack/twilio_webhook_authentication.rb": {
       "lines": [
         null,
         null,
@@ -141,7 +141,7 @@
         }
       ]
     },
-    "/Users/ykulkarni/sprints/sprint33/template-twilio-ruby/lib/twilio-ruby.rb": {
+    "lib/twilio-ruby.rb": {
       "lines": [
         null,
         null,
@@ -218,7 +218,7 @@
         }
       ]
     },
-    "/Users/ykulkarni/sprints/sprint33/template-twilio-ruby/lib/twilio-ruby/base/client_base.rb": {
+    "lib/twilio-ruby/base/client_base.rb": {
       "lines": [
         1,
         1,
@@ -459,7 +459,7 @@
         }
       ]
     },
-    "/Users/ykulkarni/sprints/sprint33/template-twilio-ruby/lib/twilio-ruby/framework/request.rb": {
+    "lib/twilio-ruby/framework/request.rb": {
       "lines": [
         null,
         null,
@@ -566,7 +566,7 @@
         }
       ]
     },
-    "/Users/ykulkarni/sprints/sprint33/template-twilio-ruby/lib/twilio-ruby/framework/response.rb": {
+    "lib/twilio-ruby/framework/response.rb": {
       "lines": [
         null,
         null,
@@ -614,7 +614,7 @@
         }
       ]
     },
-    "/Users/ykulkarni/sprints/sprint33/template-twilio-ruby/lib/twilio-ruby/framework/rest/domain.rb": {
+    "lib/twilio-ruby/framework/rest/domain.rb": {
       "lines": [
         null,
         null,
@@ -668,7 +668,7 @@
         }
       ]
     },
-    "/Users/ykulkarni/sprints/sprint33/template-twilio-ruby/lib/twilio-ruby/framework/rest/error.rb": {
+    "lib/twilio-ruby/framework/rest/error.rb": {
       "lines": [
         null,
         null,
@@ -749,7 +749,7 @@
         }
       ]
     },
-    "/Users/ykulkarni/sprints/sprint33/template-twilio-ruby/lib/twilio-ruby/framework/rest/helper.rb": {
+    "lib/twilio-ruby/framework/rest/helper.rb": {
       "lines": [
         null,
         null,
@@ -767,7 +767,7 @@
 
       ]
     },
-    "/Users/ykulkarni/sprints/sprint33/template-twilio-ruby/lib/twilio-ruby/framework/rest/obsolete_client.rb": {
+    "lib/twilio-ruby/framework/rest/obsolete_client.rb": {
       "lines": [
         null,
         null,
@@ -786,7 +786,7 @@
 
       ]
     },
-    "/Users/ykulkarni/sprints/sprint33/template-twilio-ruby/lib/twilio-ruby/framework/rest/page.rb": {
+    "lib/twilio-ruby/framework/rest/page.rb": {
       "lines": [
         null,
         null,
@@ -1003,7 +1003,7 @@
         }
       ]
     },
-    "/Users/ykulkarni/sprints/sprint33/template-twilio-ruby/lib/twilio-ruby/framework/rest/resource.rb": {
+    "lib/twilio-ruby/framework/rest/resource.rb": {
       "lines": [
         null,
         null,
@@ -1033,7 +1033,7 @@
 
       ]
     },
-    "/Users/ykulkarni/sprints/sprint33/template-twilio-ruby/lib/twilio-ruby/framework/rest/version.rb": {
+    "lib/twilio-ruby/framework/rest/version.rb": {
       "lines": [
         null,
         null,
@@ -1282,7 +1282,7 @@
         }
       ]
     },
-    "/Users/ykulkarni/sprints/sprint33/template-twilio-ruby/lib/twilio-ruby/framework/serialize.rb": {
+    "lib/twilio-ruby/framework/serialize.rb": {
       "lines": [
         null,
         null,
@@ -1549,7 +1549,7 @@
         }
       ]
     },
-    "/Users/ykulkarni/sprints/sprint33/template-twilio-ruby/lib/twilio-ruby/framework/values.rb": {
+    "lib/twilio-ruby/framework/values.rb": {
       "lines": [
         null,
         null,
@@ -1565,7 +1565,7 @@
 
       ]
     },
-    "/Users/ykulkarni/sprints/sprint33/template-twilio-ruby/lib/twilio-ruby/http.rb": {
+    "lib/twilio-ruby/http.rb": {
       "lines": [
         null,
         null,
@@ -1577,7 +1577,7 @@
 
       ]
     },
-    "/Users/ykulkarni/sprints/sprint33/template-twilio-ruby/lib/twilio-ruby/http/http_client.rb": {
+    "lib/twilio-ruby/http/http_client.rb": {
       "lines": [
         null,
         null,
@@ -1771,7 +1771,7 @@
         }
       ]
     },
-    "/Users/ykulkarni/sprints/sprint33/template-twilio-ruby/lib/twilio-ruby/jwt/access_token.rb": {
+    "lib/twilio-ruby/jwt/access_token.rb": {
       "lines": [
         null,
         null,
@@ -2231,7 +2231,7 @@
         }
       ]
     },
-    "/Users/ykulkarni/sprints/sprint33/template-twilio-ruby/lib/twilio-ruby/jwt/client_capability.rb": {
+    "lib/twilio-ruby/jwt/client_capability.rb": {
       "lines": [
         null,
         null,
@@ -2387,7 +2387,7 @@
         }
       ]
     },
-    "/Users/ykulkarni/sprints/sprint33/template-twilio-ruby/lib/twilio-ruby/jwt/jwt.rb": {
+    "lib/twilio-ruby/jwt/jwt.rb": {
       "lines": [
         null,
         null,
@@ -2488,7 +2488,7 @@
         }
       ]
     },
-    "/Users/ykulkarni/sprints/sprint33/template-twilio-ruby/lib/twilio-ruby/jwt/task_router.rb": {
+    "lib/twilio-ruby/jwt/task_router.rb": {
       "lines": [
         null,
         null,
@@ -2690,7 +2690,7 @@
         }
       ]
     },
-    "/Users/ykulkarni/sprints/sprint33/template-twilio-ruby/lib/twilio-ruby/rest.rb": {
+    "lib/twilio-ruby/rest.rb": {
       "lines": [
         null,
         null,
@@ -2722,7 +2722,7 @@
         }
       ]
     },
-    "/Users/ykulkarni/sprints/sprint33/template-twilio-ruby/lib/twilio-ruby/rest/accounts.rb": {
+    "lib/twilio-ruby/rest/accounts.rb": {
       "lines": [
         1,
         1,
@@ -2755,7 +2755,7 @@
 
       ]
     },
-    "/Users/ykulkarni/sprints/sprint33/template-twilio-ruby/lib/twilio-ruby/rest/accounts/v1.rb": {
+    "lib/twilio-ruby/rest/accounts/v1.rb": {
       "lines": [
         null,
         null,
@@ -2820,7 +2820,7 @@
 
       ]
     },
-    "/Users/ykulkarni/sprints/sprint33/template-twilio-ruby/lib/twilio-ruby/rest/accounts/v1/auth_token_promotion.rb": {
+    "lib/twilio-ruby/rest/accounts/v1/auth_token_promotion.rb": {
       "lines": [
         null,
         null,
@@ -3044,7 +3044,7 @@
         }
       ]
     },
-    "/Users/ykulkarni/sprints/sprint33/template-twilio-ruby/lib/twilio-ruby/rest/accounts/v1/credential.rb": {
+    "lib/twilio-ruby/rest/accounts/v1/credential.rb": {
       "lines": [
         null,
         null,
@@ -3227,7 +3227,7 @@
         }
       ]
     },
-    "/Users/ykulkarni/sprints/sprint33/template-twilio-ruby/lib/twilio-ruby/rest/accounts/v1/credential/aws.rb": {
+    "lib/twilio-ruby/rest/accounts/v1/credential/aws.rb": {
       "lines": [
         null,
         null,
@@ -3623,7 +3623,7 @@
         }
       ]
     },
-    "/Users/ykulkarni/sprints/sprint33/template-twilio-ruby/lib/twilio-ruby/rest/accounts/v1/credential/public_key.rb": {
+    "lib/twilio-ruby/rest/accounts/v1/credential/public_key.rb": {
       "lines": [
         null,
         null,
@@ -4019,7 +4019,7 @@
         }
       ]
     },
-    "/Users/ykulkarni/sprints/sprint33/template-twilio-ruby/lib/twilio-ruby/rest/accounts/v1/safelist.rb": {
+    "lib/twilio-ruby/rest/accounts/v1/safelist.rb": {
       "lines": [
         null,
         null,
@@ -4195,7 +4195,7 @@
 
       ]
     },
-    "/Users/ykulkarni/sprints/sprint33/template-twilio-ruby/lib/twilio-ruby/rest/accounts/v1/secondary_auth_token.rb": {
+    "lib/twilio-ruby/rest/accounts/v1/secondary_auth_token.rb": {
       "lines": [
         null,
         null,
@@ -4435,7 +4435,7 @@
         }
       ]
     },
-    "/Users/ykulkarni/sprints/sprint33/template-twilio-ruby/lib/twilio-ruby/rest/accounts_base.rb": {
+    "lib/twilio-ruby/rest/accounts_base.rb": {
       "lines": [
         null,
         null,
@@ -4480,7 +4480,7 @@
 
       ]
     },
-    "/Users/ykulkarni/sprints/sprint33/template-twilio-ruby/lib/twilio-ruby/rest/api.rb": {
+    "lib/twilio-ruby/rest/api.rb": {
       "lines": [
         1,
         1,
@@ -4725,7 +4725,7 @@
 
       ]
     },
-    "/Users/ykulkarni/sprints/sprint33/template-twilio-ruby/lib/twilio-ruby/rest/api/v2010.rb": {
+    "lib/twilio-ruby/rest/api/v2010.rb": {
       "lines": [
         null,
         null,
@@ -4887,7 +4887,7 @@
         }
       ]
     },
-    "/Users/ykulkarni/sprints/sprint33/template-twilio-ruby/lib/twilio-ruby/rest/api/v2010/account.rb": {
+    "lib/twilio-ruby/rest/api/v2010/account.rb": {
       "lines": [
         null,
         null,
@@ -6590,7 +6590,7 @@
         }
       ]
     },
-    "/Users/ykulkarni/sprints/sprint33/template-twilio-ruby/lib/twilio-ruby/rest/api/v2010/account/address.rb": {
+    "lib/twilio-ruby/rest/api/v2010/account/address.rb": {
       "lines": [
         null,
         null,
@@ -7178,7 +7178,7 @@
         }
       ]
     },
-    "/Users/ykulkarni/sprints/sprint33/template-twilio-ruby/lib/twilio-ruby/rest/api/v2010/account/address/dependent_phone_number.rb": {
+    "lib/twilio-ruby/rest/api/v2010/account/address/dependent_phone_number.rb": {
       "lines": [
         null,
         null,
@@ -7562,7 +7562,7 @@
 
       ]
     },
-    "/Users/ykulkarni/sprints/sprint33/template-twilio-ruby/lib/twilio-ruby/rest/api/v2010/account/application.rb": {
+    "lib/twilio-ruby/rest/api/v2010/account/application.rb": {
       "lines": [
         null,
         null,
@@ -8202,7 +8202,7 @@
         }
       ]
     },
-    "/Users/ykulkarni/sprints/sprint33/template-twilio-ruby/lib/twilio-ruby/rest/api/v2010/account/authorized_connect_app.rb": {
+    "lib/twilio-ruby/rest/api/v2010/account/authorized_connect_app.rb": {
       "lines": [
         null,
         null,
@@ -8540,7 +8540,7 @@
         }
       ]
     },
-    "/Users/ykulkarni/sprints/sprint33/template-twilio-ruby/lib/twilio-ruby/rest/api/v2010/account/available_phone_number_country.rb": {
+    "lib/twilio-ruby/rest/api/v2010/account/available_phone_number_country.rb": {
       "lines": [
         null,
         null,
@@ -9074,7 +9074,7 @@
         }
       ]
     },
-    "/Users/ykulkarni/sprints/sprint33/template-twilio-ruby/lib/twilio-ruby/rest/api/v2010/account/available_phone_number_country/local.rb": {
+    "lib/twilio-ruby/rest/api/v2010/account/available_phone_number_country/local.rb": {
       "lines": [
         null,
         null,
@@ -9475,7 +9475,7 @@
 
       ]
     },
-    "/Users/ykulkarni/sprints/sprint33/template-twilio-ruby/lib/twilio-ruby/rest/api/v2010/account/available_phone_number_country/machine_to_machine.rb": {
+    "lib/twilio-ruby/rest/api/v2010/account/available_phone_number_country/machine_to_machine.rb": {
       "lines": [
         null,
         null,
@@ -9876,7 +9876,7 @@
 
       ]
     },
-    "/Users/ykulkarni/sprints/sprint33/template-twilio-ruby/lib/twilio-ruby/rest/api/v2010/account/available_phone_number_country/mobile.rb": {
+    "lib/twilio-ruby/rest/api/v2010/account/available_phone_number_country/mobile.rb": {
       "lines": [
         null,
         null,
@@ -10277,7 +10277,7 @@
 
       ]
     },
-    "/Users/ykulkarni/sprints/sprint33/template-twilio-ruby/lib/twilio-ruby/rest/api/v2010/account/available_phone_number_country/national.rb": {
+    "lib/twilio-ruby/rest/api/v2010/account/available_phone_number_country/national.rb": {
       "lines": [
         null,
         null,
@@ -10678,7 +10678,7 @@
 
       ]
     },
-    "/Users/ykulkarni/sprints/sprint33/template-twilio-ruby/lib/twilio-ruby/rest/api/v2010/account/available_phone_number_country/shared_cost.rb": {
+    "lib/twilio-ruby/rest/api/v2010/account/available_phone_number_country/shared_cost.rb": {
       "lines": [
         null,
         null,
@@ -11079,7 +11079,7 @@
 
       ]
     },
-    "/Users/ykulkarni/sprints/sprint33/template-twilio-ruby/lib/twilio-ruby/rest/api/v2010/account/available_phone_number_country/toll_free.rb": {
+    "lib/twilio-ruby/rest/api/v2010/account/available_phone_number_country/toll_free.rb": {
       "lines": [
         null,
         null,
@@ -11480,7 +11480,7 @@
 
       ]
     },
-    "/Users/ykulkarni/sprints/sprint33/template-twilio-ruby/lib/twilio-ruby/rest/api/v2010/account/available_phone_number_country/voip.rb": {
+    "lib/twilio-ruby/rest/api/v2010/account/available_phone_number_country/voip.rb": {
       "lines": [
         null,
         null,
@@ -11881,7 +11881,7 @@
 
       ]
     },
-    "/Users/ykulkarni/sprints/sprint33/template-twilio-ruby/lib/twilio-ruby/rest/api/v2010/account/balance.rb": {
+    "lib/twilio-ruby/rest/api/v2010/account/balance.rb": {
       "lines": [
         null,
         null,
@@ -12031,7 +12031,7 @@
 
       ]
     },
-    "/Users/ykulkarni/sprints/sprint33/template-twilio-ruby/lib/twilio-ruby/rest/api/v2010/account/call.rb": {
+    "lib/twilio-ruby/rest/api/v2010/account/call.rb": {
       "lines": [
         null,
         null,
@@ -13272,7 +13272,7 @@
         }
       ]
     },
-    "/Users/ykulkarni/sprints/sprint33/template-twilio-ruby/lib/twilio-ruby/rest/api/v2010/account/call/event.rb": {
+    "lib/twilio-ruby/rest/api/v2010/account/call/event.rb": {
       "lines": [
         null,
         null,
@@ -13488,7 +13488,7 @@
 
       ]
     },
-    "/Users/ykulkarni/sprints/sprint33/template-twilio-ruby/lib/twilio-ruby/rest/api/v2010/account/call/feedback.rb": {
+    "lib/twilio-ruby/rest/api/v2010/account/call/feedback.rb": {
       "lines": [
         null,
         null,
@@ -13782,7 +13782,7 @@
         }
       ]
     },
-    "/Users/ykulkarni/sprints/sprint33/template-twilio-ruby/lib/twilio-ruby/rest/api/v2010/account/call/feedback_summary.rb": {
+    "lib/twilio-ruby/rest/api/v2010/account/call/feedback_summary.rb": {
       "lines": [
         null,
         null,
@@ -14152,7 +14152,7 @@
         }
       ]
     },
-    "/Users/ykulkarni/sprints/sprint33/template-twilio-ruby/lib/twilio-ruby/rest/api/v2010/account/call/notification.rb": {
+    "lib/twilio-ruby/rest/api/v2010/account/call/notification.rb": {
       "lines": [
         null,
         null,
@@ -14581,7 +14581,7 @@
         }
       ]
     },
-    "/Users/ykulkarni/sprints/sprint33/template-twilio-ruby/lib/twilio-ruby/rest/api/v2010/account/call/payment.rb": {
+    "lib/twilio-ruby/rest/api/v2010/account/call/payment.rb": {
       "lines": [
         null,
         null,
@@ -14923,7 +14923,7 @@
         }
       ]
     },
-    "/Users/ykulkarni/sprints/sprint33/template-twilio-ruby/lib/twilio-ruby/rest/api/v2010/account/call/recording.rb": {
+    "lib/twilio-ruby/rest/api/v2010/account/call/recording.rb": {
       "lines": [
         null,
         null,
@@ -15470,7 +15470,7 @@
         }
       ]
     },
-    "/Users/ykulkarni/sprints/sprint33/template-twilio-ruby/lib/twilio-ruby/rest/api/v2010/account/call/siprec.rb": {
+    "lib/twilio-ruby/rest/api/v2010/account/call/siprec.rb": {
       "lines": [
         null,
         null,
@@ -16360,7 +16360,7 @@
         }
       ]
     },
-    "/Users/ykulkarni/sprints/sprint33/template-twilio-ruby/lib/twilio-ruby/rest/api/v2010/account/call/stream.rb": {
+    "lib/twilio-ruby/rest/api/v2010/account/call/stream.rb": {
       "lines": [
         null,
         null,
@@ -17250,7 +17250,7 @@
         }
       ]
     },
-    "/Users/ykulkarni/sprints/sprint33/template-twilio-ruby/lib/twilio-ruby/rest/api/v2010/account/call/user_defined_message.rb": {
+    "lib/twilio-ruby/rest/api/v2010/account/call/user_defined_message.rb": {
       "lines": [
         null,
         null,
@@ -17420,7 +17420,7 @@
 
       ]
     },
-    "/Users/ykulkarni/sprints/sprint33/template-twilio-ruby/lib/twilio-ruby/rest/api/v2010/account/call/user_defined_message_subscription.rb": {
+    "lib/twilio-ruby/rest/api/v2010/account/call/user_defined_message_subscription.rb": {
       "lines": [
         null,
         null,
@@ -17677,7 +17677,7 @@
         }
       ]
     },
-    "/Users/ykulkarni/sprints/sprint33/template-twilio-ruby/lib/twilio-ruby/rest/api/v2010/account/conference.rb": {
+    "lib/twilio-ruby/rest/api/v2010/account/conference.rb": {
       "lines": [
         null,
         null,
@@ -18263,7 +18263,7 @@
         }
       ]
     },
-    "/Users/ykulkarni/sprints/sprint33/template-twilio-ruby/lib/twilio-ruby/rest/api/v2010/account/conference/participant.rb": {
+    "lib/twilio-ruby/rest/api/v2010/account/conference/participant.rb": {
       "lines": [
         null,
         null,
@@ -18944,7 +18944,7 @@
         }
       ]
     },
-    "/Users/ykulkarni/sprints/sprint33/template-twilio-ruby/lib/twilio-ruby/rest/api/v2010/account/conference/recording.rb": {
+    "lib/twilio-ruby/rest/api/v2010/account/conference/recording.rb": {
       "lines": [
         null,
         null,
@@ -19448,7 +19448,7 @@
         }
       ]
     },
-    "/Users/ykulkarni/sprints/sprint33/template-twilio-ruby/lib/twilio-ruby/rest/api/v2010/account/connect_app.rb": {
+    "lib/twilio-ruby/rest/api/v2010/account/connect_app.rb": {
       "lines": [
         null,
         null,
@@ -19899,7 +19899,7 @@
         }
       ]
     },
-    "/Users/ykulkarni/sprints/sprint33/template-twilio-ruby/lib/twilio-ruby/rest/api/v2010/account/incoming_phone_number.rb": {
+    "lib/twilio-ruby/rest/api/v2010/account/incoming_phone_number.rb": {
       "lines": [
         null,
         null,
@@ -20801,7 +20801,7 @@
         }
       ]
     },
-    "/Users/ykulkarni/sprints/sprint33/template-twilio-ruby/lib/twilio-ruby/rest/api/v2010/account/incoming_phone_number/assigned_add_on.rb": {
+    "lib/twilio-ruby/rest/api/v2010/account/incoming_phone_number/assigned_add_on.rb": {
       "lines": [
         null,
         null,
@@ -21266,7 +21266,7 @@
         }
       ]
     },
-    "/Users/ykulkarni/sprints/sprint33/template-twilio-ruby/lib/twilio-ruby/rest/api/v2010/account/incoming_phone_number/assigned_add_on/assigned_add_on_extension.rb": {
+    "lib/twilio-ruby/rest/api/v2010/account/incoming_phone_number/assigned_add_on/assigned_add_on_extension.rb": {
       "lines": [
         null,
         null,
@@ -21621,7 +21621,7 @@
         }
       ]
     },
-    "/Users/ykulkarni/sprints/sprint33/template-twilio-ruby/lib/twilio-ruby/rest/api/v2010/account/incoming_phone_number/local.rb": {
+    "lib/twilio-ruby/rest/api/v2010/account/incoming_phone_number/local.rb": {
       "lines": [
         null,
         null,
@@ -22171,7 +22171,7 @@
 
       ]
     },
-    "/Users/ykulkarni/sprints/sprint33/template-twilio-ruby/lib/twilio-ruby/rest/api/v2010/account/incoming_phone_number/mobile.rb": {
+    "lib/twilio-ruby/rest/api/v2010/account/incoming_phone_number/mobile.rb": {
       "lines": [
         null,
         null,
@@ -22721,7 +22721,7 @@
 
       ]
     },
-    "/Users/ykulkarni/sprints/sprint33/template-twilio-ruby/lib/twilio-ruby/rest/api/v2010/account/incoming_phone_number/toll_free.rb": {
+    "lib/twilio-ruby/rest/api/v2010/account/incoming_phone_number/toll_free.rb": {
       "lines": [
         null,
         null,
@@ -23271,7 +23271,7 @@
 
       ]
     },
-    "/Users/ykulkarni/sprints/sprint33/template-twilio-ruby/lib/twilio-ruby/rest/api/v2010/account/key.rb": {
+    "lib/twilio-ruby/rest/api/v2010/account/key.rb": {
       "lines": [
         null,
         null,
@@ -23631,7 +23631,7 @@
         }
       ]
     },
-    "/Users/ykulkarni/sprints/sprint33/template-twilio-ruby/lib/twilio-ruby/rest/api/v2010/account/message.rb": {
+    "lib/twilio-ruby/rest/api/v2010/account/message.rb": {
       "lines": [
         null,
         null,
@@ -24331,7 +24331,7 @@
         }
       ]
     },
-    "/Users/ykulkarni/sprints/sprint33/template-twilio-ruby/lib/twilio-ruby/rest/api/v2010/account/message/feedback.rb": {
+    "lib/twilio-ruby/rest/api/v2010/account/message/feedback.rb": {
       "lines": [
         null,
         null,
@@ -24512,7 +24512,7 @@
 
       ]
     },
-    "/Users/ykulkarni/sprints/sprint33/template-twilio-ruby/lib/twilio-ruby/rest/api/v2010/account/message/media.rb": {
+    "lib/twilio-ruby/rest/api/v2010/account/message/media.rb": {
       "lines": [
         null,
         null,
@@ -24881,7 +24881,7 @@
         }
       ]
     },
-    "/Users/ykulkarni/sprints/sprint33/template-twilio-ruby/lib/twilio-ruby/rest/api/v2010/account/new_key.rb": {
+    "lib/twilio-ruby/rest/api/v2010/account/new_key.rb": {
       "lines": [
         null,
         null,
@@ -25052,7 +25052,7 @@
 
       ]
     },
-    "/Users/ykulkarni/sprints/sprint33/template-twilio-ruby/lib/twilio-ruby/rest/api/v2010/account/new_signing_key.rb": {
+    "lib/twilio-ruby/rest/api/v2010/account/new_signing_key.rb": {
       "lines": [
         null,
         null,
@@ -25223,7 +25223,7 @@
 
       ]
     },
-    "/Users/ykulkarni/sprints/sprint33/template-twilio-ruby/lib/twilio-ruby/rest/api/v2010/account/notification.rb": {
+    "lib/twilio-ruby/rest/api/v2010/account/notification.rb": {
       "lines": [
         null,
         null,
@@ -25648,7 +25648,7 @@
         }
       ]
     },
-    "/Users/ykulkarni/sprints/sprint33/template-twilio-ruby/lib/twilio-ruby/rest/api/v2010/account/outgoing_caller_id.rb": {
+    "lib/twilio-ruby/rest/api/v2010/account/outgoing_caller_id.rb": {
       "lines": [
         null,
         null,
@@ -26041,7 +26041,7 @@
         }
       ]
     },
-    "/Users/ykulkarni/sprints/sprint33/template-twilio-ruby/lib/twilio-ruby/rest/api/v2010/account/queue.rb": {
+    "lib/twilio-ruby/rest/api/v2010/account/queue.rb": {
       "lines": [
         null,
         null,
@@ -26564,7 +26564,7 @@
         }
       ]
     },
-    "/Users/ykulkarni/sprints/sprint33/template-twilio-ruby/lib/twilio-ruby/rest/api/v2010/account/queue/member.rb": {
+    "lib/twilio-ruby/rest/api/v2010/account/queue/member.rb": {
       "lines": [
         null,
         null,
@@ -26957,7 +26957,7 @@
         }
       ]
     },
-    "/Users/ykulkarni/sprints/sprint33/template-twilio-ruby/lib/twilio-ruby/rest/api/v2010/account/recording.rb": {
+    "lib/twilio-ruby/rest/api/v2010/account/recording.rb": {
       "lines": [
         null,
         null,
@@ -27585,7 +27585,7 @@
         }
       ]
     },
-    "/Users/ykulkarni/sprints/sprint33/template-twilio-ruby/lib/twilio-ruby/rest/api/v2010/account/recording/add_on_result.rb": {
+    "lib/twilio-ruby/rest/api/v2010/account/recording/add_on_result.rb": {
       "lines": [
         null,
         null,
@@ -28020,7 +28020,7 @@
         }
       ]
     },
-    "/Users/ykulkarni/sprints/sprint33/template-twilio-ruby/lib/twilio-ruby/rest/api/v2010/account/recording/add_on_result/payload.rb": {
+    "lib/twilio-ruby/rest/api/v2010/account/recording/add_on_result/payload.rb": {
       "lines": [
         null,
         null,
@@ -28403,7 +28403,7 @@
         }
       ]
     },
-    "/Users/ykulkarni/sprints/sprint33/template-twilio-ruby/lib/twilio-ruby/rest/api/v2010/account/recording/transcription.rb": {
+    "lib/twilio-ruby/rest/api/v2010/account/recording/transcription.rb": {
       "lines": [
         null,
         null,
@@ -28796,7 +28796,7 @@
         }
       ]
     },
-    "/Users/ykulkarni/sprints/sprint33/template-twilio-ruby/lib/twilio-ruby/rest/api/v2010/account/short_code.rb": {
+    "lib/twilio-ruby/rest/api/v2010/account/short_code.rb": {
       "lines": [
         null,
         null,
@@ -29238,7 +29238,7 @@
         }
       ]
     },
-    "/Users/ykulkarni/sprints/sprint33/template-twilio-ruby/lib/twilio-ruby/rest/api/v2010/account/signing_key.rb": {
+    "lib/twilio-ruby/rest/api/v2010/account/signing_key.rb": {
       "lines": [
         null,
         null,
@@ -29598,7 +29598,7 @@
         }
       ]
     },
-    "/Users/ykulkarni/sprints/sprint33/template-twilio-ruby/lib/twilio-ruby/rest/api/v2010/account/sip.rb": {
+    "lib/twilio-ruby/rest/api/v2010/account/sip.rb": {
       "lines": [
         null,
         null,
@@ -29824,7 +29824,7 @@
         }
       ]
     },
-    "/Users/ykulkarni/sprints/sprint33/template-twilio-ruby/lib/twilio-ruby/rest/api/v2010/account/sip/credential_list.rb": {
+    "lib/twilio-ruby/rest/api/v2010/account/sip/credential_list.rb": {
       "lines": [
         null,
         null,
@@ -30290,7 +30290,7 @@
         }
       ]
     },
-    "/Users/ykulkarni/sprints/sprint33/template-twilio-ruby/lib/twilio-ruby/rest/api/v2010/account/sip/credential_list/credential.rb": {
+    "lib/twilio-ruby/rest/api/v2010/account/sip/credential_list/credential.rb": {
       "lines": [
         null,
         null,
@@ -30702,7 +30702,7 @@
         }
       ]
     },
-    "/Users/ykulkarni/sprints/sprint33/template-twilio-ruby/lib/twilio-ruby/rest/api/v2010/account/sip/domain.rb": {
+    "lib/twilio-ruby/rest/api/v2010/account/sip/domain.rb": {
       "lines": [
         null,
         null,
@@ -31468,7 +31468,7 @@
         }
       ]
     },
-    "/Users/ykulkarni/sprints/sprint33/template-twilio-ruby/lib/twilio-ruby/rest/api/v2010/account/sip/domain/auth_types.rb": {
+    "lib/twilio-ruby/rest/api/v2010/account/sip/domain/auth_types.rb": {
       "lines": [
         null,
         null,
@@ -31601,7 +31601,7 @@
 
       ]
     },
-    "/Users/ykulkarni/sprints/sprint33/template-twilio-ruby/lib/twilio-ruby/rest/api/v2010/account/sip/domain/auth_types/auth_type_calls.rb": {
+    "lib/twilio-ruby/rest/api/v2010/account/sip/domain/auth_types/auth_type_calls.rb": {
       "lines": [
         null,
         null,
@@ -31795,7 +31795,7 @@
         }
       ]
     },
-    "/Users/ykulkarni/sprints/sprint33/template-twilio-ruby/lib/twilio-ruby/rest/api/v2010/account/sip/domain/auth_types/auth_type_calls/auth_calls_credential_list_mapping.rb": {
+    "lib/twilio-ruby/rest/api/v2010/account/sip/domain/auth_types/auth_type_calls/auth_calls_credential_list_mapping.rb": {
       "lines": [
         null,
         null,
@@ -32159,7 +32159,7 @@
         }
       ]
     },
-    "/Users/ykulkarni/sprints/sprint33/template-twilio-ruby/lib/twilio-ruby/rest/api/v2010/account/sip/domain/auth_types/auth_type_calls/auth_calls_ip_access_control_list_mapping.rb": {
+    "lib/twilio-ruby/rest/api/v2010/account/sip/domain/auth_types/auth_type_calls/auth_calls_ip_access_control_list_mapping.rb": {
       "lines": [
         null,
         null,
@@ -32523,7 +32523,7 @@
         }
       ]
     },
-    "/Users/ykulkarni/sprints/sprint33/template-twilio-ruby/lib/twilio-ruby/rest/api/v2010/account/sip/domain/auth_types/auth_type_registrations.rb": {
+    "lib/twilio-ruby/rest/api/v2010/account/sip/domain/auth_types/auth_type_registrations.rb": {
       "lines": [
         null,
         null,
@@ -32679,7 +32679,7 @@
         }
       ]
     },
-    "/Users/ykulkarni/sprints/sprint33/template-twilio-ruby/lib/twilio-ruby/rest/api/v2010/account/sip/domain/auth_types/auth_type_registrations/auth_registrations_credential_list_mapping.rb": {
+    "lib/twilio-ruby/rest/api/v2010/account/sip/domain/auth_types/auth_type_registrations/auth_registrations_credential_list_mapping.rb": {
       "lines": [
         null,
         null,
@@ -33043,381 +33043,7 @@
         }
       ]
     },
-    "/Users/ykulkarni/sprints/sprint33/template-twilio-ruby/lib/twilio-ruby/rest/api/v2010/account/sip/domain/credential_list_mapping.rb": {
-      "lines": [
-        null,
-        null,
-        null,
-        null,
-        null,
-        null,
-        null,
-        null,
-        null,
-        null,
-        null,
-        null,
-        null,
-        null,
-        null,
-        1,
-        1,
-        1,
-        1,
-        1,
-        1,
-        1,
-        null,
-        1,
-        null,
-        null,
-        null,
-        null,
-        1,
-        0,
-        null,
-        0,
-        0,
-        null,
-        null,
-        null,
-        null,
-        null,
-        null,
-        1,
-        null,
-        null,
-        null,
-        0,
-        null,
-        null,
-        null,
-        0,
-        0,
-        null,
-        null,
-        null,
-        null,
-        null,
-        null,
-        null,
-        null,
-        null,
-        null,
-        null,
-        null,
-        null,
-        null,
-        null,
-        null,
-        null,
-        null,
-        null,
-        1,
-        0,
-        null,
-        null,
-        null,
-        null,
-        null,
-        null,
-        null,
-        null,
-        null,
-        null,
-        null,
-        null,
-        null,
-        null,
-        null,
-        null,
-        1,
-        0,
-        null,
-        0,
-        null,
-        null,
-        0,
-        null,
-        null,
-        null,
-        null,
-        null,
-        null,
-        1,
-        0,
-        null,
-        0,
-        null,
-        0,
-        null,
-        0,
-        null,
-        null,
-        null,
-        null,
-        null,
-        null,
-        null,
-        null,
-        null,
-        1,
-        0,
-        null,
-        null,
-        null,
-        null,
-        null,
-        0,
-        null,
-        0,
-        null,
-        null,
-        null,
-        null,
-        null,
-        null,
-        null,
-        1,
-        0,
-        null,
-        null,
-        null,
-        0,
-        null,
-        null,
-        null,
-        null,
-        null,
-        1,
-        0,
-        null,
-        null,
-        null,
-        null,
-        1,
-        null,
-        null,
-        null,
-        null,
-        null,
-        null,
-        null,
-        1,
-        0,
-        null,
-        null,
-        0,
-        0,
-        null,
-        null,
-        null,
-        null,
-        null,
-        null,
-        1,
-        null,
-        0,
-        null,
-        null,
-        null,
-        null,
-        null,
-        1,
-        null,
-        0,
-        0,
-        null,
-        null,
-        null,
-        null,
-        null,
-        null,
-        null,
-        null,
-        null,
-        null,
-        null,
-        1,
-        0,
-        0,
-        null,
-        null,
-        null,
-        null,
-        1,
-        0,
-        0,
-        null,
-        null,
-        null,
-        1,
-        null,
-        null,
-        null,
-        null,
-        null,
-        null,
-        1,
-        0,
-        null,
-        null,
-        0,
-        null,
-        null,
-        null,
-        null,
-        null,
-        null,
-        1,
-        0,
-        null,
-        null,
-        null,
-        null,
-        1,
-        0,
-        null,
-        null,
-        1,
-        null,
-        null,
-        null,
-        null,
-        null,
-        null,
-        null,
-        null,
-        null,
-        1,
-        0,
-        null,
-        null,
-        null,
-        0,
-        null,
-        null,
-        null,
-        null,
-        null,
-        null,
-        null,
-        null,
-        null,
-        0,
-        0,
-        null,
-        null,
-        null,
-        null,
-        null,
-        null,
-        1,
-        0,
-        0,
-        null,
-        0,
-        null,
-        null,
-        null,
-        null,
-        1,
-        0,
-        null,
-        null,
-        null,
-        null,
-        1,
-        0,
-        null,
-        null,
-        null,
-        null,
-        1,
-        0,
-        null,
-        null,
-        null,
-        null,
-        1,
-        0,
-        null,
-        null,
-        null,
-        null,
-        1,
-        0,
-        null,
-        null,
-        null,
-        null,
-        1,
-        0,
-        null,
-        null,
-        null,
-        null,
-        1,
-        0,
-        null,
-        null,
-        null,
-        null,
-        null,
-        1,
-        null,
-        0,
-        null,
-        null,
-        null,
-        null,
-        null,
-        1,
-        null,
-        0,
-        null,
-        null,
-        null,
-        null,
-        1,
-        0,
-        0,
-        null,
-        null,
-        null,
-        null,
-        1,
-        0,
-        0,
-        null,
-        null,
-        null,
-        null,
-        null,
-        null,
-        null,
-        null,
-        null,
-        null,
-        null,
-        null
-      ],
-      "branches": [
-        {
-          "type": "else",
-          "start_line": 269,
-          "end_line": 271,
-          "coverage": 0
-        },
-        {
-          "type": "then",
-          "start_line": 270,
-          "end_line": 270,
-          "coverage": 0
-        }
-      ]
-    },
-    "/Users/ykulkarni/sprints/sprint33/template-twilio-ruby/lib/twilio-ruby/rest/api/v2010/account/sip/domain/ip_access_control_list_mapping.rb": {
+    "lib/twilio-ruby/rest/api/v2010/account/sip/domain/credential_list_mapping.rb": {
       "lines": [
         null,
         null,
@@ -33791,7 +33417,381 @@
         }
       ]
     },
-    "/Users/ykulkarni/sprints/sprint33/template-twilio-ruby/lib/twilio-ruby/rest/api/v2010/account/sip/ip_access_control_list.rb": {
+    "lib/twilio-ruby/rest/api/v2010/account/sip/domain/ip_access_control_list_mapping.rb": {
+      "lines": [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        null,
+        1,
+        null,
+        null,
+        null,
+        null,
+        1,
+        0,
+        null,
+        0,
+        0,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        1,
+        null,
+        null,
+        null,
+        0,
+        null,
+        null,
+        null,
+        0,
+        0,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        1,
+        0,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        1,
+        0,
+        null,
+        0,
+        null,
+        null,
+        0,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        1,
+        0,
+        null,
+        0,
+        null,
+        0,
+        null,
+        0,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        1,
+        0,
+        null,
+        null,
+        null,
+        null,
+        null,
+        0,
+        null,
+        0,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        1,
+        0,
+        null,
+        null,
+        null,
+        0,
+        null,
+        null,
+        null,
+        null,
+        null,
+        1,
+        0,
+        null,
+        null,
+        null,
+        null,
+        1,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        1,
+        0,
+        null,
+        null,
+        0,
+        0,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        1,
+        null,
+        0,
+        null,
+        null,
+        null,
+        null,
+        null,
+        1,
+        null,
+        0,
+        0,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        1,
+        0,
+        0,
+        null,
+        null,
+        null,
+        null,
+        1,
+        0,
+        0,
+        null,
+        null,
+        null,
+        1,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        1,
+        0,
+        null,
+        null,
+        0,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        1,
+        0,
+        null,
+        null,
+        null,
+        null,
+        1,
+        0,
+        null,
+        null,
+        1,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        1,
+        0,
+        null,
+        null,
+        null,
+        0,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        0,
+        0,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        1,
+        0,
+        0,
+        null,
+        0,
+        null,
+        null,
+        null,
+        null,
+        1,
+        0,
+        null,
+        null,
+        null,
+        null,
+        1,
+        0,
+        null,
+        null,
+        null,
+        null,
+        1,
+        0,
+        null,
+        null,
+        null,
+        null,
+        1,
+        0,
+        null,
+        null,
+        null,
+        null,
+        1,
+        0,
+        null,
+        null,
+        null,
+        null,
+        1,
+        0,
+        null,
+        null,
+        null,
+        null,
+        1,
+        0,
+        null,
+        null,
+        null,
+        null,
+        null,
+        1,
+        null,
+        0,
+        null,
+        null,
+        null,
+        null,
+        null,
+        1,
+        null,
+        0,
+        null,
+        null,
+        null,
+        null,
+        1,
+        0,
+        0,
+        null,
+        null,
+        null,
+        null,
+        1,
+        0,
+        0,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "branches": [
+        {
+          "type": "else",
+          "start_line": 269,
+          "end_line": 271,
+          "coverage": 0
+        },
+        {
+          "type": "then",
+          "start_line": 270,
+          "end_line": 270,
+          "coverage": 0
+        }
+      ]
+    },
+    "lib/twilio-ruby/rest/api/v2010/account/sip/ip_access_control_list.rb": {
       "lines": [
         null,
         null,
@@ -34257,7 +34257,7 @@
         }
       ]
     },
-    "/Users/ykulkarni/sprints/sprint33/template-twilio-ruby/lib/twilio-ruby/rest/api/v2010/account/sip/ip_access_control_list/ip_address.rb": {
+    "lib/twilio-ruby/rest/api/v2010/account/sip/ip_access_control_list/ip_address.rb": {
       "lines": [
         null,
         null,
@@ -34710,7 +34710,7 @@
         }
       ]
     },
-    "/Users/ykulkarni/sprints/sprint33/template-twilio-ruby/lib/twilio-ruby/rest/api/v2010/account/token.rb": {
+    "lib/twilio-ruby/rest/api/v2010/account/token.rb": {
       "lines": [
         null,
         null,
@@ -34895,7 +34895,7 @@
 
       ]
     },
-    "/Users/ykulkarni/sprints/sprint33/template-twilio-ruby/lib/twilio-ruby/rest/api/v2010/account/transcription.rb": {
+    "lib/twilio-ruby/rest/api/v2010/account/transcription.rb": {
       "lines": [
         null,
         null,
@@ -35284,7 +35284,7 @@
         }
       ]
     },
-    "/Users/ykulkarni/sprints/sprint33/template-twilio-ruby/lib/twilio-ruby/rest/api/v2010/account/usage.rb": {
+    "lib/twilio-ruby/rest/api/v2010/account/usage.rb": {
       "lines": [
         null,
         null,
@@ -35442,7 +35442,7 @@
         }
       ]
     },
-    "/Users/ykulkarni/sprints/sprint33/template-twilio-ruby/lib/twilio-ruby/rest/api/v2010/account/usage/record.rb": {
+    "lib/twilio-ruby/rest/api/v2010/account/usage/record.rb": {
       "lines": [
         null,
         null,
@@ -35837,7 +35837,7 @@
 
       ]
     },
-    "/Users/ykulkarni/sprints/sprint33/template-twilio-ruby/lib/twilio-ruby/rest/api/v2010/account/usage/record/all_time.rb": {
+    "lib/twilio-ruby/rest/api/v2010/account/usage/record/all_time.rb": {
       "lines": [
         null,
         null,
@@ -36170,7 +36170,7 @@
 
       ]
     },
-    "/Users/ykulkarni/sprints/sprint33/template-twilio-ruby/lib/twilio-ruby/rest/api/v2010/account/usage/record/daily.rb": {
+    "lib/twilio-ruby/rest/api/v2010/account/usage/record/daily.rb": {
       "lines": [
         null,
         null,
@@ -36503,7 +36503,7 @@
 
       ]
     },
-    "/Users/ykulkarni/sprints/sprint33/template-twilio-ruby/lib/twilio-ruby/rest/api/v2010/account/usage/record/last_month.rb": {
+    "lib/twilio-ruby/rest/api/v2010/account/usage/record/last_month.rb": {
       "lines": [
         null,
         null,
@@ -36836,7 +36836,7 @@
 
       ]
     },
-    "/Users/ykulkarni/sprints/sprint33/template-twilio-ruby/lib/twilio-ruby/rest/api/v2010/account/usage/record/monthly.rb": {
+    "lib/twilio-ruby/rest/api/v2010/account/usage/record/monthly.rb": {
       "lines": [
         null,
         null,
@@ -37169,7 +37169,7 @@
 
       ]
     },
-    "/Users/ykulkarni/sprints/sprint33/template-twilio-ruby/lib/twilio-ruby/rest/api/v2010/account/usage/record/this_month.rb": {
+    "lib/twilio-ruby/rest/api/v2010/account/usage/record/this_month.rb": {
       "lines": [
         null,
         null,
@@ -37502,7 +37502,7 @@
 
       ]
     },
-    "/Users/ykulkarni/sprints/sprint33/template-twilio-ruby/lib/twilio-ruby/rest/api/v2010/account/usage/record/today.rb": {
+    "lib/twilio-ruby/rest/api/v2010/account/usage/record/today.rb": {
       "lines": [
         null,
         null,
@@ -37835,7 +37835,7 @@
 
       ]
     },
-    "/Users/ykulkarni/sprints/sprint33/template-twilio-ruby/lib/twilio-ruby/rest/api/v2010/account/usage/record/yearly.rb": {
+    "lib/twilio-ruby/rest/api/v2010/account/usage/record/yearly.rb": {
       "lines": [
         null,
         null,
@@ -38168,7 +38168,7 @@
 
       ]
     },
-    "/Users/ykulkarni/sprints/sprint33/template-twilio-ruby/lib/twilio-ruby/rest/api/v2010/account/usage/record/yesterday.rb": {
+    "lib/twilio-ruby/rest/api/v2010/account/usage/record/yesterday.rb": {
       "lines": [
         null,
         null,
@@ -38501,7 +38501,7 @@
 
       ]
     },
-    "/Users/ykulkarni/sprints/sprint33/template-twilio-ruby/lib/twilio-ruby/rest/api/v2010/account/usage/trigger.rb": {
+    "lib/twilio-ruby/rest/api/v2010/account/usage/trigger.rb": {
       "lines": [
         null,
         null,
@@ -39015,7 +39015,7 @@
         }
       ]
     },
-    "/Users/ykulkarni/sprints/sprint33/template-twilio-ruby/lib/twilio-ruby/rest/api/v2010/account/validation_request.rb": {
+    "lib/twilio-ruby/rest/api/v2010/account/validation_request.rb": {
       "lines": [
         null,
         null,
@@ -39201,7 +39201,7 @@
 
       ]
     },
-    "/Users/ykulkarni/sprints/sprint33/template-twilio-ruby/lib/twilio-ruby/rest/api_base.rb": {
+    "lib/twilio-ruby/rest/api_base.rb": {
       "lines": [
         null,
         null,
@@ -39246,7 +39246,7 @@
 
       ]
     },
-    "/Users/ykulkarni/sprints/sprint33/template-twilio-ruby/lib/twilio-ruby/rest/bulkexports.rb": {
+    "lib/twilio-ruby/rest/bulkexports.rb": {
       "lines": [
         1,
         1,
@@ -39278,7 +39278,7 @@
 
       ]
     },
-    "/Users/ykulkarni/sprints/sprint33/template-twilio-ruby/lib/twilio-ruby/rest/bulkexports/v1.rb": {
+    "lib/twilio-ruby/rest/bulkexports/v1.rb": {
       "lines": [
         null,
         null,
@@ -39396,7 +39396,7 @@
         }
       ]
     },
-    "/Users/ykulkarni/sprints/sprint33/template-twilio-ruby/lib/twilio-ruby/rest/bulkexports/v1/export.rb": {
+    "lib/twilio-ruby/rest/bulkexports/v1/export.rb": {
       "lines": [
         null,
         null,
@@ -39740,7 +39740,7 @@
         }
       ]
     },
-    "/Users/ykulkarni/sprints/sprint33/template-twilio-ruby/lib/twilio-ruby/rest/bulkexports/v1/export/day.rb": {
+    "lib/twilio-ruby/rest/bulkexports/v1/export/day.rb": {
       "lines": [
         null,
         null,
@@ -40076,7 +40076,7 @@
         }
       ]
     },
-    "/Users/ykulkarni/sprints/sprint33/template-twilio-ruby/lib/twilio-ruby/rest/bulkexports/v1/export/export_custom_job.rb": {
+    "lib/twilio-ruby/rest/bulkexports/v1/export/export_custom_job.rb": {
       "lines": [
         null,
         null,
@@ -40388,7 +40388,7 @@
 
       ]
     },
-    "/Users/ykulkarni/sprints/sprint33/template-twilio-ruby/lib/twilio-ruby/rest/bulkexports/v1/export/job.rb": {
+    "lib/twilio-ruby/rest/bulkexports/v1/export/job.rb": {
       "lines": [
         null,
         null,
@@ -40684,7 +40684,7 @@
         }
       ]
     },
-    "/Users/ykulkarni/sprints/sprint33/template-twilio-ruby/lib/twilio-ruby/rest/bulkexports/v1/export_configuration.rb": {
+    "lib/twilio-ruby/rest/bulkexports/v1/export_configuration.rb": {
       "lines": [
         null,
         null,
@@ -40955,7 +40955,7 @@
         }
       ]
     },
-    "/Users/ykulkarni/sprints/sprint33/template-twilio-ruby/lib/twilio-ruby/rest/bulkexports_base.rb": {
+    "lib/twilio-ruby/rest/bulkexports_base.rb": {
       "lines": [
         null,
         null,
@@ -41000,7 +41000,7 @@
 
       ]
     },
-    "/Users/ykulkarni/sprints/sprint33/template-twilio-ruby/lib/twilio-ruby/rest/chat.rb": {
+    "lib/twilio-ruby/rest/chat.rb": {
       "lines": [
         1,
         1,
@@ -41042,7 +41042,7 @@
 
       ]
     },
-    "/Users/ykulkarni/sprints/sprint33/template-twilio-ruby/lib/twilio-ruby/rest/chat/v1.rb": {
+    "lib/twilio-ruby/rest/chat/v1.rb": {
       "lines": [
         null,
         null,
@@ -41160,7 +41160,7 @@
         }
       ]
     },
-    "/Users/ykulkarni/sprints/sprint33/template-twilio-ruby/lib/twilio-ruby/rest/chat/v1/credential.rb": {
+    "lib/twilio-ruby/rest/chat/v1/credential.rb": {
       "lines": [
         null,
         null,
@@ -41607,7 +41607,7 @@
         }
       ]
     },
-    "/Users/ykulkarni/sprints/sprint33/template-twilio-ruby/lib/twilio-ruby/rest/chat/v1/service.rb": {
+    "lib/twilio-ruby/rest/chat/v1/service.rb": {
       "lines": [
         null,
         null,
@@ -42628,7 +42628,7 @@
         }
       ]
     },
-    "/Users/ykulkarni/sprints/sprint33/template-twilio-ruby/lib/twilio-ruby/rest/chat/v1/service/channel.rb": {
+    "lib/twilio-ruby/rest/chat/v1/service/channel.rb": {
       "lines": [
         null,
         null,
@@ -43319,7 +43319,7 @@
         }
       ]
     },
-    "/Users/ykulkarni/sprints/sprint33/template-twilio-ruby/lib/twilio-ruby/rest/chat/v1/service/channel/invite.rb": {
+    "lib/twilio-ruby/rest/chat/v1/service/channel/invite.rb": {
       "lines": [
         null,
         null,
@@ -43722,7 +43722,7 @@
         }
       ]
     },
-    "/Users/ykulkarni/sprints/sprint33/template-twilio-ruby/lib/twilio-ruby/rest/chat/v1/service/channel/member.rb": {
+    "lib/twilio-ruby/rest/chat/v1/service/channel/member.rb": {
       "lines": [
         null,
         null,
@@ -44185,7 +44185,7 @@
         }
       ]
     },
-    "/Users/ykulkarni/sprints/sprint33/template-twilio-ruby/lib/twilio-ruby/rest/chat/v1/service/channel/message.rb": {
+    "lib/twilio-ruby/rest/chat/v1/service/channel/message.rb": {
       "lines": [
         null,
         null,
@@ -44664,7 +44664,7 @@
         }
       ]
     },
-    "/Users/ykulkarni/sprints/sprint33/template-twilio-ruby/lib/twilio-ruby/rest/chat/v1/service/role.rb": {
+    "lib/twilio-ruby/rest/chat/v1/service/role.rb": {
       "lines": [
         null,
         null,
@@ -45085,7 +45085,7 @@
         }
       ]
     },
-    "/Users/ykulkarni/sprints/sprint33/template-twilio-ruby/lib/twilio-ruby/rest/chat/v1/service/user.rb": {
+    "lib/twilio-ruby/rest/chat/v1/service/user.rb": {
       "lines": [
         null,
         null,
@@ -45599,7 +45599,7 @@
         }
       ]
     },
-    "/Users/ykulkarni/sprints/sprint33/template-twilio-ruby/lib/twilio-ruby/rest/chat/v1/service/user/user_channel.rb": {
+    "lib/twilio-ruby/rest/chat/v1/service/user/user_channel.rb": {
       "lines": [
         null,
         null,
@@ -45880,7 +45880,7 @@
         }
       ]
     },
-    "/Users/ykulkarni/sprints/sprint33/template-twilio-ruby/lib/twilio-ruby/rest/chat/v2.rb": {
+    "lib/twilio-ruby/rest/chat/v2.rb": {
       "lines": [
         null,
         null,
@@ -45998,7 +45998,7 @@
         }
       ]
     },
-    "/Users/ykulkarni/sprints/sprint33/template-twilio-ruby/lib/twilio-ruby/rest/chat/v2/credential.rb": {
+    "lib/twilio-ruby/rest/chat/v2/credential.rb": {
       "lines": [
         null,
         null,
@@ -46445,7 +46445,7 @@
         }
       ]
     },
-    "/Users/ykulkarni/sprints/sprint33/template-twilio-ruby/lib/twilio-ruby/rest/chat/v2/service.rb": {
+    "lib/twilio-ruby/rest/chat/v2/service.rb": {
       "lines": [
         null,
         null,
@@ -47429,7 +47429,7 @@
         }
       ]
     },
-    "/Users/ykulkarni/sprints/sprint33/template-twilio-ruby/lib/twilio-ruby/rest/chat/v2/service/binding.rb": {
+    "lib/twilio-ruby/rest/chat/v2/service/binding.rb": {
       "lines": [
         null,
         null,
@@ -47825,7 +47825,7 @@
         }
       ]
     },
-    "/Users/ykulkarni/sprints/sprint33/template-twilio-ruby/lib/twilio-ruby/rest/chat/v2/service/channel.rb": {
+    "lib/twilio-ruby/rest/chat/v2/service/channel.rb": {
       "lines": [
         null,
         null,
@@ -48624,7 +48624,7 @@
         }
       ]
     },
-    "/Users/ykulkarni/sprints/sprint33/template-twilio-ruby/lib/twilio-ruby/rest/chat/v2/service/channel/invite.rb": {
+    "lib/twilio-ruby/rest/chat/v2/service/channel/invite.rb": {
       "lines": [
         null,
         null,
@@ -49027,7 +49027,7 @@
         }
       ]
     },
-    "/Users/ykulkarni/sprints/sprint33/template-twilio-ruby/lib/twilio-ruby/rest/chat/v2/service/channel/member.rb": {
+    "lib/twilio-ruby/rest/chat/v2/service/channel/member.rb": {
       "lines": [
         null,
         null,
@@ -49554,7 +49554,7 @@
         }
       ]
     },
-    "/Users/ykulkarni/sprints/sprint33/template-twilio-ruby/lib/twilio-ruby/rest/chat/v2/service/channel/message.rb": {
+    "lib/twilio-ruby/rest/chat/v2/service/channel/message.rb": {
       "lines": [
         null,
         null,
@@ -50108,7 +50108,7 @@
         }
       ]
     },
-    "/Users/ykulkarni/sprints/sprint33/template-twilio-ruby/lib/twilio-ruby/rest/chat/v2/service/channel/webhook.rb": {
+    "lib/twilio-ruby/rest/chat/v2/service/channel/webhook.rb": {
       "lines": [
         null,
         null,
@@ -50577,7 +50577,7 @@
         }
       ]
     },
-    "/Users/ykulkarni/sprints/sprint33/template-twilio-ruby/lib/twilio-ruby/rest/chat/v2/service/role.rb": {
+    "lib/twilio-ruby/rest/chat/v2/service/role.rb": {
       "lines": [
         null,
         null,
@@ -50998,7 +50998,7 @@
         }
       ]
     },
-    "/Users/ykulkarni/sprints/sprint33/template-twilio-ruby/lib/twilio-ruby/rest/chat/v2/service/user.rb": {
+    "lib/twilio-ruby/rest/chat/v2/service/user.rb": {
       "lines": [
         null,
         null,
@@ -51616,7 +51616,7 @@
         }
       ]
     },
-    "/Users/ykulkarni/sprints/sprint33/template-twilio-ruby/lib/twilio-ruby/rest/chat/v2/service/user/user_binding.rb": {
+    "lib/twilio-ruby/rest/chat/v2/service/user/user_binding.rb": {
       "lines": [
         null,
         null,
@@ -52009,7 +52009,7 @@
         }
       ]
     },
-    "/Users/ykulkarni/sprints/sprint33/template-twilio-ruby/lib/twilio-ruby/rest/chat/v2/service/user/user_channel.rb": {
+    "lib/twilio-ruby/rest/chat/v2/service/user/user_channel.rb": {
       "lines": [
         null,
         null,
@@ -52468,7 +52468,7 @@
         }
       ]
     },
-    "/Users/ykulkarni/sprints/sprint33/template-twilio-ruby/lib/twilio-ruby/rest/chat/v3.rb": {
+    "lib/twilio-ruby/rest/chat/v3.rb": {
       "lines": [
         null,
         null,
@@ -52617,7 +52617,7 @@
         }
       ]
     },
-    "/Users/ykulkarni/sprints/sprint33/template-twilio-ruby/lib/twilio-ruby/rest/chat/v3/channel.rb": {
+    "lib/twilio-ruby/rest/chat/v3/channel.rb": {
       "lines": [
         null,
         null,
@@ -52956,7 +52956,7 @@
         }
       ]
     },
-    "/Users/ykulkarni/sprints/sprint33/template-twilio-ruby/lib/twilio-ruby/rest/chat_base.rb": {
+    "lib/twilio-ruby/rest/chat_base.rb": {
       "lines": [
         null,
         null,
@@ -53011,7 +53011,7 @@
 
       ]
     },
-    "/Users/ykulkarni/sprints/sprint33/template-twilio-ruby/lib/twilio-ruby/rest/client.rb": {
+    "lib/twilio-ruby/rest/client.rb": {
       "lines": [
         null,
         null,
@@ -53359,7 +53359,7 @@
 
       ]
     },
-    "/Users/ykulkarni/sprints/sprint33/template-twilio-ruby/lib/twilio-ruby/rest/content.rb": {
+    "lib/twilio-ruby/rest/content.rb": {
       "lines": [
         1,
         1,
@@ -53381,7 +53381,7 @@
 
       ]
     },
-    "/Users/ykulkarni/sprints/sprint33/template-twilio-ruby/lib/twilio-ruby/rest/content/v1.rb": {
+    "lib/twilio-ruby/rest/content/v1.rb": {
       "lines": [
         null,
         null,
@@ -53472,7 +53472,7 @@
         }
       ]
     },
-    "/Users/ykulkarni/sprints/sprint33/template-twilio-ruby/lib/twilio-ruby/rest/content/v1/content.rb": {
+    "lib/twilio-ruby/rest/content/v1/content.rb": {
       "lines": [
         null,
         null,
@@ -53853,7 +53853,7 @@
         }
       ]
     },
-    "/Users/ykulkarni/sprints/sprint33/template-twilio-ruby/lib/twilio-ruby/rest/content/v1/content/approval_fetch.rb": {
+    "lib/twilio-ruby/rest/content/v1/content/approval_fetch.rb": {
       "lines": [
         null,
         null,
@@ -54079,7 +54079,7 @@
         }
       ]
     },
-    "/Users/ykulkarni/sprints/sprint33/template-twilio-ruby/lib/twilio-ruby/rest/content/v1/content_and_approvals.rb": {
+    "lib/twilio-ruby/rest/content/v1/content_and_approvals.rb": {
       "lines": [
         null,
         null,
@@ -54337,7 +54337,7 @@
 
       ]
     },
-    "/Users/ykulkarni/sprints/sprint33/template-twilio-ruby/lib/twilio-ruby/rest/content/v1/legacy_content.rb": {
+    "lib/twilio-ruby/rest/content/v1/legacy_content.rb": {
       "lines": [
         null,
         null,
@@ -54609,7 +54609,7 @@
 
       ]
     },
-    "/Users/ykulkarni/sprints/sprint33/template-twilio-ruby/lib/twilio-ruby/rest/content_base.rb": {
+    "lib/twilio-ruby/rest/content_base.rb": {
       "lines": [
         null,
         null,
@@ -54654,7 +54654,7 @@
 
       ]
     },
-    "/Users/ykulkarni/sprints/sprint33/template-twilio-ruby/lib/twilio-ruby/rest/conversations.rb": {
+    "lib/twilio-ruby/rest/conversations.rb": {
       "lines": [
         1,
         1,
@@ -54740,7 +54740,7 @@
 
       ]
     },
-    "/Users/ykulkarni/sprints/sprint33/template-twilio-ruby/lib/twilio-ruby/rest/conversations/v1.rb": {
+    "lib/twilio-ruby/rest/conversations/v1.rb": {
       "lines": [
         null,
         null,
@@ -55026,7 +55026,7 @@
         }
       ]
     },
-    "/Users/ykulkarni/sprints/sprint33/template-twilio-ruby/lib/twilio-ruby/rest/conversations/v1/address_configuration.rb": {
+    "lib/twilio-ruby/rest/conversations/v1/address_configuration.rb": {
       "lines": [
         null,
         null,
@@ -55526,7 +55526,7 @@
         }
       ]
     },
-    "/Users/ykulkarni/sprints/sprint33/template-twilio-ruby/lib/twilio-ruby/rest/conversations/v1/configuration.rb": {
+    "lib/twilio-ruby/rest/conversations/v1/configuration.rb": {
       "lines": [
         null,
         null,
@@ -55831,7 +55831,7 @@
         }
       ]
     },
-    "/Users/ykulkarni/sprints/sprint33/template-twilio-ruby/lib/twilio-ruby/rest/conversations/v1/configuration/webhook.rb": {
+    "lib/twilio-ruby/rest/conversations/v1/configuration/webhook.rb": {
       "lines": [
         null,
         null,
@@ -56130,7 +56130,7 @@
         }
       ]
     },
-    "/Users/ykulkarni/sprints/sprint33/template-twilio-ruby/lib/twilio-ruby/rest/conversations/v1/conversation.rb": {
+    "lib/twilio-ruby/rest/conversations/v1/conversation.rb": {
       "lines": [
         null,
         null,
@@ -56886,7 +56886,7 @@
         }
       ]
     },
-    "/Users/ykulkarni/sprints/sprint33/template-twilio-ruby/lib/twilio-ruby/rest/conversations/v1/conversation/message.rb": {
+    "lib/twilio-ruby/rest/conversations/v1/conversation/message.rb": {
       "lines": [
         null,
         null,
@@ -57496,7 +57496,7 @@
         }
       ]
     },
-    "/Users/ykulkarni/sprints/sprint33/template-twilio-ruby/lib/twilio-ruby/rest/conversations/v1/conversation/message/delivery_receipt.rb": {
+    "lib/twilio-ruby/rest/conversations/v1/conversation/message/delivery_receipt.rb": {
       "lines": [
         null,
         null,
@@ -57871,7 +57871,7 @@
         }
       ]
     },
-    "/Users/ykulkarni/sprints/sprint33/template-twilio-ruby/lib/twilio-ruby/rest/conversations/v1/conversation/participant.rb": {
+    "lib/twilio-ruby/rest/conversations/v1/conversation/participant.rb": {
       "lines": [
         null,
         null,
@@ -58406,7 +58406,7 @@
         }
       ]
     },
-    "/Users/ykulkarni/sprints/sprint33/template-twilio-ruby/lib/twilio-ruby/rest/conversations/v1/conversation/webhook.rb": {
+    "lib/twilio-ruby/rest/conversations/v1/conversation/webhook.rb": {
       "lines": [
         null,
         null,
@@ -58856,7 +58856,7 @@
         }
       ]
     },
-    "/Users/ykulkarni/sprints/sprint33/template-twilio-ruby/lib/twilio-ruby/rest/conversations/v1/credential.rb": {
+    "lib/twilio-ruby/rest/conversations/v1/credential.rb": {
       "lines": [
         null,
         null,
@@ -59309,7 +59309,7 @@
         }
       ]
     },
-    "/Users/ykulkarni/sprints/sprint33/template-twilio-ruby/lib/twilio-ruby/rest/conversations/v1/participant_conversation.rb": {
+    "lib/twilio-ruby/rest/conversations/v1/participant_conversation.rb": {
       "lines": [
         null,
         null,
@@ -59628,7 +59628,7 @@
 
       ]
     },
-    "/Users/ykulkarni/sprints/sprint33/template-twilio-ruby/lib/twilio-ruby/rest/conversations/v1/role.rb": {
+    "lib/twilio-ruby/rest/conversations/v1/role.rb": {
       "lines": [
         null,
         null,
@@ -60040,7 +60040,7 @@
         }
       ]
     },
-    "/Users/ykulkarni/sprints/sprint33/template-twilio-ruby/lib/twilio-ruby/rest/conversations/v1/service.rb": {
+    "lib/twilio-ruby/rest/conversations/v1/service.rb": {
       "lines": [
         null,
         null,
@@ -60700,7 +60700,7 @@
         }
       ]
     },
-    "/Users/ykulkarni/sprints/sprint33/template-twilio-ruby/lib/twilio-ruby/rest/conversations/v1/service/binding.rb": {
+    "lib/twilio-ruby/rest/conversations/v1/service/binding.rb": {
       "lines": [
         null,
         null,
@@ -61089,7 +61089,7 @@
         }
       ]
     },
-    "/Users/ykulkarni/sprints/sprint33/template-twilio-ruby/lib/twilio-ruby/rest/conversations/v1/service/configuration.rb": {
+    "lib/twilio-ruby/rest/conversations/v1/service/configuration.rb": {
       "lines": [
         null,
         null,
@@ -61421,7 +61421,7 @@
         }
       ]
     },
-    "/Users/ykulkarni/sprints/sprint33/template-twilio-ruby/lib/twilio-ruby/rest/conversations/v1/service/configuration/notification.rb": {
+    "lib/twilio-ruby/rest/conversations/v1/service/configuration/notification.rb": {
       "lines": [
         null,
         null,
@@ -61773,7 +61773,7 @@
         }
       ]
     },
-    "/Users/ykulkarni/sprints/sprint33/template-twilio-ruby/lib/twilio-ruby/rest/conversations/v1/service/configuration/webhook.rb": {
+    "lib/twilio-ruby/rest/conversations/v1/service/configuration/webhook.rb": {
       "lines": [
         null,
         null,
@@ -62071,7 +62071,7 @@
         }
       ]
     },
-    "/Users/ykulkarni/sprints/sprint33/template-twilio-ruby/lib/twilio-ruby/rest/conversations/v1/service/conversation.rb": {
+    "lib/twilio-ruby/rest/conversations/v1/service/conversation.rb": {
       "lines": [
         null,
         null,
@@ -62836,7 +62836,7 @@
         }
       ]
     },
-    "/Users/ykulkarni/sprints/sprint33/template-twilio-ruby/lib/twilio-ruby/rest/conversations/v1/service/conversation/message.rb": {
+    "lib/twilio-ruby/rest/conversations/v1/service/conversation/message.rb": {
       "lines": [
         null,
         null,
@@ -63459,7 +63459,7 @@
         }
       ]
     },
-    "/Users/ykulkarni/sprints/sprint33/template-twilio-ruby/lib/twilio-ruby/rest/conversations/v1/service/conversation/message/delivery_receipt.rb": {
+    "lib/twilio-ruby/rest/conversations/v1/service/conversation/message/delivery_receipt.rb": {
       "lines": [
         null,
         null,
@@ -63845,7 +63845,7 @@
         }
       ]
     },
-    "/Users/ykulkarni/sprints/sprint33/template-twilio-ruby/lib/twilio-ruby/rest/conversations/v1/service/conversation/participant.rb": {
+    "lib/twilio-ruby/rest/conversations/v1/service/conversation/participant.rb": {
       "lines": [
         null,
         null,
@@ -64393,7 +64393,7 @@
         }
       ]
     },
-    "/Users/ykulkarni/sprints/sprint33/template-twilio-ruby/lib/twilio-ruby/rest/conversations/v1/service/conversation/webhook.rb": {
+    "lib/twilio-ruby/rest/conversations/v1/service/conversation/webhook.rb": {
       "lines": [
         null,
         null,
@@ -64856,7 +64856,7 @@
         }
       ]
     },
-    "/Users/ykulkarni/sprints/sprint33/template-twilio-ruby/lib/twilio-ruby/rest/conversations/v1/service/participant_conversation.rb": {
+    "lib/twilio-ruby/rest/conversations/v1/service/participant_conversation.rb": {
       "lines": [
         null,
         null,
@@ -65180,7 +65180,7 @@
 
       ]
     },
-    "/Users/ykulkarni/sprints/sprint33/template-twilio-ruby/lib/twilio-ruby/rest/conversations/v1/service/role.rb": {
+    "lib/twilio-ruby/rest/conversations/v1/service/role.rb": {
       "lines": [
         null,
         null,
@@ -65601,7 +65601,7 @@
         }
       ]
     },
-    "/Users/ykulkarni/sprints/sprint33/template-twilio-ruby/lib/twilio-ruby/rest/conversations/v1/service/user.rb": {
+    "lib/twilio-ruby/rest/conversations/v1/service/user.rb": {
       "lines": [
         null,
         null,
@@ -66146,7 +66146,7 @@
         }
       ]
     },
-    "/Users/ykulkarni/sprints/sprint33/template-twilio-ruby/lib/twilio-ruby/rest/conversations/v1/service/user/user_conversation.rb": {
+    "lib/twilio-ruby/rest/conversations/v1/service/user/user_conversation.rb": {
       "lines": [
         null,
         null,
@@ -66645,7 +66645,7 @@
         }
       ]
     },
-    "/Users/ykulkarni/sprints/sprint33/template-twilio-ruby/lib/twilio-ruby/rest/conversations/v1/user.rb": {
+    "lib/twilio-ruby/rest/conversations/v1/user.rb": {
       "lines": [
         null,
         null,
@@ -67181,7 +67181,7 @@
         }
       ]
     },
-    "/Users/ykulkarni/sprints/sprint33/template-twilio-ruby/lib/twilio-ruby/rest/conversations/v1/user/user_conversation.rb": {
+    "lib/twilio-ruby/rest/conversations/v1/user/user_conversation.rb": {
       "lines": [
         null,
         null,
@@ -67675,7 +67675,7 @@
         }
       ]
     },
-    "/Users/ykulkarni/sprints/sprint33/template-twilio-ruby/lib/twilio-ruby/rest/conversations_base.rb": {
+    "lib/twilio-ruby/rest/conversations_base.rb": {
       "lines": [
         null,
         null,
@@ -67720,7 +67720,7 @@
 
       ]
     },
-    "/Users/ykulkarni/sprints/sprint33/template-twilio-ruby/lib/twilio-ruby/rest/events.rb": {
+    "lib/twilio-ruby/rest/events.rb": {
       "lines": [
         1,
         1,
@@ -67770,7 +67770,7 @@
 
       ]
     },
-    "/Users/ykulkarni/sprints/sprint33/template-twilio-ruby/lib/twilio-ruby/rest/events/v1.rb": {
+    "lib/twilio-ruby/rest/events/v1.rb": {
       "lines": [
         null,
         null,
@@ -67966,7 +67966,7 @@
         }
       ]
     },
-    "/Users/ykulkarni/sprints/sprint33/template-twilio-ruby/lib/twilio-ruby/rest/events/v1/event_type.rb": {
+    "lib/twilio-ruby/rest/events/v1/event_type.rb": {
       "lines": [
         null,
         null,
@@ -68296,7 +68296,7 @@
         }
       ]
     },
-    "/Users/ykulkarni/sprints/sprint33/template-twilio-ruby/lib/twilio-ruby/rest/events/v1/schema.rb": {
+    "lib/twilio-ruby/rest/events/v1/schema.rb": {
       "lines": [
         null,
         null,
@@ -68597,7 +68597,7 @@
         }
       ]
     },
-    "/Users/ykulkarni/sprints/sprint33/template-twilio-ruby/lib/twilio-ruby/rest/events/v1/schema/schema_version.rb": {
+    "lib/twilio-ruby/rest/events/v1/schema/schema_version.rb": {
       "lines": [
         null,
         null,
@@ -68926,7 +68926,7 @@
         }
       ]
     },
-    "/Users/ykulkarni/sprints/sprint33/template-twilio-ruby/lib/twilio-ruby/rest/events/v1/sink.rb": {
+    "lib/twilio-ruby/rest/events/v1/sink.rb": {
       "lines": [
         null,
         null,
@@ -69412,7 +69412,7 @@
         }
       ]
     },
-    "/Users/ykulkarni/sprints/sprint33/template-twilio-ruby/lib/twilio-ruby/rest/events/v1/sink/sink_test.rb": {
+    "lib/twilio-ruby/rest/events/v1/sink/sink_test.rb": {
       "lines": [
         null,
         null,
@@ -69548,7 +69548,7 @@
 
       ]
     },
-    "/Users/ykulkarni/sprints/sprint33/template-twilio-ruby/lib/twilio-ruby/rest/events/v1/sink/sink_validate.rb": {
+    "lib/twilio-ruby/rest/events/v1/sink/sink_validate.rb": {
       "lines": [
         null,
         null,
@@ -69691,7 +69691,7 @@
 
       ]
     },
-    "/Users/ykulkarni/sprints/sprint33/template-twilio-ruby/lib/twilio-ruby/rest/events/v1/subscription.rb": {
+    "lib/twilio-ruby/rest/events/v1/subscription.rb": {
       "lines": [
         null,
         null,
@@ -70171,7 +70171,7 @@
         }
       ]
     },
-    "/Users/ykulkarni/sprints/sprint33/template-twilio-ruby/lib/twilio-ruby/rest/events/v1/subscription/subscribed_event.rb": {
+    "lib/twilio-ruby/rest/events/v1/subscription/subscribed_event.rb": {
       "lines": [
         null,
         null,
@@ -70573,7 +70573,7 @@
         }
       ]
     },
-    "/Users/ykulkarni/sprints/sprint33/template-twilio-ruby/lib/twilio-ruby/rest/events_base.rb": {
+    "lib/twilio-ruby/rest/events_base.rb": {
       "lines": [
         null,
         null,
@@ -70618,7 +70618,7 @@
 
       ]
     },
-    "/Users/ykulkarni/sprints/sprint33/template-twilio-ruby/lib/twilio-ruby/rest/flex_api.rb": {
+    "lib/twilio-ruby/rest/flex_api.rb": {
       "lines": [
         1,
         1,
@@ -70698,7 +70698,7 @@
 
       ]
     },
-    "/Users/ykulkarni/sprints/sprint33/template-twilio-ruby/lib/twilio-ruby/rest/flex_api/v1.rb": {
+    "lib/twilio-ruby/rest/flex_api/v1.rb": {
       "lines": [
         null,
         null,
@@ -71104,7 +71104,7 @@
         }
       ]
     },
-    "/Users/ykulkarni/sprints/sprint33/template-twilio-ruby/lib/twilio-ruby/rest/flex_api/v1/assessments.rb": {
+    "lib/twilio-ruby/rest/flex_api/v1/assessments.rb": {
       "lines": [
         null,
         null,
@@ -71570,7 +71570,7 @@
         }
       ]
     },
-    "/Users/ykulkarni/sprints/sprint33/template-twilio-ruby/lib/twilio-ruby/rest/flex_api/v1/channel.rb": {
+    "lib/twilio-ruby/rest/flex_api/v1/channel.rb": {
       "lines": [
         null,
         null,
@@ -71963,7 +71963,7 @@
         }
       ]
     },
-    "/Users/ykulkarni/sprints/sprint33/template-twilio-ruby/lib/twilio-ruby/rest/flex_api/v1/configuration.rb": {
+    "lib/twilio-ruby/rest/flex_api/v1/configuration.rb": {
       "lines": [
         null,
         null,
@@ -72499,7 +72499,7 @@
         }
       ]
     },
-    "/Users/ykulkarni/sprints/sprint33/template-twilio-ruby/lib/twilio-ruby/rest/flex_api/v1/flex_flow.rb": {
+    "lib/twilio-ruby/rest/flex_api/v1/flex_flow.rb": {
       "lines": [
         null,
         null,
@@ -73090,7 +73090,7 @@
         }
       ]
     },
-    "/Users/ykulkarni/sprints/sprint33/template-twilio-ruby/lib/twilio-ruby/rest/flex_api/v1/insights_assessments_comment.rb": {
+    "lib/twilio-ruby/rest/flex_api/v1/insights_assessments_comment.rb": {
       "lines": [
         null,
         null,
@@ -73424,7 +73424,7 @@
 
       ]
     },
-    "/Users/ykulkarni/sprints/sprint33/template-twilio-ruby/lib/twilio-ruby/rest/flex_api/v1/insights_conversations.rb": {
+    "lib/twilio-ruby/rest/flex_api/v1/insights_conversations.rb": {
       "lines": [
         null,
         null,
@@ -73670,7 +73670,7 @@
         }
       ]
     },
-    "/Users/ykulkarni/sprints/sprint33/template-twilio-ruby/lib/twilio-ruby/rest/flex_api/v1/insights_questionnaires.rb": {
+    "lib/twilio-ruby/rest/flex_api/v1/insights_questionnaires.rb": {
       "lines": [
         null,
         null,
@@ -74130,7 +74130,7 @@
         }
       ]
     },
-    "/Users/ykulkarni/sprints/sprint33/template-twilio-ruby/lib/twilio-ruby/rest/flex_api/v1/insights_questionnaires_category.rb": {
+    "lib/twilio-ruby/rest/flex_api/v1/insights_questionnaires_category.rb": {
       "lines": [
         null,
         null,
@@ -74506,7 +74506,7 @@
         }
       ]
     },
-    "/Users/ykulkarni/sprints/sprint33/template-twilio-ruby/lib/twilio-ruby/rest/flex_api/v1/insights_questionnaires_question.rb": {
+    "lib/twilio-ruby/rest/flex_api/v1/insights_questionnaires_question.rb": {
       "lines": [
         null,
         null,
@@ -74979,7 +74979,7 @@
         }
       ]
     },
-    "/Users/ykulkarni/sprints/sprint33/template-twilio-ruby/lib/twilio-ruby/rest/flex_api/v1/insights_segments.rb": {
+    "lib/twilio-ruby/rest/flex_api/v1/insights_segments.rb": {
       "lines": [
         null,
         null,
@@ -75347,7 +75347,7 @@
 
       ]
     },
-    "/Users/ykulkarni/sprints/sprint33/template-twilio-ruby/lib/twilio-ruby/rest/flex_api/v1/insights_session.rb": {
+    "lib/twilio-ruby/rest/flex_api/v1/insights_session.rb": {
       "lines": [
         null,
         null,
@@ -75582,7 +75582,7 @@
         }
       ]
     },
-    "/Users/ykulkarni/sprints/sprint33/template-twilio-ruby/lib/twilio-ruby/rest/flex_api/v1/insights_settings_answer_sets.rb": {
+    "lib/twilio-ruby/rest/flex_api/v1/insights_settings_answer_sets.rb": {
       "lines": [
         null,
         null,
@@ -75744,7 +75744,7 @@
 
       ]
     },
-    "/Users/ykulkarni/sprints/sprint33/template-twilio-ruby/lib/twilio-ruby/rest/flex_api/v1/insights_settings_comment.rb": {
+    "lib/twilio-ruby/rest/flex_api/v1/insights_settings_comment.rb": {
       "lines": [
         null,
         null,
@@ -75892,7 +75892,7 @@
 
       ]
     },
-    "/Users/ykulkarni/sprints/sprint33/template-twilio-ruby/lib/twilio-ruby/rest/flex_api/v1/insights_user_roles.rb": {
+    "lib/twilio-ruby/rest/flex_api/v1/insights_user_roles.rb": {
       "lines": [
         null,
         null,
@@ -76106,7 +76106,7 @@
         }
       ]
     },
-    "/Users/ykulkarni/sprints/sprint33/template-twilio-ruby/lib/twilio-ruby/rest/flex_api/v1/interaction.rb": {
+    "lib/twilio-ruby/rest/flex_api/v1/interaction.rb": {
       "lines": [
         null,
         null,
@@ -76427,7 +76427,7 @@
         }
       ]
     },
-    "/Users/ykulkarni/sprints/sprint33/template-twilio-ruby/lib/twilio-ruby/rest/flex_api/v1/interaction/interaction_channel.rb": {
+    "lib/twilio-ruby/rest/flex_api/v1/interaction/interaction_channel.rb": {
       "lines": [
         null,
         null,
@@ -76911,7 +76911,7 @@
         }
       ]
     },
-    "/Users/ykulkarni/sprints/sprint33/template-twilio-ruby/lib/twilio-ruby/rest/flex_api/v1/interaction/interaction_channel/interaction_channel_invite.rb": {
+    "lib/twilio-ruby/rest/flex_api/v1/interaction/interaction_channel/interaction_channel_invite.rb": {
       "lines": [
         null,
         null,
@@ -77169,7 +77169,7 @@
 
       ]
     },
-    "/Users/ykulkarni/sprints/sprint33/template-twilio-ruby/lib/twilio-ruby/rest/flex_api/v1/interaction/interaction_channel/interaction_channel_participant.rb": {
+    "lib/twilio-ruby/rest/flex_api/v1/interaction/interaction_channel/interaction_channel_participant.rb": {
       "lines": [
         null,
         null,
@@ -77526,7 +77526,7 @@
         }
       ]
     },
-    "/Users/ykulkarni/sprints/sprint33/template-twilio-ruby/lib/twilio-ruby/rest/flex_api/v1/provisioning_status.rb": {
+    "lib/twilio-ruby/rest/flex_api/v1/provisioning_status.rb": {
       "lines": [
         null,
         null,
@@ -77731,7 +77731,7 @@
         }
       ]
     },
-    "/Users/ykulkarni/sprints/sprint33/template-twilio-ruby/lib/twilio-ruby/rest/flex_api/v1/web_channel.rb": {
+    "lib/twilio-ruby/rest/flex_api/v1/web_channel.rb": {
       "lines": [
         null,
         null,
@@ -78137,7 +78137,7 @@
         }
       ]
     },
-    "/Users/ykulkarni/sprints/sprint33/template-twilio-ruby/lib/twilio-ruby/rest/flex_api/v2.rb": {
+    "lib/twilio-ruby/rest/flex_api/v2.rb": {
       "lines": [
         null,
         null,
@@ -78184,7 +78184,7 @@
 
       ]
     },
-    "/Users/ykulkarni/sprints/sprint33/template-twilio-ruby/lib/twilio-ruby/rest/flex_api/v2/web_channels.rb": {
+    "lib/twilio-ruby/rest/flex_api/v2/web_channels.rb": {
       "lines": [
         null,
         null,
@@ -78337,7 +78337,7 @@
 
       ]
     },
-    "/Users/ykulkarni/sprints/sprint33/template-twilio-ruby/lib/twilio-ruby/rest/flex_api_base.rb": {
+    "lib/twilio-ruby/rest/flex_api_base.rb": {
       "lines": [
         null,
         null,
@@ -78387,7 +78387,7 @@
 
       ]
     },
-    "/Users/ykulkarni/sprints/sprint33/template-twilio-ruby/lib/twilio-ruby/rest/frontline_api.rb": {
+    "lib/twilio-ruby/rest/frontline_api.rb": {
       "lines": [
         1,
         1,
@@ -78409,7 +78409,7 @@
 
       ]
     },
-    "/Users/ykulkarni/sprints/sprint33/template-twilio-ruby/lib/twilio-ruby/rest/frontline_api/v1.rb": {
+    "lib/twilio-ruby/rest/frontline_api/v1.rb": {
       "lines": [
         null,
         null,
@@ -78488,7 +78488,7 @@
         }
       ]
     },
-    "/Users/ykulkarni/sprints/sprint33/template-twilio-ruby/lib/twilio-ruby/rest/frontline_api/v1/user.rb": {
+    "lib/twilio-ruby/rest/frontline_api/v1/user.rb": {
       "lines": [
         null,
         null,
@@ -78781,7 +78781,7 @@
         }
       ]
     },
-    "/Users/ykulkarni/sprints/sprint33/template-twilio-ruby/lib/twilio-ruby/rest/frontline_api_base.rb": {
+    "lib/twilio-ruby/rest/frontline_api_base.rb": {
       "lines": [
         null,
         null,
@@ -78826,7 +78826,7 @@
 
       ]
     },
-    "/Users/ykulkarni/sprints/sprint33/template-twilio-ruby/lib/twilio-ruby/rest/insights.rb": {
+    "lib/twilio-ruby/rest/insights.rb": {
       "lines": [
         1,
         1,
@@ -78879,7 +78879,7 @@
 
       ]
     },
-    "/Users/ykulkarni/sprints/sprint33/template-twilio-ruby/lib/twilio-ruby/rest/insights/v1.rb": {
+    "lib/twilio-ruby/rest/insights/v1.rb": {
       "lines": [
         null,
         null,
@@ -79048,7 +79048,7 @@
         }
       ]
     },
-    "/Users/ykulkarni/sprints/sprint33/template-twilio-ruby/lib/twilio-ruby/rest/insights/v1/call.rb": {
+    "lib/twilio-ruby/rest/insights/v1/call.rb": {
       "lines": [
         null,
         null,
@@ -79358,7 +79358,7 @@
         }
       ]
     },
-    "/Users/ykulkarni/sprints/sprint33/template-twilio-ruby/lib/twilio-ruby/rest/insights/v1/call/annotation.rb": {
+    "lib/twilio-ruby/rest/insights/v1/call/annotation.rb": {
       "lines": [
         null,
         null,
@@ -79707,7 +79707,7 @@
         }
       ]
     },
-    "/Users/ykulkarni/sprints/sprint33/template-twilio-ruby/lib/twilio-ruby/rest/insights/v1/call/call_summary.rb": {
+    "lib/twilio-ruby/rest/insights/v1/call/call_summary.rb": {
       "lines": [
         null,
         null,
@@ -80099,7 +80099,7 @@
         }
       ]
     },
-    "/Users/ykulkarni/sprints/sprint33/template-twilio-ruby/lib/twilio-ruby/rest/insights/v1/call/event.rb": {
+    "lib/twilio-ruby/rest/insights/v1/call/event.rb": {
       "lines": [
         null,
         null,
@@ -80382,7 +80382,7 @@
 
       ]
     },
-    "/Users/ykulkarni/sprints/sprint33/template-twilio-ruby/lib/twilio-ruby/rest/insights/v1/call/metric.rb": {
+    "lib/twilio-ruby/rest/insights/v1/call/metric.rb": {
       "lines": [
         null,
         null,
@@ -80657,7 +80657,7 @@
 
       ]
     },
-    "/Users/ykulkarni/sprints/sprint33/template-twilio-ruby/lib/twilio-ruby/rest/insights/v1/call_summaries.rb": {
+    "lib/twilio-ruby/rest/insights/v1/call_summaries.rb": {
       "lines": [
         null,
         null,
@@ -81180,7 +81180,7 @@
         }
       ]
     },
-    "/Users/ykulkarni/sprints/sprint33/template-twilio-ruby/lib/twilio-ruby/rest/insights/v1/conference.rb": {
+    "lib/twilio-ruby/rest/insights/v1/conference.rb": {
       "lines": [
         null,
         null,
@@ -81799,7 +81799,7 @@
         }
       ]
     },
-    "/Users/ykulkarni/sprints/sprint33/template-twilio-ruby/lib/twilio-ruby/rest/insights/v1/conference/conference_participant.rb": {
+    "lib/twilio-ruby/rest/insights/v1/conference/conference_participant.rb": {
       "lines": [
         null,
         null,
@@ -82341,7 +82341,7 @@
         }
       ]
     },
-    "/Users/ykulkarni/sprints/sprint33/template-twilio-ruby/lib/twilio-ruby/rest/insights/v1/room.rb": {
+    "lib/twilio-ruby/rest/insights/v1/room.rb": {
       "lines": [
         null,
         null,
@@ -82955,7 +82955,7 @@
         }
       ]
     },
-    "/Users/ykulkarni/sprints/sprint33/template-twilio-ruby/lib/twilio-ruby/rest/insights/v1/room/participant.rb": {
+    "lib/twilio-ruby/rest/insights/v1/room/participant.rb": {
       "lines": [
         null,
         null,
@@ -83370,7 +83370,7 @@
         }
       ]
     },
-    "/Users/ykulkarni/sprints/sprint33/template-twilio-ruby/lib/twilio-ruby/rest/insights/v1/setting.rb": {
+    "lib/twilio-ruby/rest/insights/v1/setting.rb": {
       "lines": [
         null,
         null,
@@ -83642,7 +83642,7 @@
         }
       ]
     },
-    "/Users/ykulkarni/sprints/sprint33/template-twilio-ruby/lib/twilio-ruby/rest/insights_base.rb": {
+    "lib/twilio-ruby/rest/insights_base.rb": {
       "lines": [
         null,
         null,
@@ -83687,7 +83687,7 @@
 
       ]
     },
-    "/Users/ykulkarni/sprints/sprint33/template-twilio-ruby/lib/twilio-ruby/rest/intelligence.rb": {
+    "lib/twilio-ruby/rest/intelligence.rb": {
       "lines": [
         1,
         1,
@@ -83700,7 +83700,7 @@
 
       ]
     },
-    "/Users/ykulkarni/sprints/sprint33/template-twilio-ruby/lib/twilio-ruby/rest/intelligence/v2.rb": {
+    "lib/twilio-ruby/rest/intelligence/v2.rb": {
       "lines": [
         null,
         null,
@@ -83818,7 +83818,7 @@
         }
       ]
     },
-    "/Users/ykulkarni/sprints/sprint33/template-twilio-ruby/lib/twilio-ruby/rest/intelligence/v2/service.rb": {
+    "lib/twilio-ruby/rest/intelligence/v2/service.rb": {
       "lines": [
         null,
         null,
@@ -84358,7 +84358,7 @@
         }
       ]
     },
-    "/Users/ykulkarni/sprints/sprint33/template-twilio-ruby/lib/twilio-ruby/rest/intelligence/v2/transcript.rb": {
+    "lib/twilio-ruby/rest/intelligence/v2/transcript.rb": {
       "lines": [
         null,
         null,
@@ -84956,7 +84956,7 @@
         }
       ]
     },
-    "/Users/ykulkarni/sprints/sprint33/template-twilio-ruby/lib/twilio-ruby/rest/intelligence/v2/transcript/media.rb": {
+    "lib/twilio-ruby/rest/intelligence/v2/transcript/media.rb": {
       "lines": [
         null,
         null,
@@ -85200,7 +85200,7 @@
         }
       ]
     },
-    "/Users/ykulkarni/sprints/sprint33/template-twilio-ruby/lib/twilio-ruby/rest/intelligence/v2/transcript/operator_result.rb": {
+    "lib/twilio-ruby/rest/intelligence/v2/transcript/operator_result.rb": {
       "lines": [
         null,
         null,
@@ -85606,7 +85606,7 @@
         }
       ]
     },
-    "/Users/ykulkarni/sprints/sprint33/template-twilio-ruby/lib/twilio-ruby/rest/intelligence/v2/transcript/sentence.rb": {
+    "lib/twilio-ruby/rest/intelligence/v2/transcript/sentence.rb": {
       "lines": [
         null,
         null,
@@ -85884,7 +85884,7 @@
         }
       ]
     },
-    "/Users/ykulkarni/sprints/sprint33/template-twilio-ruby/lib/twilio-ruby/rest/intelligence_base.rb": {
+    "lib/twilio-ruby/rest/intelligence_base.rb": {
       "lines": [
         null,
         null,
@@ -85929,7 +85929,7 @@
 
       ]
     },
-    "/Users/ykulkarni/sprints/sprint33/template-twilio-ruby/lib/twilio-ruby/rest/ip_messaging.rb": {
+    "lib/twilio-ruby/rest/ip_messaging.rb": {
       "lines": [
         1,
         1,
@@ -85959,7 +85959,7 @@
 
       ]
     },
-    "/Users/ykulkarni/sprints/sprint33/template-twilio-ruby/lib/twilio-ruby/rest/ip_messaging/v1.rb": {
+    "lib/twilio-ruby/rest/ip_messaging/v1.rb": {
       "lines": [
         null,
         null,
@@ -86077,7 +86077,7 @@
         }
       ]
     },
-    "/Users/ykulkarni/sprints/sprint33/template-twilio-ruby/lib/twilio-ruby/rest/ip_messaging/v1/credential.rb": {
+    "lib/twilio-ruby/rest/ip_messaging/v1/credential.rb": {
       "lines": [
         null,
         null,
@@ -86524,7 +86524,7 @@
         }
       ]
     },
-    "/Users/ykulkarni/sprints/sprint33/template-twilio-ruby/lib/twilio-ruby/rest/ip_messaging/v1/service.rb": {
+    "lib/twilio-ruby/rest/ip_messaging/v1/service.rb": {
       "lines": [
         null,
         null,
@@ -87545,7 +87545,7 @@
         }
       ]
     },
-    "/Users/ykulkarni/sprints/sprint33/template-twilio-ruby/lib/twilio-ruby/rest/ip_messaging/v1/service/channel.rb": {
+    "lib/twilio-ruby/rest/ip_messaging/v1/service/channel.rb": {
       "lines": [
         null,
         null,
@@ -88236,7 +88236,7 @@
         }
       ]
     },
-    "/Users/ykulkarni/sprints/sprint33/template-twilio-ruby/lib/twilio-ruby/rest/ip_messaging/v1/service/channel/invite.rb": {
+    "lib/twilio-ruby/rest/ip_messaging/v1/service/channel/invite.rb": {
       "lines": [
         null,
         null,
@@ -88639,7 +88639,7 @@
         }
       ]
     },
-    "/Users/ykulkarni/sprints/sprint33/template-twilio-ruby/lib/twilio-ruby/rest/ip_messaging/v1/service/channel/member.rb": {
+    "lib/twilio-ruby/rest/ip_messaging/v1/service/channel/member.rb": {
       "lines": [
         null,
         null,
@@ -89102,7 +89102,7 @@
         }
       ]
     },
-    "/Users/ykulkarni/sprints/sprint33/template-twilio-ruby/lib/twilio-ruby/rest/ip_messaging/v1/service/channel/message.rb": {
+    "lib/twilio-ruby/rest/ip_messaging/v1/service/channel/message.rb": {
       "lines": [
         null,
         null,
@@ -89581,7 +89581,7 @@
         }
       ]
     },
-    "/Users/ykulkarni/sprints/sprint33/template-twilio-ruby/lib/twilio-ruby/rest/ip_messaging/v1/service/role.rb": {
+    "lib/twilio-ruby/rest/ip_messaging/v1/service/role.rb": {
       "lines": [
         null,
         null,
@@ -90002,7 +90002,7 @@
         }
       ]
     },
-    "/Users/ykulkarni/sprints/sprint33/template-twilio-ruby/lib/twilio-ruby/rest/ip_messaging/v1/service/user.rb": {
+    "lib/twilio-ruby/rest/ip_messaging/v1/service/user.rb": {
       "lines": [
         null,
         null,
@@ -90516,7 +90516,7 @@
         }
       ]
     },
-    "/Users/ykulkarni/sprints/sprint33/template-twilio-ruby/lib/twilio-ruby/rest/ip_messaging/v1/service/user/user_channel.rb": {
+    "lib/twilio-ruby/rest/ip_messaging/v1/service/user/user_channel.rb": {
       "lines": [
         null,
         null,
@@ -90797,7 +90797,7 @@
         }
       ]
     },
-    "/Users/ykulkarni/sprints/sprint33/template-twilio-ruby/lib/twilio-ruby/rest/ip_messaging/v2.rb": {
+    "lib/twilio-ruby/rest/ip_messaging/v2.rb": {
       "lines": [
         null,
         null,
@@ -90915,7 +90915,7 @@
         }
       ]
     },
-    "/Users/ykulkarni/sprints/sprint33/template-twilio-ruby/lib/twilio-ruby/rest/ip_messaging/v2/credential.rb": {
+    "lib/twilio-ruby/rest/ip_messaging/v2/credential.rb": {
       "lines": [
         null,
         null,
@@ -91362,7 +91362,7 @@
         }
       ]
     },
-    "/Users/ykulkarni/sprints/sprint33/template-twilio-ruby/lib/twilio-ruby/rest/ip_messaging/v2/service.rb": {
+    "lib/twilio-ruby/rest/ip_messaging/v2/service.rb": {
       "lines": [
         null,
         null,
@@ -92346,7 +92346,7 @@
         }
       ]
     },
-    "/Users/ykulkarni/sprints/sprint33/template-twilio-ruby/lib/twilio-ruby/rest/ip_messaging/v2/service/binding.rb": {
+    "lib/twilio-ruby/rest/ip_messaging/v2/service/binding.rb": {
       "lines": [
         null,
         null,
@@ -92742,7 +92742,7 @@
         }
       ]
     },
-    "/Users/ykulkarni/sprints/sprint33/template-twilio-ruby/lib/twilio-ruby/rest/ip_messaging/v2/service/channel.rb": {
+    "lib/twilio-ruby/rest/ip_messaging/v2/service/channel.rb": {
       "lines": [
         null,
         null,
@@ -93541,7 +93541,7 @@
         }
       ]
     },
-    "/Users/ykulkarni/sprints/sprint33/template-twilio-ruby/lib/twilio-ruby/rest/ip_messaging/v2/service/channel/invite.rb": {
+    "lib/twilio-ruby/rest/ip_messaging/v2/service/channel/invite.rb": {
       "lines": [
         null,
         null,
@@ -93944,7 +93944,7 @@
         }
       ]
     },
-    "/Users/ykulkarni/sprints/sprint33/template-twilio-ruby/lib/twilio-ruby/rest/ip_messaging/v2/service/channel/member.rb": {
+    "lib/twilio-ruby/rest/ip_messaging/v2/service/channel/member.rb": {
       "lines": [
         null,
         null,
@@ -94471,7 +94471,7 @@
         }
       ]
     },
-    "/Users/ykulkarni/sprints/sprint33/template-twilio-ruby/lib/twilio-ruby/rest/ip_messaging/v2/service/channel/message.rb": {
+    "lib/twilio-ruby/rest/ip_messaging/v2/service/channel/message.rb": {
       "lines": [
         null,
         null,
@@ -95025,7 +95025,7 @@
         }
       ]
     },
-    "/Users/ykulkarni/sprints/sprint33/template-twilio-ruby/lib/twilio-ruby/rest/ip_messaging/v2/service/channel/webhook.rb": {
+    "lib/twilio-ruby/rest/ip_messaging/v2/service/channel/webhook.rb": {
       "lines": [
         null,
         null,
@@ -95494,7 +95494,7 @@
         }
       ]
     },
-    "/Users/ykulkarni/sprints/sprint33/template-twilio-ruby/lib/twilio-ruby/rest/ip_messaging/v2/service/role.rb": {
+    "lib/twilio-ruby/rest/ip_messaging/v2/service/role.rb": {
       "lines": [
         null,
         null,
@@ -95915,7 +95915,7 @@
         }
       ]
     },
-    "/Users/ykulkarni/sprints/sprint33/template-twilio-ruby/lib/twilio-ruby/rest/ip_messaging/v2/service/user.rb": {
+    "lib/twilio-ruby/rest/ip_messaging/v2/service/user.rb": {
       "lines": [
         null,
         null,
@@ -96533,7 +96533,7 @@
         }
       ]
     },
-    "/Users/ykulkarni/sprints/sprint33/template-twilio-ruby/lib/twilio-ruby/rest/ip_messaging/v2/service/user/user_binding.rb": {
+    "lib/twilio-ruby/rest/ip_messaging/v2/service/user/user_binding.rb": {
       "lines": [
         null,
         null,
@@ -96926,7 +96926,7 @@
         }
       ]
     },
-    "/Users/ykulkarni/sprints/sprint33/template-twilio-ruby/lib/twilio-ruby/rest/ip_messaging/v2/service/user/user_channel.rb": {
+    "lib/twilio-ruby/rest/ip_messaging/v2/service/user/user_channel.rb": {
       "lines": [
         null,
         null,
@@ -97376,7 +97376,7 @@
         }
       ]
     },
-    "/Users/ykulkarni/sprints/sprint33/template-twilio-ruby/lib/twilio-ruby/rest/ip_messaging_base.rb": {
+    "lib/twilio-ruby/rest/ip_messaging_base.rb": {
       "lines": [
         null,
         null,
@@ -97426,7 +97426,7 @@
 
       ]
     },
-    "/Users/ykulkarni/sprints/sprint33/template-twilio-ruby/lib/twilio-ruby/rest/lookups.rb": {
+    "lib/twilio-ruby/rest/lookups.rb": {
       "lines": [
         1,
         1,
@@ -97449,7 +97449,7 @@
 
       ]
     },
-    "/Users/ykulkarni/sprints/sprint33/template-twilio-ruby/lib/twilio-ruby/rest/lookups/v1.rb": {
+    "lib/twilio-ruby/rest/lookups/v1.rb": {
       "lines": [
         null,
         null,
@@ -97528,7 +97528,7 @@
         }
       ]
     },
-    "/Users/ykulkarni/sprints/sprint33/template-twilio-ruby/lib/twilio-ruby/rest/lookups/v1/phone_number.rb": {
+    "lib/twilio-ruby/rest/lookups/v1/phone_number.rb": {
       "lines": [
         null,
         null,
@@ -97797,7 +97797,7 @@
         }
       ]
     },
-    "/Users/ykulkarni/sprints/sprint33/template-twilio-ruby/lib/twilio-ruby/rest/lookups/v2.rb": {
+    "lib/twilio-ruby/rest/lookups/v2.rb": {
       "lines": [
         null,
         null,
@@ -97876,7 +97876,7 @@
         }
       ]
     },
-    "/Users/ykulkarni/sprints/sprint33/template-twilio-ruby/lib/twilio-ruby/rest/lookups/v2/phone_number.rb": {
+    "lib/twilio-ruby/rest/lookups/v2/phone_number.rb": {
       "lines": [
         null,
         null,
@@ -98264,7 +98264,7 @@
         }
       ]
     },
-    "/Users/ykulkarni/sprints/sprint33/template-twilio-ruby/lib/twilio-ruby/rest/lookups_base.rb": {
+    "lib/twilio-ruby/rest/lookups_base.rb": {
       "lines": [
         null,
         null,
@@ -98314,7 +98314,7 @@
 
       ]
     },
-    "/Users/ykulkarni/sprints/sprint33/template-twilio-ruby/lib/twilio-ruby/rest/media.rb": {
+    "lib/twilio-ruby/rest/media.rb": {
       "lines": [
         1,
         1,
@@ -98356,7 +98356,7 @@
 
       ]
     },
-    "/Users/ykulkarni/sprints/sprint33/template-twilio-ruby/lib/twilio-ruby/rest/media/v1.rb": {
+    "lib/twilio-ruby/rest/media/v1.rb": {
       "lines": [
         null,
         null,
@@ -98513,7 +98513,7 @@
         }
       ]
     },
-    "/Users/ykulkarni/sprints/sprint33/template-twilio-ruby/lib/twilio-ruby/rest/media/v1/media_processor.rb": {
+    "lib/twilio-ruby/rest/media/v1/media_processor.rb": {
       "lines": [
         null,
         null,
@@ -98963,7 +98963,7 @@
         }
       ]
     },
-    "/Users/ykulkarni/sprints/sprint33/template-twilio-ruby/lib/twilio-ruby/rest/media/v1/media_recording.rb": {
+    "lib/twilio-ruby/rest/media/v1/media_recording.rb": {
       "lines": [
         null,
         null,
@@ -99397,7 +99397,7 @@
         }
       ]
     },
-    "/Users/ykulkarni/sprints/sprint33/template-twilio-ruby/lib/twilio-ruby/rest/media/v1/player_streamer.rb": {
+    "lib/twilio-ruby/rest/media/v1/player_streamer.rb": {
       "lines": [
         null,
         null,
@@ -99859,7 +99859,7 @@
         }
       ]
     },
-    "/Users/ykulkarni/sprints/sprint33/template-twilio-ruby/lib/twilio-ruby/rest/media/v1/player_streamer/playback_grant.rb": {
+    "lib/twilio-ruby/rest/media/v1/player_streamer/playback_grant.rb": {
       "lines": [
         null,
         null,
@@ -100129,7 +100129,7 @@
         }
       ]
     },
-    "/Users/ykulkarni/sprints/sprint33/template-twilio-ruby/lib/twilio-ruby/rest/media_base.rb": {
+    "lib/twilio-ruby/rest/media_base.rb": {
       "lines": [
         null,
         null,
@@ -100174,7 +100174,7 @@
 
       ]
     },
-    "/Users/ykulkarni/sprints/sprint33/template-twilio-ruby/lib/twilio-ruby/rest/messaging.rb": {
+    "lib/twilio-ruby/rest/messaging.rb": {
       "lines": [
         1,
         1,
@@ -100255,7 +100255,7 @@
 
       ]
     },
-    "/Users/ykulkarni/sprints/sprint33/template-twilio-ruby/lib/twilio-ruby/rest/messaging/v1.rb": {
+    "lib/twilio-ruby/rest/messaging/v1.rb": {
       "lines": [
         null,
         null,
@@ -100695,7 +100695,7 @@
         }
       ]
     },
-    "/Users/ykulkarni/sprints/sprint33/template-twilio-ruby/lib/twilio-ruby/rest/messaging/v1/brand_registration.rb": {
+    "lib/twilio-ruby/rest/messaging/v1/brand_registration.rb": {
       "lines": [
         null,
         null,
@@ -101270,7 +101270,7 @@
         }
       ]
     },
-    "/Users/ykulkarni/sprints/sprint33/template-twilio-ruby/lib/twilio-ruby/rest/messaging/v1/brand_registration/brand_registration_otp.rb": {
+    "lib/twilio-ruby/rest/messaging/v1/brand_registration/brand_registration_otp.rb": {
       "lines": [
         null,
         null,
@@ -101413,7 +101413,7 @@
 
       ]
     },
-    "/Users/ykulkarni/sprints/sprint33/template-twilio-ruby/lib/twilio-ruby/rest/messaging/v1/brand_registration/brand_vetting.rb": {
+    "lib/twilio-ruby/rest/messaging/v1/brand_registration/brand_vetting.rb": {
       "lines": [
         null,
         null,
@@ -101796,7 +101796,7 @@
         }
       ]
     },
-    "/Users/ykulkarni/sprints/sprint33/template-twilio-ruby/lib/twilio-ruby/rest/messaging/v1/deactivations.rb": {
+    "lib/twilio-ruby/rest/messaging/v1/deactivations.rb": {
       "lines": [
         null,
         null,
@@ -102003,7 +102003,7 @@
         }
       ]
     },
-    "/Users/ykulkarni/sprints/sprint33/template-twilio-ruby/lib/twilio-ruby/rest/messaging/v1/domain_certs.rb": {
+    "lib/twilio-ruby/rest/messaging/v1/domain_certs.rb": {
       "lines": [
         null,
         null,
@@ -102301,7 +102301,7 @@
         }
       ]
     },
-    "/Users/ykulkarni/sprints/sprint33/template-twilio-ruby/lib/twilio-ruby/rest/messaging/v1/domain_config.rb": {
+    "lib/twilio-ruby/rest/messaging/v1/domain_config.rb": {
       "lines": [
         null,
         null,
@@ -102608,7 +102608,7 @@
         }
       ]
     },
-    "/Users/ykulkarni/sprints/sprint33/template-twilio-ruby/lib/twilio-ruby/rest/messaging/v1/domain_config_messaging_service.rb": {
+    "lib/twilio-ruby/rest/messaging/v1/domain_config_messaging_service.rb": {
       "lines": [
         null,
         null,
@@ -102864,7 +102864,7 @@
         }
       ]
     },
-    "/Users/ykulkarni/sprints/sprint33/template-twilio-ruby/lib/twilio-ruby/rest/messaging/v1/external_campaign.rb": {
+    "lib/twilio-ruby/rest/messaging/v1/external_campaign.rb": {
       "lines": [
         null,
         null,
@@ -103032,7 +103032,7 @@
 
       ]
     },
-    "/Users/ykulkarni/sprints/sprint33/template-twilio-ruby/lib/twilio-ruby/rest/messaging/v1/linkshortening_messaging_service.rb": {
+    "lib/twilio-ruby/rest/messaging/v1/linkshortening_messaging_service.rb": {
       "lines": [
         null,
         null,
@@ -103264,7 +103264,7 @@
         }
       ]
     },
-    "/Users/ykulkarni/sprints/sprint33/template-twilio-ruby/lib/twilio-ruby/rest/messaging/v1/linkshortening_messaging_service_domain_association.rb": {
+    "lib/twilio-ruby/rest/messaging/v1/linkshortening_messaging_service_domain_association.rb": {
       "lines": [
         null,
         null,
@@ -103478,7 +103478,7 @@
         }
       ]
     },
-    "/Users/ykulkarni/sprints/sprint33/template-twilio-ruby/lib/twilio-ruby/rest/messaging/v1/service.rb": {
+    "lib/twilio-ruby/rest/messaging/v1/service.rb": {
       "lines": [
         null,
         null,
@@ -104477,7 +104477,7 @@
         }
       ]
     },
-    "/Users/ykulkarni/sprints/sprint33/template-twilio-ruby/lib/twilio-ruby/rest/messaging/v1/service/alpha_sender.rb": {
+    "lib/twilio-ruby/rest/messaging/v1/service/alpha_sender.rb": {
       "lines": [
         null,
         null,
@@ -104853,7 +104853,7 @@
         }
       ]
     },
-    "/Users/ykulkarni/sprints/sprint33/template-twilio-ruby/lib/twilio-ruby/rest/messaging/v1/service/channel_sender.rb": {
+    "lib/twilio-ruby/rest/messaging/v1/service/channel_sender.rb": {
       "lines": [
         null,
         null,
@@ -105200,7 +105200,7 @@
         }
       ]
     },
-    "/Users/ykulkarni/sprints/sprint33/template-twilio-ruby/lib/twilio-ruby/rest/messaging/v1/service/phone_number.rb": {
+    "lib/twilio-ruby/rest/messaging/v1/service/phone_number.rb": {
       "lines": [
         null,
         null,
@@ -105583,7 +105583,7 @@
         }
       ]
     },
-    "/Users/ykulkarni/sprints/sprint33/template-twilio-ruby/lib/twilio-ruby/rest/messaging/v1/service/short_code.rb": {
+    "lib/twilio-ruby/rest/messaging/v1/service/short_code.rb": {
       "lines": [
         null,
         null,
@@ -105966,7 +105966,7 @@
         }
       ]
     },
-    "/Users/ykulkarni/sprints/sprint33/template-twilio-ruby/lib/twilio-ruby/rest/messaging/v1/service/us_app_to_person.rb": {
+    "lib/twilio-ruby/rest/messaging/v1/service/us_app_to_person.rb": {
       "lines": [
         null,
         null,
@@ -106497,7 +106497,7 @@
         }
       ]
     },
-    "/Users/ykulkarni/sprints/sprint33/template-twilio-ruby/lib/twilio-ruby/rest/messaging/v1/service/us_app_to_person_usecase.rb": {
+    "lib/twilio-ruby/rest/messaging/v1/service/us_app_to_person_usecase.rb": {
       "lines": [
         null,
         null,
@@ -106639,7 +106639,7 @@
 
       ]
     },
-    "/Users/ykulkarni/sprints/sprint33/template-twilio-ruby/lib/twilio-ruby/rest/messaging/v1/tollfree_verification.rb": {
+    "lib/twilio-ruby/rest/messaging/v1/tollfree_verification.rb": {
       "lines": [
         null,
         null,
@@ -107446,7 +107446,7 @@
         }
       ]
     },
-    "/Users/ykulkarni/sprints/sprint33/template-twilio-ruby/lib/twilio-ruby/rest/messaging/v1/usecase.rb": {
+    "lib/twilio-ruby/rest/messaging/v1/usecase.rb": {
       "lines": [
         null,
         null,
@@ -107576,7 +107576,7 @@
 
       ]
     },
-    "/Users/ykulkarni/sprints/sprint33/template-twilio-ruby/lib/twilio-ruby/rest/messaging_base.rb": {
+    "lib/twilio-ruby/rest/messaging_base.rb": {
       "lines": [
         null,
         null,
@@ -107621,7 +107621,7 @@
 
       ]
     },
-    "/Users/ykulkarni/sprints/sprint33/template-twilio-ruby/lib/twilio-ruby/rest/microvisor.rb": {
+    "lib/twilio-ruby/rest/microvisor.rb": {
       "lines": [
         1,
         1,
@@ -107652,7 +107652,7 @@
 
       ]
     },
-    "/Users/ykulkarni/sprints/sprint33/template-twilio-ruby/lib/twilio-ruby/rest/microvisor/v1.rb": {
+    "lib/twilio-ruby/rest/microvisor/v1.rb": {
       "lines": [
         null,
         null,
@@ -107848,7 +107848,7 @@
         }
       ]
     },
-    "/Users/ykulkarni/sprints/sprint33/template-twilio-ruby/lib/twilio-ruby/rest/microvisor/v1/account_config.rb": {
+    "lib/twilio-ruby/rest/microvisor/v1/account_config.rb": {
       "lines": [
         null,
         null,
@@ -108224,7 +108224,7 @@
         }
       ]
     },
-    "/Users/ykulkarni/sprints/sprint33/template-twilio-ruby/lib/twilio-ruby/rest/microvisor/v1/account_secret.rb": {
+    "lib/twilio-ruby/rest/microvisor/v1/account_secret.rb": {
       "lines": [
         null,
         null,
@@ -108593,7 +108593,7 @@
         }
       ]
     },
-    "/Users/ykulkarni/sprints/sprint33/template-twilio-ruby/lib/twilio-ruby/rest/microvisor/v1/app.rb": {
+    "lib/twilio-ruby/rest/microvisor/v1/app.rb": {
       "lines": [
         null,
         null,
@@ -108960,7 +108960,7 @@
         }
       ]
     },
-    "/Users/ykulkarni/sprints/sprint33/template-twilio-ruby/lib/twilio-ruby/rest/microvisor/v1/app/app_manifest.rb": {
+    "lib/twilio-ruby/rest/microvisor/v1/app/app_manifest.rb": {
       "lines": [
         null,
         null,
@@ -109186,7 +109186,7 @@
         }
       ]
     },
-    "/Users/ykulkarni/sprints/sprint33/template-twilio-ruby/lib/twilio-ruby/rest/microvisor/v1/device.rb": {
+    "lib/twilio-ruby/rest/microvisor/v1/device.rb": {
       "lines": [
         null,
         null,
@@ -109703,7 +109703,7 @@
         }
       ]
     },
-    "/Users/ykulkarni/sprints/sprint33/template-twilio-ruby/lib/twilio-ruby/rest/microvisor/v1/device/device_config.rb": {
+    "lib/twilio-ruby/rest/microvisor/v1/device/device_config.rb": {
       "lines": [
         null,
         null,
@@ -110095,7 +110095,7 @@
         }
       ]
     },
-    "/Users/ykulkarni/sprints/sprint33/template-twilio-ruby/lib/twilio-ruby/rest/microvisor/v1/device/device_secret.rb": {
+    "lib/twilio-ruby/rest/microvisor/v1/device/device_secret.rb": {
       "lines": [
         null,
         null,
@@ -110480,7 +110480,7 @@
         }
       ]
     },
-    "/Users/ykulkarni/sprints/sprint33/template-twilio-ruby/lib/twilio-ruby/rest/microvisor_base.rb": {
+    "lib/twilio-ruby/rest/microvisor_base.rb": {
       "lines": [
         null,
         null,
@@ -110525,7 +110525,7 @@
 
       ]
     },
-    "/Users/ykulkarni/sprints/sprint33/template-twilio-ruby/lib/twilio-ruby/rest/monitor.rb": {
+    "lib/twilio-ruby/rest/monitor.rb": {
       "lines": [
         1,
         1,
@@ -110557,7 +110557,7 @@
 
       ]
     },
-    "/Users/ykulkarni/sprints/sprint33/template-twilio-ruby/lib/twilio-ruby/rest/monitor/v1.rb": {
+    "lib/twilio-ruby/rest/monitor/v1.rb": {
       "lines": [
         null,
         null,
@@ -110675,7 +110675,7 @@
         }
       ]
     },
-    "/Users/ykulkarni/sprints/sprint33/template-twilio-ruby/lib/twilio-ruby/rest/monitor/v1/alert.rb": {
+    "lib/twilio-ruby/rest/monitor/v1/alert.rb": {
       "lines": [
         null,
         null,
@@ -111101,7 +111101,7 @@
         }
       ]
     },
-    "/Users/ykulkarni/sprints/sprint33/template-twilio-ruby/lib/twilio-ruby/rest/monitor/v1/event.rb": {
+    "lib/twilio-ruby/rest/monitor/v1/event.rb": {
       "lines": [
         null,
         null,
@@ -111510,7 +111510,7 @@
         }
       ]
     },
-    "/Users/ykulkarni/sprints/sprint33/template-twilio-ruby/lib/twilio-ruby/rest/monitor_base.rb": {
+    "lib/twilio-ruby/rest/monitor_base.rb": {
       "lines": [
         null,
         null,
@@ -111555,7 +111555,7 @@
 
       ]
     },
-    "/Users/ykulkarni/sprints/sprint33/template-twilio-ruby/lib/twilio-ruby/rest/notify.rb": {
+    "lib/twilio-ruby/rest/notify.rb": {
       "lines": [
         1,
         1,
@@ -111587,7 +111587,7 @@
 
       ]
     },
-    "/Users/ykulkarni/sprints/sprint33/template-twilio-ruby/lib/twilio-ruby/rest/notify/v1.rb": {
+    "lib/twilio-ruby/rest/notify/v1.rb": {
       "lines": [
         null,
         null,
@@ -111705,7 +111705,7 @@
         }
       ]
     },
-    "/Users/ykulkarni/sprints/sprint33/template-twilio-ruby/lib/twilio-ruby/rest/notify/v1/credential.rb": {
+    "lib/twilio-ruby/rest/notify/v1/credential.rb": {
       "lines": [
         null,
         null,
@@ -112154,7 +112154,7 @@
         }
       ]
     },
-    "/Users/ykulkarni/sprints/sprint33/template-twilio-ruby/lib/twilio-ruby/rest/notify/v1/service.rb": {
+    "lib/twilio-ruby/rest/notify/v1/service.rb": {
       "lines": [
         null,
         null,
@@ -112856,7 +112856,7 @@
         }
       ]
     },
-    "/Users/ykulkarni/sprints/sprint33/template-twilio-ruby/lib/twilio-ruby/rest/notify/v1/service/binding.rb": {
+    "lib/twilio-ruby/rest/notify/v1/service/binding.rb": {
       "lines": [
         null,
         null,
@@ -113318,7 +113318,7 @@
         }
       ]
     },
-    "/Users/ykulkarni/sprints/sprint33/template-twilio-ruby/lib/twilio-ruby/rest/notify/v1/service/notification.rb": {
+    "lib/twilio-ruby/rest/notify/v1/service/notification.rb": {
       "lines": [
         null,
         null,
@@ -113656,7 +113656,7 @@
         }
       ]
     },
-    "/Users/ykulkarni/sprints/sprint33/template-twilio-ruby/lib/twilio-ruby/rest/notify_base.rb": {
+    "lib/twilio-ruby/rest/notify_base.rb": {
       "lines": [
         null,
         null,
@@ -113701,7 +113701,7 @@
 
       ]
     },
-    "/Users/ykulkarni/sprints/sprint33/template-twilio-ruby/lib/twilio-ruby/rest/numbers.rb": {
+    "lib/twilio-ruby/rest/numbers.rb": {
       "lines": [
         1,
         1,
@@ -113720,7 +113720,7 @@
 
       ]
     },
-    "/Users/ykulkarni/sprints/sprint33/template-twilio-ruby/lib/twilio-ruby/rest/numbers/v1.rb": {
+    "lib/twilio-ruby/rest/numbers/v1.rb": {
       "lines": [
         null,
         null,
@@ -113916,7 +113916,7 @@
         }
       ]
     },
-    "/Users/ykulkarni/sprints/sprint33/template-twilio-ruby/lib/twilio-ruby/rest/numbers/v1/bulk_eligibility.rb": {
+    "lib/twilio-ruby/rest/numbers/v1/bulk_eligibility.rb": {
       "lines": [
         null,
         null,
@@ -114158,7 +114158,7 @@
         }
       ]
     },
-    "/Users/ykulkarni/sprints/sprint33/template-twilio-ruby/lib/twilio-ruby/rest/numbers/v1/porting_bulk_portability.rb": {
+    "lib/twilio-ruby/rest/numbers/v1/porting_bulk_portability.rb": {
       "lines": [
         null,
         null,
@@ -114405,7 +114405,7 @@
         }
       ]
     },
-    "/Users/ykulkarni/sprints/sprint33/template-twilio-ruby/lib/twilio-ruby/rest/numbers/v1/porting_port_in_fetch.rb": {
+    "lib/twilio-ruby/rest/numbers/v1/porting_port_in_fetch.rb": {
       "lines": [
         null,
         null,
@@ -114668,7 +114668,7 @@
         }
       ]
     },
-    "/Users/ykulkarni/sprints/sprint33/template-twilio-ruby/lib/twilio-ruby/rest/numbers/v1/porting_portability.rb": {
+    "lib/twilio-ruby/rest/numbers/v1/porting_portability.rb": {
       "lines": [
         null,
         null,
@@ -114961,7 +114961,7 @@
         }
       ]
     },
-    "/Users/ykulkarni/sprints/sprint33/template-twilio-ruby/lib/twilio-ruby/rest/numbers/v2.rb": {
+    "lib/twilio-ruby/rest/numbers/v2.rb": {
       "lines": [
         null,
         null,
@@ -115124,7 +115124,7 @@
         }
       ]
     },
-    "/Users/ykulkarni/sprints/sprint33/template-twilio-ruby/lib/twilio-ruby/rest/numbers/v2/authorization_document.rb": {
+    "lib/twilio-ruby/rest/numbers/v2/authorization_document.rb": {
       "lines": [
         null,
         null,
@@ -115557,7 +115557,7 @@
         }
       ]
     },
-    "/Users/ykulkarni/sprints/sprint33/template-twilio-ruby/lib/twilio-ruby/rest/numbers/v2/authorization_document/dependent_hosted_number_order.rb": {
+    "lib/twilio-ruby/rest/numbers/v2/authorization_document/dependent_hosted_number_order.rb": {
       "lines": [
         null,
         null,
@@ -115907,7 +115907,7 @@
 
       ]
     },
-    "/Users/ykulkarni/sprints/sprint33/template-twilio-ruby/lib/twilio-ruby/rest/numbers/v2/bulk_hosted_number_order.rb": {
+    "lib/twilio-ruby/rest/numbers/v2/bulk_hosted_number_order.rb": {
       "lines": [
         null,
         null,
@@ -116186,7 +116186,7 @@
         }
       ]
     },
-    "/Users/ykulkarni/sprints/sprint33/template-twilio-ruby/lib/twilio-ruby/rest/numbers/v2/hosted_number_order.rb": {
+    "lib/twilio-ruby/rest/numbers/v2/hosted_number_order.rb": {
       "lines": [
         null,
         null,
@@ -116706,7 +116706,7 @@
         }
       ]
     },
-    "/Users/ykulkarni/sprints/sprint33/template-twilio-ruby/lib/twilio-ruby/rest/numbers/v2/regulatory_compliance.rb": {
+    "lib/twilio-ruby/rest/numbers/v2/regulatory_compliance.rb": {
       "lines": [
         null,
         null,
@@ -117041,7 +117041,7 @@
         }
       ]
     },
-    "/Users/ykulkarni/sprints/sprint33/template-twilio-ruby/lib/twilio-ruby/rest/numbers/v2/regulatory_compliance/bundle.rb": {
+    "lib/twilio-ruby/rest/numbers/v2/regulatory_compliance/bundle.rb": {
       "lines": [
         null,
         null,
@@ -117763,7 +117763,7 @@
         }
       ]
     },
-    "/Users/ykulkarni/sprints/sprint33/template-twilio-ruby/lib/twilio-ruby/rest/numbers/v2/regulatory_compliance/bundle/bundle_copy.rb": {
+    "lib/twilio-ruby/rest/numbers/v2/regulatory_compliance/bundle/bundle_copy.rb": {
       "lines": [
         null,
         null,
@@ -118055,7 +118055,7 @@
 
       ]
     },
-    "/Users/ykulkarni/sprints/sprint33/template-twilio-ruby/lib/twilio-ruby/rest/numbers/v2/regulatory_compliance/bundle/evaluation.rb": {
+    "lib/twilio-ruby/rest/numbers/v2/regulatory_compliance/bundle/evaluation.rb": {
       "lines": [
         null,
         null,
@@ -118408,7 +118408,7 @@
         }
       ]
     },
-    "/Users/ykulkarni/sprints/sprint33/template-twilio-ruby/lib/twilio-ruby/rest/numbers/v2/regulatory_compliance/bundle/item_assignment.rb": {
+    "lib/twilio-ruby/rest/numbers/v2/regulatory_compliance/bundle/item_assignment.rb": {
       "lines": [
         null,
         null,
@@ -118770,7 +118770,7 @@
         }
       ]
     },
-    "/Users/ykulkarni/sprints/sprint33/template-twilio-ruby/lib/twilio-ruby/rest/numbers/v2/regulatory_compliance/bundle/replace_items.rb": {
+    "lib/twilio-ruby/rest/numbers/v2/regulatory_compliance/bundle/replace_items.rb": {
       "lines": [
         null,
         null,
@@ -118978,7 +118978,7 @@
 
       ]
     },
-    "/Users/ykulkarni/sprints/sprint33/template-twilio-ruby/lib/twilio-ruby/rest/numbers/v2/regulatory_compliance/end_user.rb": {
+    "lib/twilio-ruby/rest/numbers/v2/regulatory_compliance/end_user.rb": {
       "lines": [
         null,
         null,
@@ -119394,7 +119394,7 @@
         }
       ]
     },
-    "/Users/ykulkarni/sprints/sprint33/template-twilio-ruby/lib/twilio-ruby/rest/numbers/v2/regulatory_compliance/end_user_type.rb": {
+    "lib/twilio-ruby/rest/numbers/v2/regulatory_compliance/end_user_type.rb": {
       "lines": [
         null,
         null,
@@ -119709,7 +119709,7 @@
         }
       ]
     },
-    "/Users/ykulkarni/sprints/sprint33/template-twilio-ruby/lib/twilio-ruby/rest/numbers/v2/regulatory_compliance/regulation.rb": {
+    "lib/twilio-ruby/rest/numbers/v2/regulatory_compliance/regulation.rb": {
       "lines": [
         null,
         null,
@@ -120056,7 +120056,7 @@
         }
       ]
     },
-    "/Users/ykulkarni/sprints/sprint33/template-twilio-ruby/lib/twilio-ruby/rest/numbers/v2/regulatory_compliance/supporting_document.rb": {
+    "lib/twilio-ruby/rest/numbers/v2/regulatory_compliance/supporting_document.rb": {
       "lines": [
         null,
         null,
@@ -120493,7 +120493,7 @@
         }
       ]
     },
-    "/Users/ykulkarni/sprints/sprint33/template-twilio-ruby/lib/twilio-ruby/rest/numbers/v2/regulatory_compliance/supporting_document_type.rb": {
+    "lib/twilio-ruby/rest/numbers/v2/regulatory_compliance/supporting_document_type.rb": {
       "lines": [
         null,
         null,
@@ -120808,7 +120808,7 @@
         }
       ]
     },
-    "/Users/ykulkarni/sprints/sprint33/template-twilio-ruby/lib/twilio-ruby/rest/numbers_base.rb": {
+    "lib/twilio-ruby/rest/numbers_base.rb": {
       "lines": [
         null,
         null,
@@ -120858,7 +120858,7 @@
 
       ]
     },
-    "/Users/ykulkarni/sprints/sprint33/template-twilio-ruby/lib/twilio-ruby/rest/preview.rb": {
+    "lib/twilio-ruby/rest/preview.rb": {
       "lines": [
         1,
         1,
@@ -120957,7 +120957,7 @@
 
       ]
     },
-    "/Users/ykulkarni/sprints/sprint33/template-twilio-ruby/lib/twilio-ruby/rest/preview/deployed_devices.rb": {
+    "lib/twilio-ruby/rest/preview/deployed_devices.rb": {
       "lines": [
         null,
         null,
@@ -121036,7 +121036,7 @@
         }
       ]
     },
-    "/Users/ykulkarni/sprints/sprint33/template-twilio-ruby/lib/twilio-ruby/rest/preview/deployed_devices/fleet.rb": {
+    "lib/twilio-ruby/rest/preview/deployed_devices/fleet.rb": {
       "lines": [
         null,
         null,
@@ -121702,7 +121702,7 @@
         }
       ]
     },
-    "/Users/ykulkarni/sprints/sprint33/template-twilio-ruby/lib/twilio-ruby/rest/preview/deployed_devices/fleet/certificate.rb": {
+    "lib/twilio-ruby/rest/preview/deployed_devices/fleet/certificate.rb": {
       "lines": [
         null,
         null,
@@ -122137,7 +122137,7 @@
         }
       ]
     },
-    "/Users/ykulkarni/sprints/sprint33/template-twilio-ruby/lib/twilio-ruby/rest/preview/deployed_devices/fleet/deployment.rb": {
+    "lib/twilio-ruby/rest/preview/deployed_devices/fleet/deployment.rb": {
       "lines": [
         null,
         null,
@@ -122556,7 +122556,7 @@
         }
       ]
     },
-    "/Users/ykulkarni/sprints/sprint33/template-twilio-ruby/lib/twilio-ruby/rest/preview/deployed_devices/fleet/device.rb": {
+    "lib/twilio-ruby/rest/preview/deployed_devices/fleet/device.rb": {
       "lines": [
         null,
         null,
@@ -123030,7 +123030,7 @@
         }
       ]
     },
-    "/Users/ykulkarni/sprints/sprint33/template-twilio-ruby/lib/twilio-ruby/rest/preview/deployed_devices/fleet/key.rb": {
+    "lib/twilio-ruby/rest/preview/deployed_devices/fleet/key.rb": {
       "lines": [
         null,
         null,
@@ -123462,7 +123462,7 @@
         }
       ]
     },
-    "/Users/ykulkarni/sprints/sprint33/template-twilio-ruby/lib/twilio-ruby/rest/preview/hosted_numbers.rb": {
+    "lib/twilio-ruby/rest/preview/hosted_numbers.rb": {
       "lines": [
         null,
         null,
@@ -123580,7 +123580,7 @@
         }
       ]
     },
-    "/Users/ykulkarni/sprints/sprint33/template-twilio-ruby/lib/twilio-ruby/rest/preview/hosted_numbers/authorization_document.rb": {
+    "lib/twilio-ruby/rest/preview/hosted_numbers/authorization_document.rb": {
       "lines": [
         null,
         null,
@@ -124066,7 +124066,7 @@
         }
       ]
     },
-    "/Users/ykulkarni/sprints/sprint33/template-twilio-ruby/lib/twilio-ruby/rest/preview/hosted_numbers/authorization_document/dependent_hosted_number_order.rb": {
+    "lib/twilio-ruby/rest/preview/hosted_numbers/authorization_document/dependent_hosted_number_order.rb": {
       "lines": [
         null,
         null,
@@ -124473,7 +124473,7 @@
         }
       ]
     },
-    "/Users/ykulkarni/sprints/sprint33/template-twilio-ruby/lib/twilio-ruby/rest/preview/hosted_numbers/hosted_number_order.rb": {
+    "lib/twilio-ruby/rest/preview/hosted_numbers/hosted_number_order.rb": {
       "lines": [
         null,
         null,
@@ -125135,7 +125135,7 @@
         }
       ]
     },
-    "/Users/ykulkarni/sprints/sprint33/template-twilio-ruby/lib/twilio-ruby/rest/preview/marketplace.rb": {
+    "lib/twilio-ruby/rest/preview/marketplace.rb": {
       "lines": [
         null,
         null,
@@ -125253,7 +125253,7 @@
         }
       ]
     },
-    "/Users/ykulkarni/sprints/sprint33/template-twilio-ruby/lib/twilio-ruby/rest/preview/marketplace/available_add_on.rb": {
+    "lib/twilio-ruby/rest/preview/marketplace/available_add_on.rb": {
       "lines": [
         null,
         null,
@@ -125642,7 +125642,7 @@
         }
       ]
     },
-    "/Users/ykulkarni/sprints/sprint33/template-twilio-ruby/lib/twilio-ruby/rest/preview/marketplace/available_add_on/available_add_on_extension.rb": {
+    "lib/twilio-ruby/rest/preview/marketplace/available_add_on/available_add_on_extension.rb": {
       "lines": [
         null,
         null,
@@ -125968,7 +125968,7 @@
         }
       ]
     },
-    "/Users/ykulkarni/sprints/sprint33/template-twilio-ruby/lib/twilio-ruby/rest/preview/marketplace/installed_add_on.rb": {
+    "lib/twilio-ruby/rest/preview/marketplace/installed_add_on.rb": {
       "lines": [
         null,
         null,
@@ -126461,7 +126461,7 @@
         }
       ]
     },
-    "/Users/ykulkarni/sprints/sprint33/template-twilio-ruby/lib/twilio-ruby/rest/preview/marketplace/installed_add_on/installed_add_on_extension.rb": {
+    "lib/twilio-ruby/rest/preview/marketplace/installed_add_on/installed_add_on_extension.rb": {
       "lines": [
         null,
         null,
@@ -126828,7 +126828,7 @@
         }
       ]
     },
-    "/Users/ykulkarni/sprints/sprint33/template-twilio-ruby/lib/twilio-ruby/rest/preview/sync.rb": {
+    "lib/twilio-ruby/rest/preview/sync.rb": {
       "lines": [
         null,
         null,
@@ -126907,7 +126907,7 @@
         }
       ]
     },
-    "/Users/ykulkarni/sprints/sprint33/template-twilio-ruby/lib/twilio-ruby/rest/preview/sync/service.rb": {
+    "lib/twilio-ruby/rest/preview/sync/service.rb": {
       "lines": [
         null,
         null,
@@ -127538,7 +127538,7 @@
         }
       ]
     },
-    "/Users/ykulkarni/sprints/sprint33/template-twilio-ruby/lib/twilio-ruby/rest/preview/sync/service/document.rb": {
+    "lib/twilio-ruby/rest/preview/sync/service/document.rb": {
       "lines": [
         null,
         null,
@@ -128041,7 +128041,7 @@
         }
       ]
     },
-    "/Users/ykulkarni/sprints/sprint33/template-twilio-ruby/lib/twilio-ruby/rest/preview/sync/service/document/document_permission.rb": {
+    "lib/twilio-ruby/rest/preview/sync/service/document/document_permission.rb": {
       "lines": [
         null,
         null,
@@ -128448,7 +128448,7 @@
         }
       ]
     },
-    "/Users/ykulkarni/sprints/sprint33/template-twilio-ruby/lib/twilio-ruby/rest/preview/sync/service/sync_list.rb": {
+    "lib/twilio-ruby/rest/preview/sync/service/sync_list.rb": {
       "lines": [
         null,
         null,
@@ -128964,7 +128964,7 @@
         }
       ]
     },
-    "/Users/ykulkarni/sprints/sprint33/template-twilio-ruby/lib/twilio-ruby/rest/preview/sync/service/sync_list/sync_list_item.rb": {
+    "lib/twilio-ruby/rest/preview/sync/service/sync_list/sync_list_item.rb": {
       "lines": [
         null,
         null,
@@ -129439,7 +129439,7 @@
         }
       ]
     },
-    "/Users/ykulkarni/sprints/sprint33/template-twilio-ruby/lib/twilio-ruby/rest/preview/sync/service/sync_list/sync_list_permission.rb": {
+    "lib/twilio-ruby/rest/preview/sync/service/sync_list/sync_list_permission.rb": {
       "lines": [
         null,
         null,
@@ -129846,7 +129846,7 @@
         }
       ]
     },
-    "/Users/ykulkarni/sprints/sprint33/template-twilio-ruby/lib/twilio-ruby/rest/preview/sync/service/sync_map.rb": {
+    "lib/twilio-ruby/rest/preview/sync/service/sync_map.rb": {
       "lines": [
         null,
         null,
@@ -130362,7 +130362,7 @@
         }
       ]
     },
-    "/Users/ykulkarni/sprints/sprint33/template-twilio-ruby/lib/twilio-ruby/rest/preview/sync/service/sync_map/sync_map_item.rb": {
+    "lib/twilio-ruby/rest/preview/sync/service/sync_map/sync_map_item.rb": {
       "lines": [
         null,
         null,
@@ -130828,7 +130828,7 @@
         }
       ]
     },
-    "/Users/ykulkarni/sprints/sprint33/template-twilio-ruby/lib/twilio-ruby/rest/preview/sync/service/sync_map/sync_map_permission.rb": {
+    "lib/twilio-ruby/rest/preview/sync/service/sync_map/sync_map_permission.rb": {
       "lines": [
         null,
         null,
@@ -131235,7 +131235,7 @@
         }
       ]
     },
-    "/Users/ykulkarni/sprints/sprint33/template-twilio-ruby/lib/twilio-ruby/rest/preview/wireless.rb": {
+    "lib/twilio-ruby/rest/preview/wireless.rb": {
       "lines": [
         null,
         null,
@@ -131392,7 +131392,7 @@
         }
       ]
     },
-    "/Users/ykulkarni/sprints/sprint33/template-twilio-ruby/lib/twilio-ruby/rest/preview/wireless/command.rb": {
+    "lib/twilio-ruby/rest/preview/wireless/command.rb": {
       "lines": [
         null,
         null,
@@ -131807,7 +131807,7 @@
         }
       ]
     },
-    "/Users/ykulkarni/sprints/sprint33/template-twilio-ruby/lib/twilio-ruby/rest/preview/wireless/rate_plan.rb": {
+    "lib/twilio-ruby/rest/preview/wireless/rate_plan.rb": {
       "lines": [
         null,
         null,
@@ -132295,7 +132295,7 @@
         }
       ]
     },
-    "/Users/ykulkarni/sprints/sprint33/template-twilio-ruby/lib/twilio-ruby/rest/preview/wireless/sim.rb": {
+    "lib/twilio-ruby/rest/preview/wireless/sim.rb": {
       "lines": [
         null,
         null,
@@ -132897,7 +132897,7 @@
         }
       ]
     },
-    "/Users/ykulkarni/sprints/sprint33/template-twilio-ruby/lib/twilio-ruby/rest/preview/wireless/sim/usage.rb": {
+    "lib/twilio-ruby/rest/preview/wireless/sim/usage.rb": {
       "lines": [
         null,
         null,
@@ -133175,7 +133175,7 @@
         }
       ]
     },
-    "/Users/ykulkarni/sprints/sprint33/template-twilio-ruby/lib/twilio-ruby/rest/preview_base.rb": {
+    "lib/twilio-ruby/rest/preview_base.rb": {
       "lines": [
         null,
         null,
@@ -133240,7 +133240,7 @@
 
       ]
     },
-    "/Users/ykulkarni/sprints/sprint33/template-twilio-ruby/lib/twilio-ruby/rest/pricing.rb": {
+    "lib/twilio-ruby/rest/pricing.rb": {
       "lines": [
         1,
         1,
@@ -133294,7 +133294,7 @@
 
       ]
     },
-    "/Users/ykulkarni/sprints/sprint33/template-twilio-ruby/lib/twilio-ruby/rest/pricing/v1.rb": {
+    "lib/twilio-ruby/rest/pricing/v1.rb": {
       "lines": [
         null,
         null,
@@ -133353,7 +133353,7 @@
 
       ]
     },
-    "/Users/ykulkarni/sprints/sprint33/template-twilio-ruby/lib/twilio-ruby/rest/pricing/v1/messaging.rb": {
+    "lib/twilio-ruby/rest/pricing/v1/messaging.rb": {
       "lines": [
         null,
         null,
@@ -133498,7 +133498,7 @@
         }
       ]
     },
-    "/Users/ykulkarni/sprints/sprint33/template-twilio-ruby/lib/twilio-ruby/rest/pricing/v1/messaging/country.rb": {
+    "lib/twilio-ruby/rest/pricing/v1/messaging/country.rb": {
       "lines": [
         null,
         null,
@@ -133820,7 +133820,7 @@
         }
       ]
     },
-    "/Users/ykulkarni/sprints/sprint33/template-twilio-ruby/lib/twilio-ruby/rest/pricing/v1/phone_number.rb": {
+    "lib/twilio-ruby/rest/pricing/v1/phone_number.rb": {
       "lines": [
         null,
         null,
@@ -133965,7 +133965,7 @@
         }
       ]
     },
-    "/Users/ykulkarni/sprints/sprint33/template-twilio-ruby/lib/twilio-ruby/rest/pricing/v1/phone_number/country.rb": {
+    "lib/twilio-ruby/rest/pricing/v1/phone_number/country.rb": {
       "lines": [
         null,
         null,
@@ -134280,7 +134280,7 @@
         }
       ]
     },
-    "/Users/ykulkarni/sprints/sprint33/template-twilio-ruby/lib/twilio-ruby/rest/pricing/v1/voice.rb": {
+    "lib/twilio-ruby/rest/pricing/v1/voice.rb": {
       "lines": [
         null,
         null,
@@ -134463,7 +134463,7 @@
         }
       ]
     },
-    "/Users/ykulkarni/sprints/sprint33/template-twilio-ruby/lib/twilio-ruby/rest/pricing/v1/voice/country.rb": {
+    "lib/twilio-ruby/rest/pricing/v1/voice/country.rb": {
       "lines": [
         null,
         null,
@@ -134785,7 +134785,7 @@
         }
       ]
     },
-    "/Users/ykulkarni/sprints/sprint33/template-twilio-ruby/lib/twilio-ruby/rest/pricing/v1/voice/number.rb": {
+    "lib/twilio-ruby/rest/pricing/v1/voice/number.rb": {
       "lines": [
         null,
         null,
@@ -135030,7 +135030,7 @@
         }
       ]
     },
-    "/Users/ykulkarni/sprints/sprint33/template-twilio-ruby/lib/twilio-ruby/rest/pricing/v2.rb": {
+    "lib/twilio-ruby/rest/pricing/v2.rb": {
       "lines": [
         null,
         null,
@@ -135154,7 +135154,7 @@
         }
       ]
     },
-    "/Users/ykulkarni/sprints/sprint33/template-twilio-ruby/lib/twilio-ruby/rest/pricing/v2/country.rb": {
+    "lib/twilio-ruby/rest/pricing/v2/country.rb": {
       "lines": [
         null,
         null,
@@ -135471,7 +135471,7 @@
         }
       ]
     },
-    "/Users/ykulkarni/sprints/sprint33/template-twilio-ruby/lib/twilio-ruby/rest/pricing/v2/number.rb": {
+    "lib/twilio-ruby/rest/pricing/v2/number.rb": {
       "lines": [
         null,
         null,
@@ -135729,7 +135729,7 @@
         }
       ]
     },
-    "/Users/ykulkarni/sprints/sprint33/template-twilio-ruby/lib/twilio-ruby/rest/pricing/v2/voice.rb": {
+    "lib/twilio-ruby/rest/pricing/v2/voice.rb": {
       "lines": [
         null,
         null,
@@ -135912,7 +135912,7 @@
         }
       ]
     },
-    "/Users/ykulkarni/sprints/sprint33/template-twilio-ruby/lib/twilio-ruby/rest/pricing/v2/voice/country.rb": {
+    "lib/twilio-ruby/rest/pricing/v2/voice/country.rb": {
       "lines": [
         null,
         null,
@@ -136234,7 +136234,7 @@
         }
       ]
     },
-    "/Users/ykulkarni/sprints/sprint33/template-twilio-ruby/lib/twilio-ruby/rest/pricing/v2/voice/number.rb": {
+    "lib/twilio-ruby/rest/pricing/v2/voice/number.rb": {
       "lines": [
         null,
         null,
@@ -136497,7 +136497,7 @@
         }
       ]
     },
-    "/Users/ykulkarni/sprints/sprint33/template-twilio-ruby/lib/twilio-ruby/rest/pricing_base.rb": {
+    "lib/twilio-ruby/rest/pricing_base.rb": {
       "lines": [
         null,
         null,
@@ -136547,7 +136547,7 @@
 
       ]
     },
-    "/Users/ykulkarni/sprints/sprint33/template-twilio-ruby/lib/twilio-ruby/rest/proxy.rb": {
+    "lib/twilio-ruby/rest/proxy.rb": {
       "lines": [
         1,
         1,
@@ -136569,7 +136569,7 @@
 
       ]
     },
-    "/Users/ykulkarni/sprints/sprint33/template-twilio-ruby/lib/twilio-ruby/rest/proxy/v1.rb": {
+    "lib/twilio-ruby/rest/proxy/v1.rb": {
       "lines": [
         null,
         null,
@@ -136648,7 +136648,7 @@
         }
       ]
     },
-    "/Users/ykulkarni/sprints/sprint33/template-twilio-ruby/lib/twilio-ruby/rest/proxy/v1/service.rb": {
+    "lib/twilio-ruby/rest/proxy/v1/service.rb": {
       "lines": [
         null,
         null,
@@ -137355,7 +137355,7 @@
         }
       ]
     },
-    "/Users/ykulkarni/sprints/sprint33/template-twilio-ruby/lib/twilio-ruby/rest/proxy/v1/service/phone_number.rb": {
+    "lib/twilio-ruby/rest/proxy/v1/service/phone_number.rb": {
       "lines": [
         null,
         null,
@@ -137811,7 +137811,7 @@
         }
       ]
     },
-    "/Users/ykulkarni/sprints/sprint33/template-twilio-ruby/lib/twilio-ruby/rest/proxy/v1/service/session.rb": {
+    "lib/twilio-ruby/rest/proxy/v1/service/session.rb": {
       "lines": [
         null,
         null,
@@ -138442,7 +138442,7 @@
         }
       ]
     },
-    "/Users/ykulkarni/sprints/sprint33/template-twilio-ruby/lib/twilio-ruby/rest/proxy/v1/service/session/interaction.rb": {
+    "lib/twilio-ruby/rest/proxy/v1/service/session/interaction.rb": {
       "lines": [
         null,
         null,
@@ -138879,7 +138879,7 @@
         }
       ]
     },
-    "/Users/ykulkarni/sprints/sprint33/template-twilio-ruby/lib/twilio-ruby/rest/proxy/v1/service/session/participant.rb": {
+    "lib/twilio-ruby/rest/proxy/v1/service/session/participant.rb": {
       "lines": [
         null,
         null,
@@ -139367,7 +139367,7 @@
         }
       ]
     },
-    "/Users/ykulkarni/sprints/sprint33/template-twilio-ruby/lib/twilio-ruby/rest/proxy/v1/service/session/participant/message_interaction.rb": {
+    "lib/twilio-ruby/rest/proxy/v1/service/session/participant/message_interaction.rb": {
       "lines": [
         null,
         null,
@@ -139824,7 +139824,7 @@
         }
       ]
     },
-    "/Users/ykulkarni/sprints/sprint33/template-twilio-ruby/lib/twilio-ruby/rest/proxy/v1/service/short_code.rb": {
+    "lib/twilio-ruby/rest/proxy/v1/service/short_code.rb": {
       "lines": [
         null,
         null,
@@ -140248,7 +140248,7 @@
         }
       ]
     },
-    "/Users/ykulkarni/sprints/sprint33/template-twilio-ruby/lib/twilio-ruby/rest/proxy_base.rb": {
+    "lib/twilio-ruby/rest/proxy_base.rb": {
       "lines": [
         null,
         null,
@@ -140293,7 +140293,7 @@
 
       ]
     },
-    "/Users/ykulkarni/sprints/sprint33/template-twilio-ruby/lib/twilio-ruby/rest/routes.rb": {
+    "lib/twilio-ruby/rest/routes.rb": {
       "lines": [
         1,
         1,
@@ -140332,7 +140332,7 @@
 
       ]
     },
-    "/Users/ykulkarni/sprints/sprint33/template-twilio-ruby/lib/twilio-ruby/rest/routes/v2.rb": {
+    "lib/twilio-ruby/rest/routes/v2.rb": {
       "lines": [
         null,
         null,
@@ -140489,7 +140489,7 @@
         }
       ]
     },
-    "/Users/ykulkarni/sprints/sprint33/template-twilio-ruby/lib/twilio-ruby/rest/routes/v2/phone_number.rb": {
+    "lib/twilio-ruby/rest/routes/v2/phone_number.rb": {
       "lines": [
         null,
         null,
@@ -140775,7 +140775,7 @@
         }
       ]
     },
-    "/Users/ykulkarni/sprints/sprint33/template-twilio-ruby/lib/twilio-ruby/rest/routes/v2/sip_domain.rb": {
+    "lib/twilio-ruby/rest/routes/v2/sip_domain.rb": {
       "lines": [
         null,
         null,
@@ -141061,7 +141061,7 @@
         }
       ]
     },
-    "/Users/ykulkarni/sprints/sprint33/template-twilio-ruby/lib/twilio-ruby/rest/routes/v2/trunk.rb": {
+    "lib/twilio-ruby/rest/routes/v2/trunk.rb": {
       "lines": [
         null,
         null,
@@ -141347,7 +141347,7 @@
         }
       ]
     },
-    "/Users/ykulkarni/sprints/sprint33/template-twilio-ruby/lib/twilio-ruby/rest/routes_base.rb": {
+    "lib/twilio-ruby/rest/routes_base.rb": {
       "lines": [
         null,
         null,
@@ -141392,7 +141392,7 @@
 
       ]
     },
-    "/Users/ykulkarni/sprints/sprint33/template-twilio-ruby/lib/twilio-ruby/rest/serverless.rb": {
+    "lib/twilio-ruby/rest/serverless.rb": {
       "lines": [
         1,
         1,
@@ -141414,7 +141414,7 @@
 
       ]
     },
-    "/Users/ykulkarni/sprints/sprint33/template-twilio-ruby/lib/twilio-ruby/rest/serverless/v1.rb": {
+    "lib/twilio-ruby/rest/serverless/v1.rb": {
       "lines": [
         null,
         null,
@@ -141493,7 +141493,7 @@
         }
       ]
     },
-    "/Users/ykulkarni/sprints/sprint33/template-twilio-ruby/lib/twilio-ruby/rest/serverless/v1/service.rb": {
+    "lib/twilio-ruby/rest/serverless/v1/service.rb": {
       "lines": [
         null,
         null,
@@ -142188,7 +142188,7 @@
         }
       ]
     },
-    "/Users/ykulkarni/sprints/sprint33/template-twilio-ruby/lib/twilio-ruby/rest/serverless/v1/service/asset.rb": {
+    "lib/twilio-ruby/rest/serverless/v1/service/asset.rb": {
       "lines": [
         null,
         null,
@@ -142661,7 +142661,7 @@
         }
       ]
     },
-    "/Users/ykulkarni/sprints/sprint33/template-twilio-ruby/lib/twilio-ruby/rest/serverless/v1/service/asset/asset_version.rb": {
+    "lib/twilio-ruby/rest/serverless/v1/service/asset/asset_version.rb": {
       "lines": [
         null,
         null,
@@ -143005,7 +143005,7 @@
         }
       ]
     },
-    "/Users/ykulkarni/sprints/sprint33/template-twilio-ruby/lib/twilio-ruby/rest/serverless/v1/service/build.rb": {
+    "lib/twilio-ruby/rest/serverless/v1/service/build.rb": {
       "lines": [
         null,
         null,
@@ -143437,7 +143437,7 @@
         }
       ]
     },
-    "/Users/ykulkarni/sprints/sprint33/template-twilio-ruby/lib/twilio-ruby/rest/serverless/v1/service/build/build_status.rb": {
+    "lib/twilio-ruby/rest/serverless/v1/service/build/build_status.rb": {
       "lines": [
         null,
         null,
@@ -143674,7 +143674,7 @@
         }
       ]
     },
-    "/Users/ykulkarni/sprints/sprint33/template-twilio-ruby/lib/twilio-ruby/rest/serverless/v1/service/environment.rb": {
+    "lib/twilio-ruby/rest/serverless/v1/service/environment.rb": {
       "lines": [
         null,
         null,
@@ -144263,7 +144263,7 @@
         }
       ]
     },
-    "/Users/ykulkarni/sprints/sprint33/template-twilio-ruby/lib/twilio-ruby/rest/serverless/v1/service/environment/deployment.rb": {
+    "lib/twilio-ruby/rest/serverless/v1/service/environment/deployment.rb": {
       "lines": [
         null,
         null,
@@ -144628,7 +144628,7 @@
         }
       ]
     },
-    "/Users/ykulkarni/sprints/sprint33/template-twilio-ruby/lib/twilio-ruby/rest/serverless/v1/service/environment/log.rb": {
+    "lib/twilio-ruby/rest/serverless/v1/service/environment/log.rb": {
       "lines": [
         null,
         null,
@@ -145018,7 +145018,7 @@
         }
       ]
     },
-    "/Users/ykulkarni/sprints/sprint33/template-twilio-ruby/lib/twilio-ruby/rest/serverless/v1/service/environment/variable.rb": {
+    "lib/twilio-ruby/rest/serverless/v1/service/environment/variable.rb": {
       "lines": [
         null,
         null,
@@ -145450,7 +145450,7 @@
         }
       ]
     },
-    "/Users/ykulkarni/sprints/sprint33/template-twilio-ruby/lib/twilio-ruby/rest/serverless/v1/service/function.rb": {
+    "lib/twilio-ruby/rest/serverless/v1/service/function.rb": {
       "lines": [
         null,
         null,
@@ -145923,7 +145923,7 @@
         }
       ]
     },
-    "/Users/ykulkarni/sprints/sprint33/template-twilio-ruby/lib/twilio-ruby/rest/serverless/v1/service/function/function_version.rb": {
+    "lib/twilio-ruby/rest/serverless/v1/service/function/function_version.rb": {
       "lines": [
         null,
         null,
@@ -146294,7 +146294,7 @@
         }
       ]
     },
-    "/Users/ykulkarni/sprints/sprint33/template-twilio-ruby/lib/twilio-ruby/rest/serverless/v1/service/function/function_version/function_version_content.rb": {
+    "lib/twilio-ruby/rest/serverless/v1/service/function/function_version/function_version_content.rb": {
       "lines": [
         null,
         null,
@@ -146542,7 +146542,7 @@
         }
       ]
     },
-    "/Users/ykulkarni/sprints/sprint33/template-twilio-ruby/lib/twilio-ruby/rest/serverless_base.rb": {
+    "lib/twilio-ruby/rest/serverless_base.rb": {
       "lines": [
         null,
         null,
@@ -146587,7 +146587,7 @@
 
       ]
     },
-    "/Users/ykulkarni/sprints/sprint33/template-twilio-ruby/lib/twilio-ruby/rest/studio.rb": {
+    "lib/twilio-ruby/rest/studio.rb": {
       "lines": [
         1,
         1,
@@ -146616,7 +146616,7 @@
 
       ]
     },
-    "/Users/ykulkarni/sprints/sprint33/template-twilio-ruby/lib/twilio-ruby/rest/studio/v1.rb": {
+    "lib/twilio-ruby/rest/studio/v1.rb": {
       "lines": [
         null,
         null,
@@ -146695,7 +146695,7 @@
         }
       ]
     },
-    "/Users/ykulkarni/sprints/sprint33/template-twilio-ruby/lib/twilio-ruby/rest/studio/v1/flow.rb": {
+    "lib/twilio-ruby/rest/studio/v1/flow.rb": {
       "lines": [
         null,
         null,
@@ -147187,7 +147187,7 @@
         }
       ]
     },
-    "/Users/ykulkarni/sprints/sprint33/template-twilio-ruby/lib/twilio-ruby/rest/studio/v1/flow/engagement.rb": {
+    "lib/twilio-ruby/rest/studio/v1/flow/engagement.rb": {
       "lines": [
         null,
         null,
@@ -147670,7 +147670,7 @@
         }
       ]
     },
-    "/Users/ykulkarni/sprints/sprint33/template-twilio-ruby/lib/twilio-ruby/rest/studio/v1/flow/engagement/engagement_context.rb": {
+    "lib/twilio-ruby/rest/studio/v1/flow/engagement/engagement_context.rb": {
       "lines": [
         null,
         null,
@@ -147905,7 +147905,7 @@
         }
       ]
     },
-    "/Users/ykulkarni/sprints/sprint33/template-twilio-ruby/lib/twilio-ruby/rest/studio/v1/flow/engagement/step.rb": {
+    "lib/twilio-ruby/rest/studio/v1/flow/engagement/step.rb": {
       "lines": [
         null,
         null,
@@ -148295,7 +148295,7 @@
         }
       ]
     },
-    "/Users/ykulkarni/sprints/sprint33/template-twilio-ruby/lib/twilio-ruby/rest/studio/v1/flow/engagement/step/step_context.rb": {
+    "lib/twilio-ruby/rest/studio/v1/flow/engagement/step/step_context.rb": {
       "lines": [
         null,
         null,
@@ -148541,7 +148541,7 @@
         }
       ]
     },
-    "/Users/ykulkarni/sprints/sprint33/template-twilio-ruby/lib/twilio-ruby/rest/studio/v1/flow/execution.rb": {
+    "lib/twilio-ruby/rest/studio/v1/flow/execution.rb": {
       "lines": [
         null,
         null,
@@ -149070,7 +149070,7 @@
         }
       ]
     },
-    "/Users/ykulkarni/sprints/sprint33/template-twilio-ruby/lib/twilio-ruby/rest/studio/v1/flow/execution/execution_context.rb": {
+    "lib/twilio-ruby/rest/studio/v1/flow/execution/execution_context.rb": {
       "lines": [
         null,
         null,
@@ -149305,7 +149305,7 @@
         }
       ]
     },
-    "/Users/ykulkarni/sprints/sprint33/template-twilio-ruby/lib/twilio-ruby/rest/studio/v1/flow/execution/execution_step.rb": {
+    "lib/twilio-ruby/rest/studio/v1/flow/execution/execution_step.rb": {
       "lines": [
         null,
         null,
@@ -149695,7 +149695,7 @@
         }
       ]
     },
-    "/Users/ykulkarni/sprints/sprint33/template-twilio-ruby/lib/twilio-ruby/rest/studio/v1/flow/execution/execution_step/execution_step_context.rb": {
+    "lib/twilio-ruby/rest/studio/v1/flow/execution/execution_step/execution_step_context.rb": {
       "lines": [
         null,
         null,
@@ -149941,7 +149941,7 @@
         }
       ]
     },
-    "/Users/ykulkarni/sprints/sprint33/template-twilio-ruby/lib/twilio-ruby/rest/studio/v2.rb": {
+    "lib/twilio-ruby/rest/studio/v2.rb": {
       "lines": [
         null,
         null,
@@ -150026,7 +150026,7 @@
         }
       ]
     },
-    "/Users/ykulkarni/sprints/sprint33/template-twilio-ruby/lib/twilio-ruby/rest/studio/v2/flow.rb": {
+    "lib/twilio-ruby/rest/studio/v2/flow.rb": {
       "lines": [
         null,
         null,
@@ -150657,7 +150657,7 @@
         }
       ]
     },
-    "/Users/ykulkarni/sprints/sprint33/template-twilio-ruby/lib/twilio-ruby/rest/studio/v2/flow/execution.rb": {
+    "lib/twilio-ruby/rest/studio/v2/flow/execution.rb": {
       "lines": [
         null,
         null,
@@ -151179,7 +151179,7 @@
         }
       ]
     },
-    "/Users/ykulkarni/sprints/sprint33/template-twilio-ruby/lib/twilio-ruby/rest/studio/v2/flow/execution/execution_context.rb": {
+    "lib/twilio-ruby/rest/studio/v2/flow/execution/execution_context.rb": {
       "lines": [
         null,
         null,
@@ -151414,7 +151414,7 @@
         }
       ]
     },
-    "/Users/ykulkarni/sprints/sprint33/template-twilio-ruby/lib/twilio-ruby/rest/studio/v2/flow/execution/execution_step.rb": {
+    "lib/twilio-ruby/rest/studio/v2/flow/execution/execution_step.rb": {
       "lines": [
         null,
         null,
@@ -151804,7 +151804,7 @@
         }
       ]
     },
-    "/Users/ykulkarni/sprints/sprint33/template-twilio-ruby/lib/twilio-ruby/rest/studio/v2/flow/execution/execution_step/execution_step_context.rb": {
+    "lib/twilio-ruby/rest/studio/v2/flow/execution/execution_step/execution_step_context.rb": {
       "lines": [
         null,
         null,
@@ -152050,7 +152050,7 @@
         }
       ]
     },
-    "/Users/ykulkarni/sprints/sprint33/template-twilio-ruby/lib/twilio-ruby/rest/studio/v2/flow/flow_revision.rb": {
+    "lib/twilio-ruby/rest/studio/v2/flow/flow_revision.rb": {
       "lines": [
         null,
         null,
@@ -152428,7 +152428,7 @@
         }
       ]
     },
-    "/Users/ykulkarni/sprints/sprint33/template-twilio-ruby/lib/twilio-ruby/rest/studio/v2/flow/flow_test_user.rb": {
+    "lib/twilio-ruby/rest/studio/v2/flow/flow_test_user.rb": {
       "lines": [
         null,
         null,
@@ -152678,7 +152678,7 @@
         }
       ]
     },
-    "/Users/ykulkarni/sprints/sprint33/template-twilio-ruby/lib/twilio-ruby/rest/studio/v2/flow_validate.rb": {
+    "lib/twilio-ruby/rest/studio/v2/flow_validate.rb": {
       "lines": [
         null,
         null,
@@ -152824,7 +152824,7 @@
 
       ]
     },
-    "/Users/ykulkarni/sprints/sprint33/template-twilio-ruby/lib/twilio-ruby/rest/studio_base.rb": {
+    "lib/twilio-ruby/rest/studio_base.rb": {
       "lines": [
         null,
         null,
@@ -152874,7 +152874,7 @@
 
       ]
     },
-    "/Users/ykulkarni/sprints/sprint33/template-twilio-ruby/lib/twilio-ruby/rest/supersim.rb": {
+    "lib/twilio-ruby/rest/supersim.rb": {
       "lines": [
         1,
         1,
@@ -152969,7 +152969,7 @@
 
       ]
     },
-    "/Users/ykulkarni/sprints/sprint33/template-twilio-ruby/lib/twilio-ruby/rest/supersim/v1.rb": {
+    "lib/twilio-ruby/rest/supersim/v1.rb": {
       "lines": [
         null,
         null,
@@ -153294,7 +153294,7 @@
         }
       ]
     },
-    "/Users/ykulkarni/sprints/sprint33/template-twilio-ruby/lib/twilio-ruby/rest/supersim/v1/esim_profile.rb": {
+    "lib/twilio-ruby/rest/supersim/v1/esim_profile.rb": {
       "lines": [
         null,
         null,
@@ -153715,7 +153715,7 @@
         }
       ]
     },
-    "/Users/ykulkarni/sprints/sprint33/template-twilio-ruby/lib/twilio-ruby/rest/supersim/v1/fleet.rb": {
+    "lib/twilio-ruby/rest/supersim/v1/fleet.rb": {
       "lines": [
         null,
         null,
@@ -154227,7 +154227,7 @@
         }
       ]
     },
-    "/Users/ykulkarni/sprints/sprint33/template-twilio-ruby/lib/twilio-ruby/rest/supersim/v1/ip_command.rb": {
+    "lib/twilio-ruby/rest/supersim/v1/ip_command.rb": {
       "lines": [
         null,
         null,
@@ -154665,7 +154665,7 @@
         }
       ]
     },
-    "/Users/ykulkarni/sprints/sprint33/template-twilio-ruby/lib/twilio-ruby/rest/supersim/v1/network.rb": {
+    "lib/twilio-ruby/rest/supersim/v1/network.rb": {
       "lines": [
         null,
         null,
@@ -154995,7 +154995,7 @@
         }
       ]
     },
-    "/Users/ykulkarni/sprints/sprint33/template-twilio-ruby/lib/twilio-ruby/rest/supersim/v1/network_access_profile.rb": {
+    "lib/twilio-ruby/rest/supersim/v1/network_access_profile.rb": {
       "lines": [
         null,
         null,
@@ -155439,7 +155439,7 @@
         }
       ]
     },
-    "/Users/ykulkarni/sprints/sprint33/template-twilio-ruby/lib/twilio-ruby/rest/supersim/v1/network_access_profile/network_access_profile_network.rb": {
+    "lib/twilio-ruby/rest/supersim/v1/network_access_profile/network_access_profile_network.rb": {
       "lines": [
         null,
         null,
@@ -155801,7 +155801,7 @@
         }
       ]
     },
-    "/Users/ykulkarni/sprints/sprint33/template-twilio-ruby/lib/twilio-ruby/rest/supersim/v1/settings_update.rb": {
+    "lib/twilio-ruby/rest/supersim/v1/settings_update.rb": {
       "lines": [
         null,
         null,
@@ -156064,7 +156064,7 @@
 
       ]
     },
-    "/Users/ykulkarni/sprints/sprint33/template-twilio-ruby/lib/twilio-ruby/rest/supersim/v1/sim.rb": {
+    "lib/twilio-ruby/rest/supersim/v1/sim.rb": {
       "lines": [
         null,
         null,
@@ -156576,7 +156576,7 @@
         }
       ]
     },
-    "/Users/ykulkarni/sprints/sprint33/template-twilio-ruby/lib/twilio-ruby/rest/supersim/v1/sim/billing_period.rb": {
+    "lib/twilio-ruby/rest/supersim/v1/sim/billing_period.rb": {
       "lines": [
         null,
         null,
@@ -156832,7 +156832,7 @@
 
       ]
     },
-    "/Users/ykulkarni/sprints/sprint33/template-twilio-ruby/lib/twilio-ruby/rest/supersim/v1/sim/sim_ip_address.rb": {
+    "lib/twilio-ruby/rest/supersim/v1/sim/sim_ip_address.rb": {
       "lines": [
         null,
         null,
@@ -157046,7 +157046,7 @@
 
       ]
     },
-    "/Users/ykulkarni/sprints/sprint33/template-twilio-ruby/lib/twilio-ruby/rest/supersim/v1/sms_command.rb": {
+    "lib/twilio-ruby/rest/supersim/v1/sms_command.rb": {
       "lines": [
         null,
         null,
@@ -157432,7 +157432,7 @@
         }
       ]
     },
-    "/Users/ykulkarni/sprints/sprint33/template-twilio-ruby/lib/twilio-ruby/rest/supersim/v1/usage_record.rb": {
+    "lib/twilio-ruby/rest/supersim/v1/usage_record.rb": {
       "lines": [
         null,
         null,
@@ -157752,7 +157752,7 @@
 
       ]
     },
-    "/Users/ykulkarni/sprints/sprint33/template-twilio-ruby/lib/twilio-ruby/rest/supersim_base.rb": {
+    "lib/twilio-ruby/rest/supersim_base.rb": {
       "lines": [
         null,
         null,
@@ -157797,7 +157797,7 @@
 
       ]
     },
-    "/Users/ykulkarni/sprints/sprint33/template-twilio-ruby/lib/twilio-ruby/rest/sync.rb": {
+    "lib/twilio-ruby/rest/sync.rb": {
       "lines": [
         1,
         1,
@@ -157819,7 +157819,7 @@
 
       ]
     },
-    "/Users/ykulkarni/sprints/sprint33/template-twilio-ruby/lib/twilio-ruby/rest/sync/v1.rb": {
+    "lib/twilio-ruby/rest/sync/v1.rb": {
       "lines": [
         null,
         null,
@@ -157898,7 +157898,7 @@
         }
       ]
     },
-    "/Users/ykulkarni/sprints/sprint33/template-twilio-ruby/lib/twilio-ruby/rest/sync/v1/service.rb": {
+    "lib/twilio-ruby/rest/sync/v1/service.rb": {
       "lines": [
         null,
         null,
@@ -158657,7 +158657,7 @@
         }
       ]
     },
-    "/Users/ykulkarni/sprints/sprint33/template-twilio-ruby/lib/twilio-ruby/rest/sync/v1/service/document.rb": {
+    "lib/twilio-ruby/rest/sync/v1/service/document.rb": {
       "lines": [
         null,
         null,
@@ -159174,7 +159174,7 @@
         }
       ]
     },
-    "/Users/ykulkarni/sprints/sprint33/template-twilio-ruby/lib/twilio-ruby/rest/sync/v1/service/document/document_permission.rb": {
+    "lib/twilio-ruby/rest/sync/v1/service/document/document_permission.rb": {
       "lines": [
         null,
         null,
@@ -159579,7 +159579,7 @@
         }
       ]
     },
-    "/Users/ykulkarni/sprints/sprint33/template-twilio-ruby/lib/twilio-ruby/rest/sync/v1/service/sync_list.rb": {
+    "lib/twilio-ruby/rest/sync/v1/service/sync_list.rb": {
       "lines": [
         null,
         null,
@@ -160146,7 +160146,7 @@
         }
       ]
     },
-    "/Users/ykulkarni/sprints/sprint33/template-twilio-ruby/lib/twilio-ruby/rest/sync/v1/service/sync_list/sync_list_item.rb": {
+    "lib/twilio-ruby/rest/sync/v1/service/sync_list/sync_list_item.rb": {
       "lines": [
         null,
         null,
@@ -160653,7 +160653,7 @@
         }
       ]
     },
-    "/Users/ykulkarni/sprints/sprint33/template-twilio-ruby/lib/twilio-ruby/rest/sync/v1/service/sync_list/sync_list_permission.rb": {
+    "lib/twilio-ruby/rest/sync/v1/service/sync_list/sync_list_permission.rb": {
       "lines": [
         null,
         null,
@@ -161058,7 +161058,7 @@
         }
       ]
     },
-    "/Users/ykulkarni/sprints/sprint33/template-twilio-ruby/lib/twilio-ruby/rest/sync/v1/service/sync_map.rb": {
+    "lib/twilio-ruby/rest/sync/v1/service/sync_map.rb": {
       "lines": [
         null,
         null,
@@ -161625,7 +161625,7 @@
         }
       ]
     },
-    "/Users/ykulkarni/sprints/sprint33/template-twilio-ruby/lib/twilio-ruby/rest/sync/v1/service/sync_map/sync_map_item.rb": {
+    "lib/twilio-ruby/rest/sync/v1/service/sync_map/sync_map_item.rb": {
       "lines": [
         null,
         null,
@@ -162123,7 +162123,7 @@
         }
       ]
     },
-    "/Users/ykulkarni/sprints/sprint33/template-twilio-ruby/lib/twilio-ruby/rest/sync/v1/service/sync_map/sync_map_permission.rb": {
+    "lib/twilio-ruby/rest/sync/v1/service/sync_map/sync_map_permission.rb": {
       "lines": [
         null,
         null,
@@ -162528,7 +162528,7 @@
         }
       ]
     },
-    "/Users/ykulkarni/sprints/sprint33/template-twilio-ruby/lib/twilio-ruby/rest/sync/v1/service/sync_stream.rb": {
+    "lib/twilio-ruby/rest/sync/v1/service/sync_stream.rb": {
       "lines": [
         null,
         null,
@@ -162984,7 +162984,7 @@
         }
       ]
     },
-    "/Users/ykulkarni/sprints/sprint33/template-twilio-ruby/lib/twilio-ruby/rest/sync/v1/service/sync_stream/stream_message.rb": {
+    "lib/twilio-ruby/rest/sync/v1/service/sync_stream/stream_message.rb": {
       "lines": [
         null,
         null,
@@ -163137,7 +163137,7 @@
 
       ]
     },
-    "/Users/ykulkarni/sprints/sprint33/template-twilio-ruby/lib/twilio-ruby/rest/sync_base.rb": {
+    "lib/twilio-ruby/rest/sync_base.rb": {
       "lines": [
         null,
         null,
@@ -163182,7 +163182,7 @@
 
       ]
     },
-    "/Users/ykulkarni/sprints/sprint33/template-twilio-ruby/lib/twilio-ruby/rest/taskrouter.rb": {
+    "lib/twilio-ruby/rest/taskrouter.rb": {
       "lines": [
         1,
         1,
@@ -163204,7 +163204,7 @@
 
       ]
     },
-    "/Users/ykulkarni/sprints/sprint33/template-twilio-ruby/lib/twilio-ruby/rest/taskrouter/v1.rb": {
+    "lib/twilio-ruby/rest/taskrouter/v1.rb": {
       "lines": [
         null,
         null,
@@ -163283,7 +163283,7 @@
         }
       ]
     },
-    "/Users/ykulkarni/sprints/sprint33/template-twilio-ruby/lib/twilio-ruby/rest/taskrouter/v1/workspace.rb": {
+    "lib/twilio-ruby/rest/taskrouter/v1/workspace.rb": {
       "lines": [
         null,
         null,
@@ -164283,7 +164283,7 @@
         }
       ]
     },
-    "/Users/ykulkarni/sprints/sprint33/template-twilio-ruby/lib/twilio-ruby/rest/taskrouter/v1/workspace/activity.rb": {
+    "lib/twilio-ruby/rest/taskrouter/v1/workspace/activity.rb": {
       "lines": [
         null,
         null,
@@ -164713,7 +164713,7 @@
         }
       ]
     },
-    "/Users/ykulkarni/sprints/sprint33/template-twilio-ruby/lib/twilio-ruby/rest/taskrouter/v1/workspace/event.rb": {
+    "lib/twilio-ruby/rest/taskrouter/v1/workspace/event.rb": {
       "lines": [
         null,
         null,
@@ -165180,7 +165180,7 @@
         }
       ]
     },
-    "/Users/ykulkarni/sprints/sprint33/template-twilio-ruby/lib/twilio-ruby/rest/taskrouter/v1/workspace/task.rb": {
+    "lib/twilio-ruby/rest/taskrouter/v1/workspace/task.rb": {
       "lines": [
         null,
         null,
@@ -165900,7 +165900,7 @@
         }
       ]
     },
-    "/Users/ykulkarni/sprints/sprint33/template-twilio-ruby/lib/twilio-ruby/rest/taskrouter/v1/workspace/task/reservation.rb": {
+    "lib/twilio-ruby/rest/taskrouter/v1/workspace/task/reservation.rb": {
       "lines": [
         null,
         null,
@@ -166634,7 +166634,7 @@
         }
       ]
     },
-    "/Users/ykulkarni/sprints/sprint33/template-twilio-ruby/lib/twilio-ruby/rest/taskrouter/v1/workspace/task_channel.rb": {
+    "lib/twilio-ruby/rest/taskrouter/v1/workspace/task_channel.rb": {
       "lines": [
         null,
         null,
@@ -167068,7 +167068,7 @@
         }
       ]
     },
-    "/Users/ykulkarni/sprints/sprint33/template-twilio-ruby/lib/twilio-ruby/rest/taskrouter/v1/workspace/task_queue.rb": {
+    "lib/twilio-ruby/rest/taskrouter/v1/workspace/task_queue.rb": {
       "lines": [
         null,
         null,
@@ -167679,7 +167679,7 @@
         }
       ]
     },
-    "/Users/ykulkarni/sprints/sprint33/template-twilio-ruby/lib/twilio-ruby/rest/taskrouter/v1/workspace/task_queue/task_queue_cumulative_statistics.rb": {
+    "lib/twilio-ruby/rest/taskrouter/v1/workspace/task_queue/task_queue_cumulative_statistics.rb": {
       "lines": [
         null,
         null,
@@ -168212,7 +168212,7 @@
         }
       ]
     },
-    "/Users/ykulkarni/sprints/sprint33/template-twilio-ruby/lib/twilio-ruby/rest/taskrouter/v1/workspace/task_queue/task_queue_real_time_statistics.rb": {
+    "lib/twilio-ruby/rest/taskrouter/v1/workspace/task_queue/task_queue_real_time_statistics.rb": {
       "lines": [
         null,
         null,
@@ -168581,7 +168581,7 @@
         }
       ]
     },
-    "/Users/ykulkarni/sprints/sprint33/template-twilio-ruby/lib/twilio-ruby/rest/taskrouter/v1/workspace/task_queue/task_queue_statistics.rb": {
+    "lib/twilio-ruby/rest/taskrouter/v1/workspace/task_queue/task_queue_statistics.rb": {
       "lines": [
         null,
         null,
@@ -168858,7 +168858,7 @@
         }
       ]
     },
-    "/Users/ykulkarni/sprints/sprint33/template-twilio-ruby/lib/twilio-ruby/rest/taskrouter/v1/workspace/task_queue/task_queues_statistics.rb": {
+    "lib/twilio-ruby/rest/taskrouter/v1/workspace/task_queue/task_queues_statistics.rb": {
       "lines": [
         null,
         null,
@@ -169131,7 +169131,7 @@
 
       ]
     },
-    "/Users/ykulkarni/sprints/sprint33/template-twilio-ruby/lib/twilio-ruby/rest/taskrouter/v1/workspace/worker.rb": {
+    "lib/twilio-ruby/rest/taskrouter/v1/workspace/worker.rb": {
       "lines": [
         null,
         null,
@@ -169851,7 +169851,7 @@
         }
       ]
     },
-    "/Users/ykulkarni/sprints/sprint33/template-twilio-ruby/lib/twilio-ruby/rest/taskrouter/v1/workspace/worker/reservation.rb": {
+    "lib/twilio-ruby/rest/taskrouter/v1/workspace/worker/reservation.rb": {
       "lines": [
         null,
         null,
@@ -170567,7 +170567,7 @@
         }
       ]
     },
-    "/Users/ykulkarni/sprints/sprint33/template-twilio-ruby/lib/twilio-ruby/rest/taskrouter/v1/workspace/worker/worker_channel.rb": {
+    "lib/twilio-ruby/rest/taskrouter/v1/workspace/worker/worker_channel.rb": {
       "lines": [
         null,
         null,
@@ -171021,7 +171021,7 @@
         }
       ]
     },
-    "/Users/ykulkarni/sprints/sprint33/template-twilio-ruby/lib/twilio-ruby/rest/taskrouter/v1/workspace/worker/worker_statistics.rb": {
+    "lib/twilio-ruby/rest/taskrouter/v1/workspace/worker/worker_statistics.rb": {
       "lines": [
         null,
         null,
@@ -171285,7 +171285,7 @@
         }
       ]
     },
-    "/Users/ykulkarni/sprints/sprint33/template-twilio-ruby/lib/twilio-ruby/rest/taskrouter/v1/workspace/worker/workers_cumulative_statistics.rb": {
+    "lib/twilio-ruby/rest/taskrouter/v1/workspace/worker/workers_cumulative_statistics.rb": {
       "lines": [
         null,
         null,
@@ -171668,7 +171668,7 @@
         }
       ]
     },
-    "/Users/ykulkarni/sprints/sprint33/template-twilio-ruby/lib/twilio-ruby/rest/taskrouter/v1/workspace/worker/workers_real_time_statistics.rb": {
+    "lib/twilio-ruby/rest/taskrouter/v1/workspace/worker/workers_real_time_statistics.rb": {
       "lines": [
         null,
         null,
@@ -171924,7 +171924,7 @@
         }
       ]
     },
-    "/Users/ykulkarni/sprints/sprint33/template-twilio-ruby/lib/twilio-ruby/rest/taskrouter/v1/workspace/worker/workers_statistics.rb": {
+    "lib/twilio-ruby/rest/taskrouter/v1/workspace/worker/workers_statistics.rb": {
       "lines": [
         null,
         null,
@@ -172204,7 +172204,7 @@
         }
       ]
     },
-    "/Users/ykulkarni/sprints/sprint33/template-twilio-ruby/lib/twilio-ruby/rest/taskrouter/v1/workspace/workflow.rb": {
+    "lib/twilio-ruby/rest/taskrouter/v1/workspace/workflow.rb": {
       "lines": [
         null,
         null,
@@ -172764,7 +172764,7 @@
         }
       ]
     },
-    "/Users/ykulkarni/sprints/sprint33/template-twilio-ruby/lib/twilio-ruby/rest/taskrouter/v1/workspace/workflow/workflow_cumulative_statistics.rb": {
+    "lib/twilio-ruby/rest/taskrouter/v1/workspace/workflow/workflow_cumulative_statistics.rb": {
       "lines": [
         null,
         null,
@@ -173309,7 +173309,7 @@
         }
       ]
     },
-    "/Users/ykulkarni/sprints/sprint33/template-twilio-ruby/lib/twilio-ruby/rest/taskrouter/v1/workspace/workflow/workflow_real_time_statistics.rb": {
+    "lib/twilio-ruby/rest/taskrouter/v1/workspace/workflow/workflow_real_time_statistics.rb": {
       "lines": [
         null,
         null,
@@ -173607,7 +173607,7 @@
         }
       ]
     },
-    "/Users/ykulkarni/sprints/sprint33/template-twilio-ruby/lib/twilio-ruby/rest/taskrouter/v1/workspace/workflow/workflow_statistics.rb": {
+    "lib/twilio-ruby/rest/taskrouter/v1/workspace/workflow/workflow_statistics.rb": {
       "lines": [
         null,
         null,
@@ -173884,7 +173884,7 @@
         }
       ]
     },
-    "/Users/ykulkarni/sprints/sprint33/template-twilio-ruby/lib/twilio-ruby/rest/taskrouter/v1/workspace/workspace_cumulative_statistics.rb": {
+    "lib/twilio-ruby/rest/taskrouter/v1/workspace/workspace_cumulative_statistics.rb": {
       "lines": [
         null,
         null,
@@ -174418,7 +174418,7 @@
         }
       ]
     },
-    "/Users/ykulkarni/sprints/sprint33/template-twilio-ruby/lib/twilio-ruby/rest/taskrouter/v1/workspace/workspace_real_time_statistics.rb": {
+    "lib/twilio-ruby/rest/taskrouter/v1/workspace/workspace_real_time_statistics.rb": {
       "lines": [
         null,
         null,
@@ -174731,7 +174731,7 @@
         }
       ]
     },
-    "/Users/ykulkarni/sprints/sprint33/template-twilio-ruby/lib/twilio-ruby/rest/taskrouter/v1/workspace/workspace_statistics.rb": {
+    "lib/twilio-ruby/rest/taskrouter/v1/workspace/workspace_statistics.rb": {
       "lines": [
         null,
         null,
@@ -174997,7 +174997,7 @@
         }
       ]
     },
-    "/Users/ykulkarni/sprints/sprint33/template-twilio-ruby/lib/twilio-ruby/rest/taskrouter_base.rb": {
+    "lib/twilio-ruby/rest/taskrouter_base.rb": {
       "lines": [
         null,
         null,
@@ -175042,7 +175042,7 @@
 
       ]
     },
-    "/Users/ykulkarni/sprints/sprint33/template-twilio-ruby/lib/twilio-ruby/rest/trunking.rb": {
+    "lib/twilio-ruby/rest/trunking.rb": {
       "lines": [
         1,
         1,
@@ -175064,7 +175064,7 @@
 
       ]
     },
-    "/Users/ykulkarni/sprints/sprint33/template-twilio-ruby/lib/twilio-ruby/rest/trunking/v1.rb": {
+    "lib/twilio-ruby/rest/trunking/v1.rb": {
       "lines": [
         null,
         null,
@@ -175143,7 +175143,7 @@
         }
       ]
     },
-    "/Users/ykulkarni/sprints/sprint33/template-twilio-ruby/lib/twilio-ruby/rest/trunking/v1/trunk.rb": {
+    "lib/twilio-ruby/rest/trunking/v1/trunk.rb": {
       "lines": [
         null,
         null,
@@ -175938,7 +175938,7 @@
         }
       ]
     },
-    "/Users/ykulkarni/sprints/sprint33/template-twilio-ruby/lib/twilio-ruby/rest/trunking/v1/trunk/credential_list.rb": {
+    "lib/twilio-ruby/rest/trunking/v1/trunk/credential_list.rb": {
       "lines": [
         null,
         null,
@@ -176305,7 +176305,7 @@
         }
       ]
     },
-    "/Users/ykulkarni/sprints/sprint33/template-twilio-ruby/lib/twilio-ruby/rest/trunking/v1/trunk/ip_access_control_list.rb": {
+    "lib/twilio-ruby/rest/trunking/v1/trunk/ip_access_control_list.rb": {
       "lines": [
         null,
         null,
@@ -176672,7 +176672,7 @@
         }
       ]
     },
-    "/Users/ykulkarni/sprints/sprint33/template-twilio-ruby/lib/twilio-ruby/rest/trunking/v1/trunk/origination_url.rb": {
+    "lib/twilio-ruby/rest/trunking/v1/trunk/origination_url.rb": {
       "lines": [
         null,
         null,
@@ -177161,7 +177161,7 @@
         }
       ]
     },
-    "/Users/ykulkarni/sprints/sprint33/template-twilio-ruby/lib/twilio-ruby/rest/trunking/v1/trunk/phone_number.rb": {
+    "lib/twilio-ruby/rest/trunking/v1/trunk/phone_number.rb": {
       "lines": [
         null,
         null,
@@ -177661,7 +177661,7 @@
         }
       ]
     },
-    "/Users/ykulkarni/sprints/sprint33/template-twilio-ruby/lib/twilio-ruby/rest/trunking/v1/trunk/recording.rb": {
+    "lib/twilio-ruby/rest/trunking/v1/trunk/recording.rb": {
       "lines": [
         null,
         null,
@@ -177910,7 +177910,7 @@
         }
       ]
     },
-    "/Users/ykulkarni/sprints/sprint33/template-twilio-ruby/lib/twilio-ruby/rest/trunking_base.rb": {
+    "lib/twilio-ruby/rest/trunking_base.rb": {
       "lines": [
         null,
         null,
@@ -177955,7 +177955,7 @@
 
       ]
     },
-    "/Users/ykulkarni/sprints/sprint33/template-twilio-ruby/lib/twilio-ruby/rest/trusthub.rb": {
+    "lib/twilio-ruby/rest/trusthub.rb": {
       "lines": [
         1,
         1,
@@ -178036,7 +178036,7 @@
 
       ]
     },
-    "/Users/ykulkarni/sprints/sprint33/template-twilio-ruby/lib/twilio-ruby/rest/trusthub/v1.rb": {
+    "lib/twilio-ruby/rest/trusthub/v1.rb": {
       "lines": [
         null,
         null,
@@ -178394,7 +178394,7 @@
         }
       ]
     },
-    "/Users/ykulkarni/sprints/sprint33/template-twilio-ruby/lib/twilio-ruby/rest/trusthub/v1/compliance_inquiries.rb": {
+    "lib/twilio-ruby/rest/trusthub/v1/compliance_inquiries.rb": {
       "lines": [
         null,
         null,
@@ -178644,7 +178644,7 @@
         }
       ]
     },
-    "/Users/ykulkarni/sprints/sprint33/template-twilio-ruby/lib/twilio-ruby/rest/trusthub/v1/compliance_tollfree_inquiries.rb": {
+    "lib/twilio-ruby/rest/trusthub/v1/compliance_tollfree_inquiries.rb": {
       "lines": [
         null,
         null,
@@ -178862,7 +178862,7 @@
 
       ]
     },
-    "/Users/ykulkarni/sprints/sprint33/template-twilio-ruby/lib/twilio-ruby/rest/trusthub/v1/customer_profiles.rb": {
+    "lib/twilio-ruby/rest/trusthub/v1/customer_profiles.rb": {
       "lines": [
         null,
         null,
@@ -179523,7 +179523,7 @@
         }
       ]
     },
-    "/Users/ykulkarni/sprints/sprint33/template-twilio-ruby/lib/twilio-ruby/rest/trusthub/v1/customer_profiles/customer_profiles_channel_endpoint_assignment.rb": {
+    "lib/twilio-ruby/rest/trusthub/v1/customer_profiles/customer_profiles_channel_endpoint_assignment.rb": {
       "lines": [
         null,
         null,
@@ -179905,7 +179905,7 @@
         }
       ]
     },
-    "/Users/ykulkarni/sprints/sprint33/template-twilio-ruby/lib/twilio-ruby/rest/trusthub/v1/customer_profiles/customer_profiles_entity_assignments.rb": {
+    "lib/twilio-ruby/rest/trusthub/v1/customer_profiles/customer_profiles_entity_assignments.rb": {
       "lines": [
         null,
         null,
@@ -180265,7 +180265,7 @@
         }
       ]
     },
-    "/Users/ykulkarni/sprints/sprint33/template-twilio-ruby/lib/twilio-ruby/rest/trusthub/v1/customer_profiles/customer_profiles_evaluations.rb": {
+    "lib/twilio-ruby/rest/trusthub/v1/customer_profiles/customer_profiles_evaluations.rb": {
       "lines": [
         null,
         null,
@@ -180623,7 +180623,7 @@
         }
       ]
     },
-    "/Users/ykulkarni/sprints/sprint33/template-twilio-ruby/lib/twilio-ruby/rest/trusthub/v1/end_user.rb": {
+    "lib/twilio-ruby/rest/trusthub/v1/end_user.rb": {
       "lines": [
         null,
         null,
@@ -181034,7 +181034,7 @@
         }
       ]
     },
-    "/Users/ykulkarni/sprints/sprint33/template-twilio-ruby/lib/twilio-ruby/rest/trusthub/v1/end_user_type.rb": {
+    "lib/twilio-ruby/rest/trusthub/v1/end_user_type.rb": {
       "lines": [
         null,
         null,
@@ -181344,7 +181344,7 @@
         }
       ]
     },
-    "/Users/ykulkarni/sprints/sprint33/template-twilio-ruby/lib/twilio-ruby/rest/trusthub/v1/policies.rb": {
+    "lib/twilio-ruby/rest/trusthub/v1/policies.rb": {
       "lines": [
         null,
         null,
@@ -181647,7 +181647,7 @@
         }
       ]
     },
-    "/Users/ykulkarni/sprints/sprint33/template-twilio-ruby/lib/twilio-ruby/rest/trusthub/v1/supporting_document.rb": {
+    "lib/twilio-ruby/rest/trusthub/v1/supporting_document.rb": {
       "lines": [
         null,
         null,
@@ -182072,7 +182072,7 @@
         }
       ]
     },
-    "/Users/ykulkarni/sprints/sprint33/template-twilio-ruby/lib/twilio-ruby/rest/trusthub/v1/supporting_document_type.rb": {
+    "lib/twilio-ruby/rest/trusthub/v1/supporting_document_type.rb": {
       "lines": [
         null,
         null,
@@ -182382,7 +182382,7 @@
         }
       ]
     },
-    "/Users/ykulkarni/sprints/sprint33/template-twilio-ruby/lib/twilio-ruby/rest/trusthub/v1/trust_products.rb": {
+    "lib/twilio-ruby/rest/trusthub/v1/trust_products.rb": {
       "lines": [
         null,
         null,
@@ -183043,7 +183043,7 @@
         }
       ]
     },
-    "/Users/ykulkarni/sprints/sprint33/template-twilio-ruby/lib/twilio-ruby/rest/trusthub/v1/trust_products/trust_products_channel_endpoint_assignment.rb": {
+    "lib/twilio-ruby/rest/trusthub/v1/trust_products/trust_products_channel_endpoint_assignment.rb": {
       "lines": [
         null,
         null,
@@ -183425,7 +183425,7 @@
         }
       ]
     },
-    "/Users/ykulkarni/sprints/sprint33/template-twilio-ruby/lib/twilio-ruby/rest/trusthub/v1/trust_products/trust_products_entity_assignments.rb": {
+    "lib/twilio-ruby/rest/trusthub/v1/trust_products/trust_products_entity_assignments.rb": {
       "lines": [
         null,
         null,
@@ -183785,7 +183785,7 @@
         }
       ]
     },
-    "/Users/ykulkarni/sprints/sprint33/template-twilio-ruby/lib/twilio-ruby/rest/trusthub/v1/trust_products/trust_products_evaluations.rb": {
+    "lib/twilio-ruby/rest/trusthub/v1/trust_products/trust_products_evaluations.rb": {
       "lines": [
         null,
         null,
@@ -184143,7 +184143,7 @@
         }
       ]
     },
-    "/Users/ykulkarni/sprints/sprint33/template-twilio-ruby/lib/twilio-ruby/rest/trusthub_base.rb": {
+    "lib/twilio-ruby/rest/trusthub_base.rb": {
       "lines": [
         null,
         null,
@@ -184188,7 +184188,7 @@
 
       ]
     },
-    "/Users/ykulkarni/sprints/sprint33/template-twilio-ruby/lib/twilio-ruby/rest/verify.rb": {
+    "lib/twilio-ruby/rest/verify.rb": {
       "lines": [
         1,
         1,
@@ -184253,7 +184253,7 @@
 
       ]
     },
-    "/Users/ykulkarni/sprints/sprint33/template-twilio-ruby/lib/twilio-ruby/rest/verify/v2.rb": {
+    "lib/twilio-ruby/rest/verify/v2.rb": {
       "lines": [
         null,
         null,
@@ -184461,7 +184461,7 @@
         }
       ]
     },
-    "/Users/ykulkarni/sprints/sprint33/template-twilio-ruby/lib/twilio-ruby/rest/verify/v2/form.rb": {
+    "lib/twilio-ruby/rest/verify/v2/form.rb": {
       "lines": [
         null,
         null,
@@ -184682,7 +184682,7 @@
         }
       ]
     },
-    "/Users/ykulkarni/sprints/sprint33/template-twilio-ruby/lib/twilio-ruby/rest/verify/v2/safelist.rb": {
+    "lib/twilio-ruby/rest/verify/v2/safelist.rb": {
       "lines": [
         null,
         null,
@@ -184931,7 +184931,7 @@
         }
       ]
     },
-    "/Users/ykulkarni/sprints/sprint33/template-twilio-ruby/lib/twilio-ruby/rest/verify/v2/service.rb": {
+    "lib/twilio-ruby/rest/verify/v2/service.rb": {
       "lines": [
         null,
         null,
@@ -185981,7 +185981,7 @@
         }
       ]
     },
-    "/Users/ykulkarni/sprints/sprint33/template-twilio-ruby/lib/twilio-ruby/rest/verify/v2/service/access_token.rb": {
+    "lib/twilio-ruby/rest/verify/v2/service/access_token.rb": {
       "lines": [
         null,
         null,
@@ -186290,7 +186290,7 @@
         }
       ]
     },
-    "/Users/ykulkarni/sprints/sprint33/template-twilio-ruby/lib/twilio-ruby/rest/verify/v2/service/entity.rb": {
+    "lib/twilio-ruby/rest/verify/v2/service/entity.rb": {
       "lines": [
         null,
         null,
@@ -186821,7 +186821,7 @@
         }
       ]
     },
-    "/Users/ykulkarni/sprints/sprint33/template-twilio-ruby/lib/twilio-ruby/rest/verify/v2/service/entity/challenge.rb": {
+    "lib/twilio-ruby/rest/verify/v2/service/entity/challenge.rb": {
       "lines": [
         null,
         null,
@@ -187359,7 +187359,7 @@
         }
       ]
     },
-    "/Users/ykulkarni/sprints/sprint33/template-twilio-ruby/lib/twilio-ruby/rest/verify/v2/service/entity/challenge/notification.rb": {
+    "lib/twilio-ruby/rest/verify/v2/service/entity/challenge/notification.rb": {
       "lines": [
         null,
         null,
@@ -187575,7 +187575,7 @@
         }
       ]
     },
-    "/Users/ykulkarni/sprints/sprint33/template-twilio-ruby/lib/twilio-ruby/rest/verify/v2/service/entity/factor.rb": {
+    "lib/twilio-ruby/rest/verify/v2/service/entity/factor.rb": {
       "lines": [
         null,
         null,
@@ -188051,7 +188051,7 @@
         }
       ]
     },
-    "/Users/ykulkarni/sprints/sprint33/template-twilio-ruby/lib/twilio-ruby/rest/verify/v2/service/entity/new_factor.rb": {
+    "lib/twilio-ruby/rest/verify/v2/service/entity/new_factor.rb": {
       "lines": [
         null,
         null,
@@ -188327,7 +188327,7 @@
 
       ]
     },
-    "/Users/ykulkarni/sprints/sprint33/template-twilio-ruby/lib/twilio-ruby/rest/verify/v2/service/messaging_configuration.rb": {
+    "lib/twilio-ruby/rest/verify/v2/service/messaging_configuration.rb": {
       "lines": [
         null,
         null,
@@ -188731,7 +188731,7 @@
         }
       ]
     },
-    "/Users/ykulkarni/sprints/sprint33/template-twilio-ruby/lib/twilio-ruby/rest/verify/v2/service/rate_limit.rb": {
+    "lib/twilio-ruby/rest/verify/v2/service/rate_limit.rb": {
       "lines": [
         null,
         null,
@@ -189212,7 +189212,7 @@
         }
       ]
     },
-    "/Users/ykulkarni/sprints/sprint33/template-twilio-ruby/lib/twilio-ruby/rest/verify/v2/service/rate_limit/bucket.rb": {
+    "lib/twilio-ruby/rest/verify/v2/service/rate_limit/bucket.rb": {
       "lines": [
         null,
         null,
@@ -189666,7 +189666,7 @@
         }
       ]
     },
-    "/Users/ykulkarni/sprints/sprint33/template-twilio-ruby/lib/twilio-ruby/rest/verify/v2/service/verification.rb": {
+    "lib/twilio-ruby/rest/verify/v2/service/verification.rb": {
       "lines": [
         null,
         null,
@@ -190071,7 +190071,7 @@
         }
       ]
     },
-    "/Users/ykulkarni/sprints/sprint33/template-twilio-ruby/lib/twilio-ruby/rest/verify/v2/service/verification_check.rb": {
+    "lib/twilio-ruby/rest/verify/v2/service/verification_check.rb": {
       "lines": [
         null,
         null,
@@ -190303,7 +190303,7 @@
 
       ]
     },
-    "/Users/ykulkarni/sprints/sprint33/template-twilio-ruby/lib/twilio-ruby/rest/verify/v2/service/webhook.rb": {
+    "lib/twilio-ruby/rest/verify/v2/service/webhook.rb": {
       "lines": [
         null,
         null,
@@ -190775,7 +190775,7 @@
         }
       ]
     },
-    "/Users/ykulkarni/sprints/sprint33/template-twilio-ruby/lib/twilio-ruby/rest/verify/v2/template.rb": {
+    "lib/twilio-ruby/rest/verify/v2/template.rb": {
       "lines": [
         null,
         null,
@@ -191011,7 +191011,7 @@
 
       ]
     },
-    "/Users/ykulkarni/sprints/sprint33/template-twilio-ruby/lib/twilio-ruby/rest/verify/v2/verification_attempt.rb": {
+    "lib/twilio-ruby/rest/verify/v2/verification_attempt.rb": {
       "lines": [
         null,
         null,
@@ -191411,7 +191411,7 @@
         }
       ]
     },
-    "/Users/ykulkarni/sprints/sprint33/template-twilio-ruby/lib/twilio-ruby/rest/verify/v2/verification_attempts_summary.rb": {
+    "lib/twilio-ruby/rest/verify/v2/verification_attempts_summary.rb": {
       "lines": [
         null,
         null,
@@ -191712,7 +191712,7 @@
         }
       ]
     },
-    "/Users/ykulkarni/sprints/sprint33/template-twilio-ruby/lib/twilio-ruby/rest/verify_base.rb": {
+    "lib/twilio-ruby/rest/verify_base.rb": {
       "lines": [
         null,
         null,
@@ -191757,7 +191757,7 @@
 
       ]
     },
-    "/Users/ykulkarni/sprints/sprint33/template-twilio-ruby/lib/twilio-ruby/rest/video.rb": {
+    "lib/twilio-ruby/rest/video.rb": {
       "lines": [
         1,
         1,
@@ -191823,7 +191823,7 @@
 
       ]
     },
-    "/Users/ykulkarni/sprints/sprint33/template-twilio-ruby/lib/twilio-ruby/rest/video/v1.rb": {
+    "lib/twilio-ruby/rest/video/v1.rb": {
       "lines": [
         null,
         null,
@@ -192031,7 +192031,7 @@
         }
       ]
     },
-    "/Users/ykulkarni/sprints/sprint33/template-twilio-ruby/lib/twilio-ruby/rest/video/v1/composition.rb": {
+    "lib/twilio-ruby/rest/video/v1/composition.rb": {
       "lines": [
         null,
         null,
@@ -192560,7 +192560,7 @@
         }
       ]
     },
-    "/Users/ykulkarni/sprints/sprint33/template-twilio-ruby/lib/twilio-ruby/rest/video/v1/composition_hook.rb": {
+    "lib/twilio-ruby/rest/video/v1/composition_hook.rb": {
       "lines": [
         null,
         null,
@@ -193113,7 +193113,7 @@
         }
       ]
     },
-    "/Users/ykulkarni/sprints/sprint33/template-twilio-ruby/lib/twilio-ruby/rest/video/v1/composition_settings.rb": {
+    "lib/twilio-ruby/rest/video/v1/composition_settings.rb": {
       "lines": [
         null,
         null,
@@ -193420,7 +193420,7 @@
         }
       ]
     },
-    "/Users/ykulkarni/sprints/sprint33/template-twilio-ruby/lib/twilio-ruby/rest/video/v1/recording.rb": {
+    "lib/twilio-ruby/rest/video/v1/recording.rb": {
       "lines": [
         null,
         null,
@@ -193886,7 +193886,7 @@
         }
       ]
     },
-    "/Users/ykulkarni/sprints/sprint33/template-twilio-ruby/lib/twilio-ruby/rest/video/v1/recording_settings.rb": {
+    "lib/twilio-ruby/rest/video/v1/recording_settings.rb": {
       "lines": [
         null,
         null,
@@ -194193,7 +194193,7 @@
         }
       ]
     },
-    "/Users/ykulkarni/sprints/sprint33/template-twilio-ruby/lib/twilio-ruby/rest/video/v1/room.rb": {
+    "lib/twilio-ruby/rest/video/v1/room.rb": {
       "lines": [
         null,
         null,
@@ -194983,7 +194983,7 @@
         }
       ]
     },
-    "/Users/ykulkarni/sprints/sprint33/template-twilio-ruby/lib/twilio-ruby/rest/video/v1/room/participant.rb": {
+    "lib/twilio-ruby/rest/video/v1/room/participant.rb": {
       "lines": [
         null,
         null,
@@ -195595,7 +195595,7 @@
         }
       ]
     },
-    "/Users/ykulkarni/sprints/sprint33/template-twilio-ruby/lib/twilio-ruby/rest/video/v1/room/participant/anonymize.rb": {
+    "lib/twilio-ruby/rest/video/v1/room/participant/anonymize.rb": {
       "lines": [
         null,
         null,
@@ -195884,7 +195884,7 @@
         }
       ]
     },
-    "/Users/ykulkarni/sprints/sprint33/template-twilio-ruby/lib/twilio-ruby/rest/video/v1/room/participant/published_track.rb": {
+    "lib/twilio-ruby/rest/video/v1/room/participant/published_track.rb": {
       "lines": [
         null,
         null,
@@ -196233,7 +196233,7 @@
         }
       ]
     },
-    "/Users/ykulkarni/sprints/sprint33/template-twilio-ruby/lib/twilio-ruby/rest/video/v1/room/participant/subscribe_rules.rb": {
+    "lib/twilio-ruby/rest/video/v1/room/participant/subscribe_rules.rb": {
       "lines": [
         null,
         null,
@@ -196421,7 +196421,7 @@
 
       ]
     },
-    "/Users/ykulkarni/sprints/sprint33/template-twilio-ruby/lib/twilio-ruby/rest/video/v1/room/participant/subscribed_track.rb": {
+    "lib/twilio-ruby/rest/video/v1/room/participant/subscribed_track.rb": {
       "lines": [
         null,
         null,
@@ -196777,7 +196777,7 @@
         }
       ]
     },
-    "/Users/ykulkarni/sprints/sprint33/template-twilio-ruby/lib/twilio-ruby/rest/video/v1/room/recording_rules.rb": {
+    "lib/twilio-ruby/rest/video/v1/room/recording_rules.rb": {
       "lines": [
         null,
         null,
@@ -196954,7 +196954,7 @@
 
       ]
     },
-    "/Users/ykulkarni/sprints/sprint33/template-twilio-ruby/lib/twilio-ruby/rest/video/v1/room/room_recording.rb": {
+    "lib/twilio-ruby/rest/video/v1/room/room_recording.rb": {
       "lines": [
         null,
         null,
@@ -197407,7 +197407,7 @@
         }
       ]
     },
-    "/Users/ykulkarni/sprints/sprint33/template-twilio-ruby/lib/twilio-ruby/rest/video_base.rb": {
+    "lib/twilio-ruby/rest/video_base.rb": {
       "lines": [
         null,
         null,
@@ -197452,7 +197452,7 @@
 
       ]
     },
-    "/Users/ykulkarni/sprints/sprint33/template-twilio-ruby/lib/twilio-ruby/rest/voice.rb": {
+    "lib/twilio-ruby/rest/voice.rb": {
       "lines": [
         1,
         1,
@@ -197520,7 +197520,7 @@
 
       ]
     },
-    "/Users/ykulkarni/sprints/sprint33/template-twilio-ruby/lib/twilio-ruby/rest/voice/v1.rb": {
+    "lib/twilio-ruby/rest/voice/v1.rb": {
       "lines": [
         null,
         null,
@@ -197831,7 +197831,7 @@
         }
       ]
     },
-    "/Users/ykulkarni/sprints/sprint33/template-twilio-ruby/lib/twilio-ruby/rest/voice/v1/archived_call.rb": {
+    "lib/twilio-ruby/rest/voice/v1/archived_call.rb": {
       "lines": [
         null,
         null,
@@ -198017,7 +198017,7 @@
         }
       ]
     },
-    "/Users/ykulkarni/sprints/sprint33/template-twilio-ruby/lib/twilio-ruby/rest/voice/v1/byoc_trunk.rb": {
+    "lib/twilio-ruby/rest/voice/v1/byoc_trunk.rb": {
       "lines": [
         null,
         null,
@@ -198546,7 +198546,7 @@
         }
       ]
     },
-    "/Users/ykulkarni/sprints/sprint33/template-twilio-ruby/lib/twilio-ruby/rest/voice/v1/connection_policy.rb": {
+    "lib/twilio-ruby/rest/voice/v1/connection_policy.rb": {
       "lines": [
         null,
         null,
@@ -199001,7 +199001,7 @@
         }
       ]
     },
-    "/Users/ykulkarni/sprints/sprint33/template-twilio-ruby/lib/twilio-ruby/rest/voice/v1/connection_policy/connection_policy_target.rb": {
+    "lib/twilio-ruby/rest/voice/v1/connection_policy/connection_policy_target.rb": {
       "lines": [
         null,
         null,
@@ -199490,7 +199490,7 @@
         }
       ]
     },
-    "/Users/ykulkarni/sprints/sprint33/template-twilio-ruby/lib/twilio-ruby/rest/voice/v1/dialing_permissions.rb": {
+    "lib/twilio-ruby/rest/voice/v1/dialing_permissions.rb": {
       "lines": [
         null,
         null,
@@ -199650,7 +199650,7 @@
         }
       ]
     },
-    "/Users/ykulkarni/sprints/sprint33/template-twilio-ruby/lib/twilio-ruby/rest/voice/v1/dialing_permissions/bulk_country_update.rb": {
+    "lib/twilio-ruby/rest/voice/v1/dialing_permissions/bulk_country_update.rb": {
       "lines": [
         null,
         null,
@@ -199810,7 +199810,7 @@
         }
       ]
     },
-    "/Users/ykulkarni/sprints/sprint33/template-twilio-ruby/lib/twilio-ruby/rest/voice/v1/dialing_permissions/country.rb": {
+    "lib/twilio-ruby/rest/voice/v1/dialing_permissions/country.rb": {
       "lines": [
         null,
         null,
@@ -200222,7 +200222,7 @@
         }
       ]
     },
-    "/Users/ykulkarni/sprints/sprint33/template-twilio-ruby/lib/twilio-ruby/rest/voice/v1/dialing_permissions/country/highrisk_special_prefix.rb": {
+    "lib/twilio-ruby/rest/voice/v1/dialing_permissions/country/highrisk_special_prefix.rb": {
       "lines": [
         null,
         null,
@@ -200431,7 +200431,7 @@
 
       ]
     },
-    "/Users/ykulkarni/sprints/sprint33/template-twilio-ruby/lib/twilio-ruby/rest/voice/v1/dialing_permissions/settings.rb": {
+    "lib/twilio-ruby/rest/voice/v1/dialing_permissions/settings.rb": {
       "lines": [
         null,
         null,
@@ -200673,7 +200673,7 @@
         }
       ]
     },
-    "/Users/ykulkarni/sprints/sprint33/template-twilio-ruby/lib/twilio-ruby/rest/voice/v1/ip_record.rb": {
+    "lib/twilio-ruby/rest/voice/v1/ip_record.rb": {
       "lines": [
         null,
         null,
@@ -201090,7 +201090,7 @@
         }
       ]
     },
-    "/Users/ykulkarni/sprints/sprint33/template-twilio-ruby/lib/twilio-ruby/rest/voice/v1/source_ip_mapping.rb": {
+    "lib/twilio-ruby/rest/voice/v1/source_ip_mapping.rb": {
       "lines": [
         null,
         null,
@@ -201478,7 +201478,7 @@
         }
       ]
     },
-    "/Users/ykulkarni/sprints/sprint33/template-twilio-ruby/lib/twilio-ruby/rest/voice_base.rb": {
+    "lib/twilio-ruby/rest/voice_base.rb": {
       "lines": [
         null,
         null,
@@ -201523,7 +201523,7 @@
 
       ]
     },
-    "/Users/ykulkarni/sprints/sprint33/template-twilio-ruby/lib/twilio-ruby/rest/wireless.rb": {
+    "lib/twilio-ruby/rest/wireless.rb": {
       "lines": [
         1,
         1,
@@ -201572,7 +201572,7 @@
 
       ]
     },
-    "/Users/ykulkarni/sprints/sprint33/template-twilio-ruby/lib/twilio-ruby/rest/wireless/v1.rb": {
+    "lib/twilio-ruby/rest/wireless/v1.rb": {
       "lines": [
         null,
         null,
@@ -201735,7 +201735,7 @@
         }
       ]
     },
-    "/Users/ykulkarni/sprints/sprint33/template-twilio-ruby/lib/twilio-ruby/rest/wireless/v1/command.rb": {
+    "lib/twilio-ruby/rest/wireless/v1/command.rb": {
       "lines": [
         null,
         null,
@@ -202171,7 +202171,7 @@
         }
       ]
     },
-    "/Users/ykulkarni/sprints/sprint33/template-twilio-ruby/lib/twilio-ruby/rest/wireless/v1/rate_plan.rb": {
+    "lib/twilio-ruby/rest/wireless/v1/rate_plan.rb": {
       "lines": [
         null,
         null,
@@ -202698,7 +202698,7 @@
         }
       ]
     },
-    "/Users/ykulkarni/sprints/sprint33/template-twilio-ruby/lib/twilio-ruby/rest/wireless/v1/sim.rb": {
+    "lib/twilio-ruby/rest/wireless/v1/sim.rb": {
       "lines": [
         null,
         null,
@@ -203384,7 +203384,7 @@
         }
       ]
     },
-    "/Users/ykulkarni/sprints/sprint33/template-twilio-ruby/lib/twilio-ruby/rest/wireless/v1/sim/data_session.rb": {
+    "lib/twilio-ruby/rest/wireless/v1/sim/data_session.rb": {
       "lines": [
         null,
         null,
@@ -203719,7 +203719,7 @@
         }
       ]
     },
-    "/Users/ykulkarni/sprints/sprint33/template-twilio-ruby/lib/twilio-ruby/rest/wireless/v1/sim/usage_record.rb": {
+    "lib/twilio-ruby/rest/wireless/v1/sim/usage_record.rb": {
       "lines": [
         null,
         null,
@@ -203972,7 +203972,7 @@
 
       ]
     },
-    "/Users/ykulkarni/sprints/sprint33/template-twilio-ruby/lib/twilio-ruby/rest/wireless/v1/usage_record.rb": {
+    "lib/twilio-ruby/rest/wireless/v1/usage_record.rb": {
       "lines": [
         null,
         null,
@@ -204213,7 +204213,7 @@
 
       ]
     },
-    "/Users/ykulkarni/sprints/sprint33/template-twilio-ruby/lib/twilio-ruby/rest/wireless_base.rb": {
+    "lib/twilio-ruby/rest/wireless_base.rb": {
       "lines": [
         null,
         null,
@@ -204258,7 +204258,7 @@
 
       ]
     },
-    "/Users/ykulkarni/sprints/sprint33/template-twilio-ruby/lib/twilio-ruby/security/request_validator.rb": {
+    "lib/twilio-ruby/security/request_validator.rb": {
       "lines": [
         null,
         null,
@@ -204534,7 +204534,7 @@
         }
       ]
     },
-    "/Users/ykulkarni/sprints/sprint33/template-twilio-ruby/lib/twilio-ruby/twiml/messaging_response.rb": {
+    "lib/twilio-ruby/twiml/messaging_response.rb": {
       "lines": [
         null,
         null,
@@ -204731,7 +204731,7 @@
         }
       ]
     },
-    "/Users/ykulkarni/sprints/sprint33/template-twilio-ruby/lib/twilio-ruby/twiml/twiml.rb": {
+    "lib/twilio-ruby/twiml/twiml.rb": {
       "lines": [
         1,
         null,
@@ -204947,7 +204947,7 @@
         }
       ]
     },
-    "/Users/ykulkarni/sprints/sprint33/template-twilio-ruby/lib/twilio-ruby/twiml/voice_response.rb": {
+    "lib/twilio-ruby/twiml/voice_response.rb": {
       "lines": [
         null,
         null,
@@ -208309,7 +208309,7 @@
         }
       ]
     },
-    "/Users/ykulkarni/sprints/sprint33/template-twilio-ruby/lib/twilio-ruby/util.rb": {
+    "lib/twilio-ruby/util.rb": {
       "lines": [
         null,
         null,
@@ -208346,7 +208346,7 @@
         }
       ]
     },
-    "/Users/ykulkarni/sprints/sprint33/template-twilio-ruby/lib/twilio-ruby/util/configuration.rb": {
+    "lib/twilio-ruby/util/configuration.rb": {
       "lines": [
         null,
         null,
@@ -208386,7 +208386,7 @@
 
       ]
     },
-    "/Users/ykulkarni/sprints/sprint33/template-twilio-ruby/spec/framework/serialize_spec.rb": {
+    "spec/framework/serialize_spec.rb": {
       "lines": [
         1,
         null,
@@ -208473,7 +208473,7 @@
 
       ]
     },
-    "/Users/ykulkarni/sprints/sprint33/template-twilio-ruby/spec/framework/version_spec.rb": {
+    "spec/framework/version_spec.rb": {
       "lines": [
         1,
         null,
@@ -208699,7 +208699,7 @@
 
       ]
     },
-    "/Users/ykulkarni/sprints/sprint33/template-twilio-ruby/spec/holodeck/holodeck.rb": {
+    "spec/holodeck/holodeck.rb": {
       "lines": [
         1,
         null,
@@ -208795,7 +208795,7 @@
         }
       ]
     },
-    "/Users/ykulkarni/sprints/sprint33/template-twilio-ruby/spec/holodeck/hologram.rb": {
+    "spec/holodeck/hologram.rb": {
       "lines": [
         1,
         null,
@@ -208806,7 +208806,7 @@
 
       ]
     },
-    "/Users/ykulkarni/sprints/sprint33/template-twilio-ruby/spec/http/http_client_spec.rb": {
+    "spec/http/http_client_spec.rb": {
       "lines": [
         1,
         1,
@@ -208982,7 +208982,7 @@
 
       ]
     },
-    "/Users/ykulkarni/sprints/sprint33/template-twilio-ruby/spec/jwt/access_token_spec.rb": {
+    "spec/jwt/access_token_spec.rb": {
       "lines": [
         1,
         null,
@@ -209134,7 +209134,7 @@
 
       ]
     },
-    "/Users/ykulkarni/sprints/sprint33/template-twilio-ruby/spec/jwt/client_capability_spec.rb": {
+    "spec/jwt/client_capability_spec.rb": {
       "lines": [
         1,
         null,
@@ -209245,7 +209245,7 @@
 
       ]
     },
-    "/Users/ykulkarni/sprints/sprint33/template-twilio-ruby/spec/jwt/task_router_spec.rb": {
+    "spec/jwt/task_router_spec.rb": {
       "lines": [
         1,
         null,
@@ -209424,7 +209424,7 @@
 
       ]
     },
-    "/Users/ykulkarni/sprints/sprint33/template-twilio-ruby/spec/rack/twilio_webhook_authentication_spec.rb": {
+    "spec/rack/twilio_webhook_authentication_spec.rb": {
       "lines": [
         1,
         1,
@@ -209626,7 +209626,7 @@
 
       ]
     },
-    "/Users/ykulkarni/sprints/sprint33/template-twilio-ruby/spec/rest/client_spec.rb": {
+    "spec/rest/client_spec.rb": {
       "lines": [
         1,
         1,
@@ -209874,7 +209874,7 @@
 
       ]
     },
-    "/Users/ykulkarni/sprints/sprint33/template-twilio-ruby/spec/security/request_validator_spec.rb": {
+    "spec/security/request_validator_spec.rb": {
       "lines": [
         1,
         null,
@@ -210011,7 +210011,7 @@
 
       ]
     },
-    "/Users/ykulkarni/sprints/sprint33/template-twilio-ruby/spec/support/fakeweb.rb": {
+    "spec/support/fakeweb.rb": {
       "lines": [
         1,
         1
@@ -210020,7 +210020,7 @@
 
       ]
     },
-    "/Users/ykulkarni/sprints/sprint33/template-twilio-ruby/spec/twilio_spec.rb": {
+    "spec/twilio_spec.rb": {
       "lines": [
         1,
         1,
@@ -210044,7 +210044,7 @@
 
       ]
     },
-    "/Users/ykulkarni/sprints/sprint33/template-twilio-ruby/spec/twiml/messaging_response_spec.rb": {
+    "spec/twiml/messaging_response_spec.rb": {
       "lines": [
         1,
         null,
@@ -210286,7 +210286,7 @@
 
       ]
     },
-    "/Users/ykulkarni/sprints/sprint33/template-twilio-ruby/spec/twiml/voice_response_spec.rb": {
+    "spec/twiml/voice_response_spec.rb": {
       "lines": [
         1,
         null,
@@ -211140,7 +211140,7 @@
 
       ]
     },
-    "/Users/ykulkarni/sprints/sprint33/template-twilio-ruby/spec/util/configuration_spec.rb": {
+    "spec/util/configuration_spec.rb": {
       "lines": [
         1,
         null,
@@ -211180,7 +211180,7 @@
 
       ]
     },
-    "/Users/ykulkarni/sprints/sprint33/template-twilio-ruby/spec/util/url_encode_spec.rb": {
+    "spec/util/url_encode_spec.rb": {
       "lines": [
         1,
         null,
