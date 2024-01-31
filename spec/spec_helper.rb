@@ -1,19 +1,19 @@
+# require 'simplecov'
+# require 'simplecov-json'
+# SimpleCov.formatters = [
+#   SimpleCov::Formatter::HTMLFormatter,
+#   SimpleCov::Formatter::JSONFormatter,
+# ]
+# SimpleCov.start 
+
+# if RUBY_VERSION.start_with?('3.0')
 require 'simplecov'
 require 'simplecov-json'
-SimpleCov.formatters = [
-  SimpleCov::Formatter::HTMLFormatter,
-  SimpleCov::Formatter::JSONFormatter,
-]
-SimpleCov.start 
-
-if RUBY_VERSION.start_with?('3.0')
-  require 'simplecov'
-  require 'simplecov_json_formatter'
-  SimpleCov.formatter = SimpleCov::Formatter::JSONFormatter
-  SimpleCov.start do
-    enable_coverage :branch
-  end 
-end
+SimpleCov.formatter = SimpleCov::Formatter::JSONFormatter
+SimpleCov.start do
+  enable_coverage :branch
+end 
+# end
 
 $LOAD_PATH.unshift(File.join(File.dirname(__FILE__), '..', 'lib'))
 
